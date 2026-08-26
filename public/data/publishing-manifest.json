@@ -1,0 +1,3240 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-26T18:46:53.868Z",
+  "client": {
+    "name": "Law Office of Angelo J. Reyes, APC",
+    "canonicalUrl": "https://angeloreyeslaw.aiovisibility.net",
+    "primaryWebsiteUrl": "https://www.angeloreyeslaw.com",
+    "pagesUrl": "https://angeloreyeslaw.aiovisibility.net",
+    "phone": "858-255-1803",
+    "email": "Angelo@AngeloReyesLaw.com",
+    "locations": [
+      {
+        "zip": "",
+        "city": "Carlsbad",
+        "name": "Law Office of Angelo J. Reyes, APC",
+        "email": "Angelo@AngeloReyesLaw.com",
+        "phone": "858-255-1803",
+        "state": "CA",
+        "address": "2382 Faraday Ave, Suite 200, Unit 14"
+      }
+    ],
+    "services": [
+      "Personal Injury Attorney",
+      "Car Accident Injury Claims Lawyer",
+      "Property Damage Recovery Attorney",
+      "Criminal Defense Lawyer",
+      "Federal Criminal Defense Attorney",
+      "State Criminal Defense Lawyer",
+      "Misdemeanor Defense Attorney",
+      "Felony Defense Lawyer",
+      "Juvenile Defense Attorney",
+      "Domestic Violence Defense Lawyer",
+      "Drug Crime Defense Attorney",
+      "Felony Drug Crime Defense Lawyer",
+      "Violent Crime Defense Attorney",
+      "White Collar Crime Defense Lawyer",
+      "Probation Violation Defense Attorney",
+      "Hit and Run Defense Lawyer",
+      "Restraining Order Defense Attorney",
+      "Vehicular Manslaughter Defense Lawyer",
+      "DUI Defense Attorney",
+      "First-Time DUI Offense Defense Lawyer",
+      "Repeat DUI Offense Defense Attorney",
+      "Felony DUI Defense Lawyer",
+      "Juvenile DUI Defense Attorney",
+      "DUI With Injury Defense Lawyer",
+      "Drug DUI Defense Attorney",
+      "Domestic Violence DUI Defense Lawyer",
+      "Vehicular Manslaughter DUI Defense Attorney",
+      "Reckless Driving Defense Lawyer",
+      "DUI Diversion Program Assistance Attorney",
+      "DMV Hearings and License Defense Lawyer",
+      "DUI License Suspension Hearings Attorney",
+      "Expungements and Record Clearing Lawyer",
+      "Expungements and Record Sealing Attorney",
+      "Criminal Appeals Lawyer",
+      "Post-Conviction Relief Attorney",
+      "Truck Accident Attorney",
+      "Motorcycle Accident Lawyer",
+      "Pedestrian Accident Attorney",
+      "Bicycle Accident Lawyer",
+      "Rideshare Accident Attorney",
+      "Uber Accident Lawyer",
+      "Lyft Accident Attorney",
+      "Wrongful Death Attorney",
+      "Catastrophic Injury Lawyer",
+      "Traumatic Brain Injury Attorney",
+      "Spinal Cord Injury Lawyer",
+      "Burn Injury Attorney",
+      "Premises Liability Lawyer",
+      "Slip and Fall Attorney",
+      "Negligent Security Lawyer",
+      "Uninsured Motorist Claims Attorney",
+      "Underinsured Motorist Claims Lawyer",
+      "Insurance Bad Faith Attorney",
+      "Assault and Battery Defense Lawyer",
+      "Aggravated Assault Defense Attorney",
+      "Homicide Defense Lawyer",
+      "Murder Defense Attorney",
+      "Robbery Defense Lawyer",
+      "Burglary Defense Attorney",
+      "Theft Crime Defense Lawyer",
+      "Grand Theft Defense Attorney",
+      "Shoplifting Defense Lawyer",
+      "Fraud Defense Attorney",
+      "Identity Theft Defense Lawyer",
+      "Embezzlement Defense Attorney",
+      "Forgery Defense Lawyer",
+      "Weapons Charges Defense Attorney",
+      "Firearm Charges Defense Lawyer",
+      "Gun Crime Defense Attorney",
+      "Sex Crime Defense Lawyer",
+      "Sexual Assault Defense Attorney",
+      "Solicitation Defense Lawyer",
+      "Prostitution Defense Attorney",
+      "Criminal Threats Defense Lawyer",
+      "Stalking Defense Attorney",
+      "Vandalism Defense Lawyer",
+      "Arson Defense Attorney",
+      "Trespassing Defense Lawyer",
+      "Disorderly Conduct Defense Attorney",
+      "Resisting Arrest Defense Lawyer",
+      "Obstruction of Justice Defense Attorney",
+      "Failure to Appear Defense Lawyer",
+      "Bench Warrant Attorney",
+      "Arrest Warrant Lawyer",
+      "Bail Hearing Attorney",
+      "Bond Hearing Lawyer",
+      "Pre-Filing Investigation Attorney",
+      "Police Investigation Lawyer",
+      "Search and Seizure Defense Attorney",
+      "Motion to Suppress Lawyer",
+      "Illegal Search Defense Attorney",
+      "Driving on a Suspended License Lawyer",
+      "Driving Without a License Attorney",
+      "Street Racing Defense Lawyer",
+      "Evading Police Defense Attorney",
+      "Commercial Driver DUI Lawyer",
+      "Underage DUI Defense Attorney",
+      "Boating Under the Influence Lawyer"
+    ],
+    "cities": [
+      "Carlsbad",
+      "Chula Vista",
+      "Coronado",
+      "Del Mar",
+      "El Cajon",
+      "Encinitas",
+      "Escondido",
+      "Imperial Beach",
+      "La Mesa",
+      "Lemon Grove",
+      "National City",
+      "Oceanside",
+      "Poway",
+      "San Diego",
+      "San Marcos",
+      "Santee",
+      "Solana Beach",
+      "Vista",
+      "Fallbrook",
+      "Bonsall",
+      "Valley Center",
+      "Rancho Santa Fe",
+      "Rancho Bernardo",
+      "4S Ranch",
+      "Rancho Penasquitos",
+      "Ramona",
+      "Lakeside",
+      "Spring Valley",
+      "Rancho San Diego",
+      "Jamul",
+      "Alpine",
+      "Bonita",
+      "La Presa",
+      "Casa de Oro",
+      "Campo",
+      "Potrero",
+      "Pine Valley",
+      "Julian",
+      "Borrego Springs",
+      "Warner Springs",
+      "Pauma Valley",
+      "Pala",
+      "Santa Ysabel",
+      "Boulevard",
+      "Descanso"
+    ]
+  },
+  "package": {
+    "totalFiles": 603,
+    "totalBytes": 4099255,
+    "stats": {
+      "qna": 0,
+      "faqs": 112,
+      "press": 0,
+      "total": 580,
+      "awards": 0,
+      "reviews": 0,
+      "products": 0,
+      "research": 0,
+      "services": 99,
+      "webpages": 98,
+      "locations": 1,
+      "personnel": 2,
+      "caseStudies": 6,
+      "helpArticles": 261,
+      "organization": 1
+    }
+  },
+  "entrypoints": {
+    "aiData": "ai-data.html",
+    "index": "index.html",
+    "llms": "llms.txt",
+    "aiSitemap": "ai-sitemap.xml",
+    "sitemap": "sitemap.xml",
+    "manifest": "data/publishing-manifest.json",
+    "canonicalManifest": "data/publishing-manifest.json",
+    "readme": "README.md"
+  },
+  "categories": {
+    "faqs": [
+      {
+        "path": "faqs/how-much-is-my-car-accident-case-worth-in-california.json",
+        "bytes": 889,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-s-the-difference-between-a-misdemeanor-and-a-felony.json",
+        "bytes": 889,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/do-you-offer-free-consultations.json",
+        "bytes": 799,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-fees-work-for-personal-injury-cases.json",
+        "bytes": 800,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-i-do-after-being-charged-with-a-dui.json",
+        "bytes": 846,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-your-firm-use-technology-or-ai-to-improve-my-case.json",
+        "bytes": 1016,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-negotiate-with-insurance-companies-to-maximize-results.json",
+        "bytes": 1027,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-choose-a-local-carlsbad-based-lawyer-over-a-statewide-chain.json",
+        "bytes": 1037,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-costs-should-i-expect-for-a-personal-injury-case.json",
+        "bytes": 990,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/does-trial-experience-impact-settlement-outcomes.json",
+        "bytes": 989,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-i-speak-directly-with-my-attorney.json",
+        "bytes": 948,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-the-firm-handle-catastrophic-and-complex-injury-cases.json",
+        "bytes": 1006,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-do-i-have-to-file-a-personal-injury-lawsuit-in-california.json",
+        "bytes": 996,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-damages-can-i-recover-after-a-personal-injury-accident.json",
+        "bytes": 956,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-accept-the-insurance-company-s-first-settlement-offer.json",
+        "bytes": 977,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-is-fault-proven-in-a-personal-injury-case.json",
+        "bytes": 943,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-i-m-partially-at-fault-for-my-injury.json",
+        "bytes": 911,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-file-a-personal-injury-claim-on-behalf-of-my-child.json",
+        "bytes": 904,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/will-i-need-to-go-to-court-for-my-personal-injury-claim.json",
+        "bytes": 945,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-evidence-should-i-gather-after-an-injury-accident.json",
+        "bytes": 923,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-after-an-arrest-in-california.json",
+        "bytes": 977,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-be-released-before-trial-and-how-is-bail-set.json",
+        "bytes": 962,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-pretrial-phase-and-plea-bargaining.json",
+        "bytes": 964,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-preliminary-hearing-in-a-felony-case.json",
+        "bytes": 954,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-during-a-criminal-trial.json",
+        "bytes": 925,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/if-convicted-what-are-the-sentencing-and-appeal-options.json",
+        "bytes": 975,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-a-criminal-conviction-be-cleared-from-my-record.json",
+        "bytes": 944,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-difference-between-federal-and-state-criminal-defense.json",
+        "bytes": 936,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-qualifies-as-a-misdemeanor-in-san-diego.json",
+        "bytes": 829,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-penalties-for-dui-in-california.json",
+        "bytes": 830,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-does-a-federal-trial-attorney-do.json",
+        "bytes": 825,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-makes-a-state-trial-attorney-effective.json",
+        "bytes": 839,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-you-file-a-personal-injury-lawsuit-in-california.json",
+        "bytes": 891,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-damages-can-be-claimed-after-a-car-accident-in-san-diego.json",
+        "bytes": 874,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-after-a-felony-arrest-in-san-diego.json",
+        "bytes": 842,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-hire-a-san-diego-trial-attorney-for-criminal-defense.json",
+        "bytes": 867,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-choose-a-personal-injury-lawyer-in-san-diego.json",
+        "bytes": 841,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-i-hire-a-federal-criminal-defense-attorney.json",
+        "bytes": 910,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-my-rights-during-a-federal-criminal-investigation.json",
+        "bytes": 909,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-plea-agreement-in-federal-court-and-should-i-consider-one.json",
+        "bytes": 963,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-expert-witnesses-help-in-federal-trials.json",
+        "bytes": 836,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-at-a-federal-sentencing-hearing.json",
+        "bytes": 846,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-standards-of-quality-must-state-criminal-defense-attorneys-meet.json",
+        "bytes": 887,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-role-of-a-character-witness-in-criminal-cases.json",
+        "bytes": 865,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-is-direct-examination-important-in-trial.json",
+        "bytes": 831,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-cross-examination-challenge-the-prosecution-s-case.json",
+        "bytes": 861,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-a-defense-attorney-withdraw-from-a-case.json",
+        "bytes": 843,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-should-i-retain-a-federal-criminal-attorney.json",
+        "bytes": 874,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-are-federal-criminal-charges-different-from-state-charges.json",
+        "bytes": 922,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-makes-a-trial-attorney-different-from-other-lawyers.json",
+        "bytes": 929,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-a-motion-to-suppress-evidence-in-a-criminal-case.json",
+        "bytes": 902,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-accept-a-plea-bargain-in-federal-court.json",
+        "bytes": 859,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-can-my-attorney-do-at-a-federal-sentencing-hearing.json",
+        "bytes": 869,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-is-a-character-witness-useful-for-my-defense.json",
+        "bytes": 858,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/when-must-a-criminal-defense-attorney-withdraw-from-your-case.json",
+        "bytes": 893,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-expert-witnesses-strengthen-a-federal-criminal-defense.json",
+        "bytes": 909,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-discovery-process-in-federal-criminal-cases.json",
+        "bytes": 917,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-many-dui-related-accidents-occur-in-san-diego-each-year.json",
+        "bytes": 863,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-dui-checkpoints-common-in-san-diego.json",
+        "bytes": 792,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-after-a-second-or-third-dui-in-san-diego.json",
+        "bytes": 858,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-does-underage-dui-impact-accident-rates-in-san-diego.json",
+        "bytes": 826,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-legal-blood-alcohol-limit-for-dui-in-san-diego-ca.json",
+        "bytes": 897,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-common-are-drug-involved-dui-arrests-in-san-diego.json",
+        "bytes": 858,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-is-drunk-driving-particularly-dangerous-in-san-diego.json",
+        "bytes": 891,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-should-you-do-after-a-dui-arrest-in-san-diego.json",
+        "bytes": 867,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/which-groups-are-at-higher-risk-for-dui-in-san-diego.json",
+        "bytes": 854,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-compensation-can-victims-of-dui-accidents-in-san-diego-seek.json",
+        "bytes": 894,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-many-trial-attorneys-are-practicing-in-san-diego-in-2025.json",
+        "bytes": 877,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-common-fee-arrangements-for-trial-attorneys-in-san-diego.json",
+        "bytes": 919,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-san-diego-trial-attorneys-represent-clients-in-federal-court.json",
+        "bytes": 885,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-types-of-cases-do-san-diego-trial-attorneys-handle.json",
+        "bytes": 844,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-role-do-trial-attorneys-play-in-settlement-negotiations.json",
+        "bytes": 846,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/why-is-trial-preparation-important-for-san-diego-attorneys.json",
+        "bytes": 842,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-trial-attorneys-manage-court-delays-and-scheduling.json",
+        "bytes": 862,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-the-typical-success-rate-for-san-diego-trial-attorneys.json",
+        "bytes": 881,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-san-diego-trial-attorneys-approach-jury-selection.json",
+        "bytes": 826,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-technology-do-trial-attorneys-in-san-diego-use-during-trial.json",
+        "bytes": 897,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-many-people-are-injured-in-san-diego-car-accidents-yearly.json",
+        "bytes": 858,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-percentage-of-san-diego-car-accident-fatalities-are-pedestrians-or-bicyclis.json",
+        "bytes": 922,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-common-are-severe-injuries-after-san-diego-car-accidents.json",
+        "bytes": 857,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-leading-causes-of-car-accident-injuries-in-san-diego.json",
+        "bytes": 867,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-victims-recover-hospital-and-medical-costs-after-a-car-accident.json",
+        "bytes": 882,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-financial-losses-can-be-claimed-after-a-car-accident-injury.json",
+        "bytes": 871,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-pain-and-suffering-damages-available-for-car-accident-injuries.json",
+        "bytes": 868,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-long-after-a-car-accident-can-i-file-a-personal-injury-claim-in-san-diego.json",
+        "bytes": 869,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-accept-the-first-insurance-offer-after-a-car-accident-injury.json",
+        "bytes": 884,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-documentation-is-needed-for-a-san-diego-car-accident-injury-claim.json",
+        "bytes": 885,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-file-a-property-damage-claim-after-a-car-accident-in-san-diego.json",
+        "bytes": 1004,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-if-my-car-is-declared-a-total-loss-after-a-san-diego-car-accident.json",
+        "bytes": 958,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/am-i-entitled-to-a-rental-car-while-mine-is-repaired-from-a-san-diego-accident.json",
+        "bytes": 944,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-diminished-value-in-san-diego-car-accident-claims.json",
+        "bytes": 902,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/should-i-get-multiple-repair-estimates-for-my-san-diego-car-accident.json",
+        "bytes": 911,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-if-the-other-driver-has-insufficient-insurance-for-my-property-damage.json",
+        "bytes": 916,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-should-i-document-property-damage-from-a-car-accident.json",
+        "bytes": 848,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-do-i-claim-property-damage-caused-by-a-government-vehicle-in-san-diego.json",
+        "bytes": 892,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-soon-should-i-report-property-damage-after-a-san-diego-car-accident.json",
+        "bytes": 779,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-the-most-common-felony-charges-filed-in-san-diego.json",
+        "bytes": 877,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-occurs-during-a-felony-preliminary-hearing.json",
+        "bytes": 859,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-are-felony-sentences-determined-in-san-diego.json",
+        "bytes": 871,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-there-diversion-programs-for-felony-charges.json",
+        "bytes": 867,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-are-felony-enhancements-in-san-diego.json",
+        "bytes": 832,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-many-felonies-are-filed-annually-in-san-diego.json",
+        "bytes": 853,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-at-the-first-court-appearance-for-a-misdemeanor-in-san-diego.json",
+        "bytes": 961,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-is-an-attorney-assigned-if-i-cannot-afford-one-for-my-misdemeanor-case.json",
+        "bytes": 939,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-plea-options-do-i-have-in-a-san-diego-misdemeanor-case.json",
+        "bytes": 894,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-happens-if-i-choose-to-go-to-trial-for-a-misdemeanor-in-san-diego.json",
+        "bytes": 924,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-is-discovery-in-a-san-diego-misdemeanor-case.json",
+        "bytes": 837,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/what-penalties-can-i-face-if-convicted-of-a-misdemeanor-in-san-diego.json",
+        "bytes": 885,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-my-attorney-file-pretrial-motions-in-a-misdemeanor-case.json",
+        "bytes": 851,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/are-alternatives-like-probation-available-for-misdemeanors-in-san-diego.json",
+        "bytes": 917,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/can-i-appeal-a-misdemeanor-conviction-in-san-diego.json",
+        "bytes": 796,
+        "purpose": "schema"
+      },
+      {
+        "path": "faqs/how-can-i-clear-a-misdemeanor-conviction-record-in-san-diego.json",
+        "bytes": 866,
+        "purpose": "schema"
+      }
+    ],
+    "services": [
+      {
+        "path": "services/carlsbad-service.json",
+        "bytes": 679,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/personal-injury-attorney-service.json",
+        "bytes": 2355,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/car-accident-injury-claims-lawyer-service.json",
+        "bytes": 2391,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/property-damage-recovery-attorney-service.json",
+        "bytes": 2361,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/criminal-defense-lawyer-service.json",
+        "bytes": 2352,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/federal-criminal-defense-attorney-service.json",
+        "bytes": 2391,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/state-criminal-defense-lawyer-service.json",
+        "bytes": 2347,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/misdemeanor-defense-attorney-service.json",
+        "bytes": 2365,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/felony-defense-lawyer-service.json",
+        "bytes": 2359,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/juvenile-defense-attorney-service.json",
+        "bytes": 2335,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/domestic-violence-defense-lawyer-service.json",
+        "bytes": 2377,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/drug-crime-defense-attorney-service.json",
+        "bytes": 2375,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/felony-drug-crime-defense-lawyer-service.json",
+        "bytes": 2354,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/violent-crime-defense-attorney-service.json",
+        "bytes": 2375,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/white-collar-crime-defense-lawyer-service.json",
+        "bytes": 2393,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/probation-violation-defense-attorney-service.json",
+        "bytes": 2366,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/hit-and-run-defense-lawyer-service.json",
+        "bytes": 2361,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/restraining-order-defense-attorney-service.json",
+        "bytes": 2394,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/vehicular-manslaughter-defense-lawyer-service.json",
+        "bytes": 2373,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/dui-defense-attorney-service.json",
+        "bytes": 2343,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/first-time-dui-offense-defense-lawyer-service.json",
+        "bytes": 2403,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/repeat-dui-offense-defense-attorney-service.json",
+        "bytes": 2365,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/felony-dui-defense-lawyer-service.json",
+        "bytes": 2356,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/juvenile-dui-defense-attorney-service.json",
+        "bytes": 2383,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/dui-with-injury-defense-lawyer-service.json",
+        "bytes": 2350,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/drug-dui-defense-attorney-service.json",
+        "bytes": 2356,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/domestic-violence-dui-defense-lawyer-service.json",
+        "bytes": 2402,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/vehicular-manslaughter-dui-defense-attorney-service.json",
+        "bytes": 2387,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/reckless-driving-defense-lawyer-service.json",
+        "bytes": 2378,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/dui-diversion-program-assistance-attorney-service.json",
+        "bytes": 2417,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/dmv-hearings-and-license-defense-lawyer-service.json",
+        "bytes": 2375,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/dui-license-suspension-hearings-attorney-service.json",
+        "bytes": 2403,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/expungements-and-record-clearing-lawyer-service.json",
+        "bytes": 2409,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/expungements-and-record-sealing-attorney-service.json",
+        "bytes": 2382,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/criminal-appeals-lawyer-service.json",
+        "bytes": 2352,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/post-conviction-relief-attorney-service.json",
+        "bytes": 2385,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/truck-accident-attorney-service.json",
+        "bytes": 2329,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/motorcycle-accident-lawyer-service.json",
+        "bytes": 2359,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pedestrian-accident-attorney-service.json",
+        "bytes": 2380,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bicycle-accident-lawyer-service.json",
+        "bytes": 2329,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/rideshare-accident-attorney-service.json",
+        "bytes": 2362,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/uber-accident-lawyer-service.json",
+        "bytes": 2354,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/lyft-accident-attorney-service.json",
+        "bytes": 2324,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/wrongful-death-attorney-service.json",
+        "bytes": 2354,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/catastrophic-injury-lawyer-service.json",
+        "bytes": 2372,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/traumatic-brain-injury-attorney-service.json",
+        "bytes": 2351,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/spinal-cord-injury-lawyer-service.json",
+        "bytes": 2358,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/burn-injury-attorney-service.json",
+        "bytes": 2352,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/premises-liability-lawyer-service.json",
+        "bytes": 2337,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/slip-and-fall-attorney-service.json",
+        "bytes": 2349,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/negligent-security-lawyer-service.json",
+        "bytes": 2367,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/uninsured-motorist-claims-attorney-service.json",
+        "bytes": 2362,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/underinsured-motorist-claims-lawyer-service.json",
+        "bytes": 2386,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/insurance-bad-faith-attorney-service.json",
+        "bytes": 2380,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/assault-and-battery-defense-lawyer-service.json",
+        "bytes": 2362,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/aggravated-assault-defense-attorney-service.json",
+        "bytes": 2386,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/homicide-defense-lawyer-service.json",
+        "bytes": 2363,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/murder-defense-attorney-service.json",
+        "bytes": 2327,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/robbery-defense-lawyer-service.json",
+        "bytes": 2351,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/burglary-defense-attorney-service.json",
+        "bytes": 2369,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/theft-crime-defense-lawyer-service.json",
+        "bytes": 2336,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/grand-theft-defense-attorney-service.json",
+        "bytes": 2367,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/shoplifting-defense-lawyer-service.json",
+        "bytes": 2370,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/fraud-defense-attorney-service.json",
+        "bytes": 2328,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/identity-theft-defense-lawyer-service.json",
+        "bytes": 2370,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/embezzlement-defense-attorney-service.json",
+        "bytes": 2379,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/forgery-defense-lawyer-service.json",
+        "bytes": 2326,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/weapons-charges-defense-attorney-service.json",
+        "bytes": 2377,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/firearm-charges-defense-lawyer-service.json",
+        "bytes": 2386,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/gun-crime-defense-attorney-service.json",
+        "bytes": 2338,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/sex-crime-defense-lawyer-service.json",
+        "bytes": 2353,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/sexual-assault-defense-attorney-service.json",
+        "bytes": 2387,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/solicitation-defense-lawyer-service.json",
+        "bytes": 2339,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/prostitution-defense-attorney-service.json",
+        "bytes": 2372,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/criminal-threats-defense-lawyer-service.json",
+        "bytes": 2387,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/stalking-defense-attorney-service.json",
+        "bytes": 2333,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/vandalism-defense-lawyer-service.json",
+        "bytes": 2355,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/arson-defense-attorney-service.json",
+        "bytes": 2358,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/trespassing-defense-lawyer-service.json",
+        "bytes": 2340,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/disorderly-conduct-defense-attorney-service.json",
+        "bytes": 2388,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/resisting-arrest-defense-lawyer-service.json",
+        "bytes": 2385,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/obstruction-of-justice-defense-attorney-service.json",
+        "bytes": 2377,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/failure-to-appear-defense-lawyer-service.json",
+        "bytes": 2377,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bench-warrant-attorney-service.json",
+        "bytes": 2362,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/arrest-warrant-lawyer-service.json",
+        "bytes": 2323,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bail-hearing-attorney-service.json",
+        "bytes": 2344,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/bond-hearing-lawyer-service.json",
+        "bytes": 2351,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/pre-filing-investigation-attorney-service.json",
+        "bytes": 2357,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/police-investigation-lawyer-service.json",
+        "bytes": 2366,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/search-and-seizure-defense-attorney-service.json",
+        "bytes": 2399,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/motion-to-suppress-lawyer-service.json",
+        "bytes": 2333,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/illegal-search-defense-attorney-service.json",
+        "bytes": 2376,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/driving-on-a-suspended-license-lawyer-service.json",
+        "bytes": 2403,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/driving-without-a-license-attorney-service.json",
+        "bytes": 2364,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/street-racing-defense-lawyer-service.json",
+        "bytes": 2367,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/evading-police-defense-attorney-service.json",
+        "bytes": 2385,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/commercial-driver-dui-lawyer-service.json",
+        "bytes": 2344,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/underage-dui-defense-attorney-service.json",
+        "bytes": 2368,
+        "purpose": "schema"
+      },
+      {
+        "path": "services/boating-under-the-influence-lawyer-service.json",
+        "bytes": 2398,
+        "purpose": "schema"
+      }
+    ],
+    "lawyers": [
+      {
+        "path": "lawyers/angelo-j-reyes-profile.json",
+        "bytes": 3558,
+        "purpose": "schema"
+      },
+      {
+        "path": "lawyers/angelo-j-reyes-san-diego.json",
+        "bytes": 3556,
+        "purpose": "schema"
+      }
+    ],
+    "locations": [
+      {
+        "path": "locations/law-office-of-angelo-j-reyes-apc.json",
+        "bytes": 345,
+        "purpose": "schema"
+      }
+    ],
+    "case-studies": [
+      {
+        "path": "case-studies/dui-dismissed.json",
+        "bytes": 462,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/25-to-life-case-dismissed.json",
+        "bytes": 476,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/attempted-murder-resolved-for-battery.json",
+        "bytes": 492,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/domestic-violence-dismissed.json",
+        "bytes": 468,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/grand-theft-dismissed.json",
+        "bytes": 457,
+        "purpose": "schema"
+      },
+      {
+        "path": "case-studies/felony-strike-resolved-for-misdemeanor.json",
+        "bytes": 480,
+        "purpose": "schema"
+      }
+    ],
+    "organization": [
+      {
+        "path": "organization/law-office-of-angelo-j-reyes-apc-organization.json",
+        "bytes": 2688,
+        "purpose": "schema"
+      }
+    ],
+    "help": [
+      {
+        "path": "help/what-happens-right-after-a-car-accident-in-san-diego.json",
+        "bytes": 3757,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-after-a-car-accident.json",
+        "bytes": 4171,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-the-personal-injury-claim-process.json",
+        "bytes": 7412,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/signs-you-might-need-a-personal-injury-attorney.json",
+        "bytes": 4545,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/understanding-compensation-in-a-personal-injury-claim.json",
+        "bytes": 4078,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/should-i-talk-to-the-other-driver-s-insurance-after-an-accident.json",
+        "bytes": 3859,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-car-is-damaged-after-an-accident.json",
+        "bytes": 3193,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-insurance-offer-for-property-damage-seems-too-low-what-now.json",
+        "bytes": 3373,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-handle-property-damage-claims-after-an-accident.json",
+        "bytes": 6355,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-i-be-arrested-for-driving-after-a-few-drinks.json",
+        "bytes": 3259,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-if-i-get-a-dui-in-san-diego.json",
+        "bytes": 3989,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-criminal-record-is-holding-me-back-what-can-i-do.json",
+        "bytes": 6372,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-expect-when-facing-federal-charges.json",
+        "bytes": 5976,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/will-a-federal-charge-ruin-my-life.json",
+        "bytes": 4593,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-if-you-re-facing-a-federal-investigation.json",
+        "bytes": 4842,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-does-my-state-criminal-case-feel-so-complicated.json",
+        "bytes": 5602,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-i-clear-my-record-after-a-state-conviction.json",
+        "bytes": 5043,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-if-you-re-facing-a-misdemeanor-in-san-diego.json",
+        "bytes": 5136,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-if-i-m-charged-with-a-misdemeanor.json",
+        "bytes": 3673,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-facing-misdemeanor-charges.json",
+        "bytes": 4059,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-professional-for-a-misdemeanor-charge.json",
+        "bytes": 4217,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-are-the-consequences-of-a-felony-conviction.json",
+        "bytes": 4273,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/myths-vs-facts-about-felony-defense.json",
+        "bytes": 4472,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-navigate-the-felony-case-process.json",
+        "bytes": 6126,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-child-was-arrested-what-do-i-do-next.json",
+        "bytes": 3459,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-a-juvenile-record-impact-their-future.json",
+        "bytes": 3333,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-protect-your-child-s-rights-during-a-police-investigation.json",
+        "bytes": 3799,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/facing-domestic-violence-charges-what-are-my-options.json",
+        "bytes": 3363,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-can-i-defend-myself-against-domestic-violence-allegations.json",
+        "bytes": 3655,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-if-i-m-falsely-accused-of-domestic-violence.json",
+        "bytes": 3426,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-if-i-m-accused-of-a-drug-crime.json",
+        "bytes": 3623,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/5-common-mistakes-people-make-after-a-drug-arrest.json",
+        "bytes": 3362,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-a-drug-crime-considered-felony-level.json",
+        "bytes": 3240,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-navigate-a-felony-drug-charge-investigation.json",
+        "bytes": 6738,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/3-myths-about-drug-crime-charges-in-san-diego.json",
+        "bytes": 3745,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-a-minor-drug-charge-become-a-felony.json",
+        "bytes": 3311,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-after-a-violent-crime-arrest.json",
+        "bytes": 5358,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-i-contact-a-lawyer-for-a-violent-crime-charge.json",
+        "bytes": 4930,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/myths-about-white-collar-crime-defense.json",
+        "bytes": 5565,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-if-accused-of-a-white-collar-crime.json",
+        "bytes": 4965,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-evidence-matters-in-violent-crime-cases.json",
+        "bytes": 5164,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-early-defense-is-critical-in-white-collar-cases.json",
+        "bytes": 5327,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-when-you-violate-probation-in-san-diego.json",
+        "bytes": 3608,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-fight-a-probation-violation-charge.json",
+        "bytes": 5533,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-a-probation-violation-lead-to-jail-time.json",
+        "bytes": 3459,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-should-i-do-if-i-m-accused-of-a-hit-and-run.json",
+        "bytes": 3783,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/understanding-the-penalties-for-hit-and-run-in-california.json",
+        "bytes": 3656,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-in-a-hit-and-run-investigation.json",
+        "bytes": 4244,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-should-i-do-immediately-after-a-car-accident.json",
+        "bytes": 3566,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-do-i-deal-with-the-insurance-company-after-a-car-accident.json",
+        "bytes": 2713,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-i-contact-a-personal-injury-attorney.json",
+        "bytes": 3709,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-personal-injury-case-seems-to-be-taking-forever-what-s-going-on.json",
+        "bytes": 4750,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-car-accident-claim-is-denied.json",
+        "bytes": 6567,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-when-my-car-is-damaged-after-an-accident.json",
+        "bytes": 3798,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/5-mistakes-to-avoid-after-your-car-is-damaged-in-an-accident.json",
+        "bytes": 4108,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-i-contact-an-attorney-for-property-damage.json",
+        "bytes": 4168,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/facing-criminal-charges-what-now.json",
+        "bytes": 3921,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/timeline-what-to-expect-when-facing-dui-charges-in-california.json",
+        "bytes": 7179,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-i-clear-my-record-after-a-criminal-conviction.json",
+        "bytes": 4212,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/facing-federal-charges-what-happens-next.json",
+        "bytes": 6175,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-in-a-federal-criminal-case.json",
+        "bytes": 4860,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-you-need-a-federal-criminal-defense-attorney.json",
+        "bytes": 4531,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-if-i-m-accused-of-a-state-crime.json",
+        "bytes": 4543,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-do-you-need-a-state-criminal-defense-lawyer.json",
+        "bytes": 4700,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-a-state-criminal-defense-lawyer-helps-your-case.json",
+        "bytes": 5056,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-if-my-misdemeanor-case-goes-to-court.json",
+        "bytes": 3987,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/misdemeanor-charges-5-mistakes-to-avoid.json",
+        "bytes": 3988,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-it-time-to-get-legal-help-for-a-misdemeanor.json",
+        "bytes": 4289,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-after-being-charged-with-a-felony.json",
+        "bytes": 4324,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-facing-felony-charges.json",
+        "bytes": 4125,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-protect-your-rights-after-a-felony-arrest-a-timeline.json",
+        "bytes": 8330,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-child-was-arrested-what-happens-next.json",
+        "bytes": 2923,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-your-child-faces-juvenile-charges.json",
+        "bytes": 4118,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-it-time-to-call-a-juvenile-defense-attorney.json",
+        "bytes": 4200,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/accused-of-domestic-violence-what-happens-next.json",
+        "bytes": 7102,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-facing-domestic-violence-charges.json",
+        "bytes": 4212,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/myths-vs-facts-domestic-violence-accusations-in-san-diego.json",
+        "bytes": 4426,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-people-make-in-drug-crime-cases.json",
+        "bytes": 3415,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-i-contact-a-lawyer-for-a-drug-offense.json",
+        "bytes": 3718,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/myths-vs-facts-about-felony-drug-charges.json",
+        "bytes": 3866,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-fight-a-felony-drug-charge-a-step-by-step-guide.json",
+        "bytes": 7439,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-are-the-penalties-for-felony-drug-charges-in-california.json",
+        "bytes": 3898,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-if-you-re-accused-of-a-violent-crime.json",
+        "bytes": 3921,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/signs-you-need-a-violent-crime-defense-attorney.json",
+        "bytes": 4188,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/understanding-violent-crime-charges-myths-vs-facts.json",
+        "bytes": 4436,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-after-a-white-collar-crime-accusation.json",
+        "bytes": 5901,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-in-white-collar-crime-investigations.json",
+        "bytes": 4273,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-you-contact-a-white-collar-crime-lawyer.json",
+        "bytes": 4540,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-when-you-break-probation-in-san-diego.json",
+        "bytes": 3248,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/thinking-about-ignoring-a-probation-violation-read-this-first.json",
+        "bytes": 3393,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-misconceptions-about-probation-violations.json",
+        "bytes": 3653,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-after-a-hit-and-run-accident-in-san-diego.json",
+        "bytes": 3535,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-i-avoid-jail-for-a-hit-and-run-in-california.json",
+        "bytes": 3403,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-you-need-a-lawyer-for-a-hit-and-run-charge.json",
+        "bytes": 3514,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-right-after-a-car-accident.json",
+        "bytes": 3507,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-navigate-initial-insurance-calls-after-an-accident.json",
+        "bytes": 3933,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/myths-about-personal-injury-claims-you-should-ignore.json",
+        "bytes": 3736,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-talk-to-a-personal-injury-attorney-about-your-accident.json",
+        "bytes": 3715,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-if-my-injuries-don-t-show-up-right-away-after-a-car-crash.json",
+        "bytes": 3575,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/dealing-with-the-aftermath-of-a-serious-car-accident.json",
+        "bytes": 3689,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-car-was-damaged-in-an-accident-now-what.json",
+        "bytes": 3274,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-insurance-claim-is-denied-after-property-damage.json",
+        "bytes": 3270,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-recover-costs-after-someone-else-damages-your-property.json",
+        "bytes": 7789,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/accused-of-a-crime-understanding-your-next-steps.json",
+        "bytes": 3180,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-if-i-miss-a-court-date-for-a-criminal-charge.json",
+        "bytes": 3146,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-i-fight-a-dui-charge-in-california.json",
+        "bytes": 3196,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-if-i-m-accused-of-a-federal-crime.json",
+        "bytes": 7768,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/myths-about-federal-criminal-defense-you-need-to-know.json",
+        "bytes": 5016,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-i-contact-a-federal-criminal-defense-attorney.json",
+        "bytes": 4483,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-after-being-arrested-for-a-state-crime.json",
+        "bytes": 4747,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-to-avoid-in-state-criminal-cases.json",
+        "bytes": 5017,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/do-i-really-need-a-state-criminal-defense-lawyer.json",
+        "bytes": 4898,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-a-misdemeanor-charge-feels-overwhelming-what-to-do.json",
+        "bytes": 4239,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-navigate-a-misdemeanor-charge-in-california.json",
+        "bytes": 4428,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/misdemeanor-charge-in-san-diego-myths-vs-facts.json",
+        "bytes": 4279,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/facing-a-felony-charge-what-to-expect-next.json",
+        "bytes": 5013,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/felony-charges-common-mistakes-to-avoid.json",
+        "bytes": 4829,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-there-any-way-out-of-a-felony-conviction.json",
+        "bytes": 5036,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-juvenile-records-affect-my-child-s-future.json",
+        "bytes": 3418,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-protect-your-child-s-rights-in-juvenile-court.json",
+        "bytes": 6914,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/accused-of-domestic-violence-what-are-my-immediate-steps.json",
+        "bytes": 3531,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/will-a-domestic-violence-charge-impact-my-job.json",
+        "bytes": 3580,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-i-fight-a-domestic-violence-restraining-order.json",
+        "bytes": 4338,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-after-a-drug-arrest-in-san-diego.json",
+        "bytes": 3172,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-accused-of-a-drug-crime.json",
+        "bytes": 4078,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-misconceptions-about-drug-crime-penalties.json",
+        "bytes": 4543,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/understanding-the-stages-of-a-felony-drug-case.json",
+        "bytes": 6980,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-you-need-a-lawyer-for-felony-drug-charges.json",
+        "bytes": 4647,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-my-drug-possession-charge-a-felony-or-misdemeanor.json",
+        "bytes": 4568,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-white-collar-crime-defense-mistakes.json",
+        "bytes": 3857,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-do-you-need-a-violent-crime-attorney.json",
+        "bytes": 4031,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/myths-vs-facts-white-collar-crime-allegations.json",
+        "bytes": 4494,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-address-false-accusations-of-violent-crime.json",
+        "bytes": 4122,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/7-signs-you-might-be-under-investigation-for-a-white-collar-crime.json",
+        "bytes": 2914,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-you-re-accused-of-probation-violation-in-san-diego.json",
+        "bytes": 3281,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/myths-vs-facts-about-probation-violations.json",
+        "bytes": 3719,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-probation-violation-mistakes-in-san-diego.json",
+        "bytes": 4026,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/i-was-involved-in-a-hit-and-run-in-san-diego-what-now.json",
+        "bytes": 3568,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-if-you-re-accused-of-a-hit-and-run.json",
+        "bytes": 3858,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-hit-and-run-defense-lawyer-in-san-diego.json",
+        "bytes": 3911,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-right-after-a-car-accident-in-san-diego.json",
+        "bytes": 3427,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-navigate-a-car-accident-claim-in-san-diego.json",
+        "bytes": 7200,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-my-car-accident-claim-strong-enough-for-compensation.json",
+        "bytes": 3500,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/avoiding-common-pitfalls-in-your-personal-injury-claim.json",
+        "bytes": 3690,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/debunking-myths-about-personal-injury-cases.json",
+        "bytes": 3809,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-you-contact-a-personal-injury-attorney.json",
+        "bytes": 4059,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-car-is-totaled-but-you-re-not-hurt.json",
+        "bytes": 4153,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-after-your-car-s-been-damaged.json",
+        "bytes": 4194,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-you-need-help-recovering-property-damage-after-an-accident.json",
+        "bytes": 4505,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-when-you-re-arrested-a-step-by-step-guide.json",
+        "bytes": 8162,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/myths-vs-facts-about-criminal-charges-in-california.json",
+        "bytes": 4959,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-you-need-a-criminal-defense-attorney-in-san-diego-county.json",
+        "bytes": 4821,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-after-a-federal-arrest.json",
+        "bytes": 3193,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/myths-about-federal-criminal-cases-you-should-ignore.json",
+        "bytes": 3407,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-if-you-re-accused-of-a-state-crime.json",
+        "bytes": 3467,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-in-state-criminal-cases.json",
+        "bytes": 3766,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-the-state-criminal-justice-system.json",
+        "bytes": 5402,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-if-you-re-charged-with-a-misdemeanor-in-san-diego.json",
+        "bytes": 3370,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-a-misdemeanor-conviction-permanent.json",
+        "bytes": 3345,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/misdemeanor-defense-mistakes-to-avoid.json",
+        "bytes": 2747,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-after-a-felony-arrest-in-california.json",
+        "bytes": 6585,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-a-felony-charge-be-reduced-to-a-misdemeanor.json",
+        "bytes": 3446,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-it-time-to-get-legal-help-for-a-felony.json",
+        "bytes": 4326,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-when-my-child-is-accused-of-a-crime.json",
+        "bytes": 3670,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-parents-make-in-juvenile-cases.json",
+        "bytes": 3731,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-navigate-the-juvenile-justice-system-in-san-diego.json",
+        "bytes": 7167,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-are-the-consequences-of-a-domestic-violence-conviction.json",
+        "bytes": 3771,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/myths-about-domestic-violence-charges-in-california.json",
+        "bytes": 4153,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/recognizing-when-you-need-a-domestic-violence-defense-lawyer.json",
+        "bytes": 4404,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-if-you-re-accused-of-a-drug-crime.json",
+        "bytes": 3448,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-you-get-a-lawyer-for-drug-charges.json",
+        "bytes": 3872,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-misconceptions-about-drug-crime-defense.json",
+        "bytes": 3778,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/facing-felony-drug-charges-your-immediate-steps.json",
+        "bytes": 6670,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-in-a-drug-possession-case.json",
+        "bytes": 4378,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/understanding-the-consequences-of-felony-drug-convictions.json",
+        "bytes": 4418,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-after-a-violent-crime-arrest-in-san-diego.json",
+        "bytes": 3547,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-when-facing-violent-crime-charges.json",
+        "bytes": 3492,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-get-legal-help-for-assault-charges.json",
+        "bytes": 3583,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-my-financial-activity-considered-a-white-collar-crime.json",
+        "bytes": 3773,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/understanding-your-rights-in-a-white-collar-crime-investigation.json",
+        "bytes": 3632,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-respond-to-a-white-collar-crime-accusation.json",
+        "bytes": 5118,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-if-i-violate-my-probation-in-san-diego.json",
+        "bytes": 4674,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-i-avoid-jail-time-for-a-probation-violation.json",
+        "bytes": 4388,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-is-my-probation-officer-so-strict.json",
+        "bytes": 4486,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-should-i-do-after-a-hit-and-run-accident.json",
+        "bytes": 4954,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/will-a-hit-and-run-conviction-affect-my-driver-s-license.json",
+        "bytes": 4630,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-if-i-didn-t-know-i-hit-someone.json",
+        "bytes": 4564,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-car-accident-claim-is-being-denied-what-now.json",
+        "bytes": 3938,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-immediately-after-a-car-accident-to-protect-your-rights.json",
+        "bytes": 4039,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-if-i-settle-my-car-accident-claim-too-early.json",
+        "bytes": 4031,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-handle-insurance-companies-after-a-car-accident.json",
+        "bytes": 4357,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-it-time-to-get-a-personal-injury-attorney.json",
+        "bytes": 4283,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-s-the-process-for-a-car-accident-injury-claim.json",
+        "bytes": 5096,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-isn-t-my-insurance-paying-for-my-property-damage-after-an-accident.json",
+        "bytes": 4887,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-if-i-disagree-with-my-property-damage-settlement-offer.json",
+        "bytes": 4815,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-is-the-right-time-to-seek-legal-help-for-property-damage.json",
+        "bytes": 4918,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-should-i-do-if-i-m-accused-of-a-misdemeanor-in-california.json",
+        "bytes": 4484,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-a-past-criminal-record-still-haunt-my-job-search.json",
+        "bytes": 4931,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-are-the-differences-between-misdemeanor-and-felony-charges-in-california.json",
+        "bytes": 5224,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/facing-federal-charges-what-should-i-do-first.json",
+        "bytes": 3326,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-in-a-federal-criminal-investigation.json",
+        "bytes": 3463,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/myths-about-federal-criminal-defense-debunked.json",
+        "bytes": 3720,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-are-the-stages-of-a-state-criminal-case.json",
+        "bytes": 5853,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/just-been-arrested-on-state-charges-here-s-what-to-know.json",
+        "bytes": 3452,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-a-state-criminal-defense-lawyer.json",
+        "bytes": 4429,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-when-you-re-charged-with-a-misdemeanor-in-california.json",
+        "bytes": 3406,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/misdemeanor-charges-common-mistakes-to-avoid.json",
+        "bytes": 3378,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-do-you-need-an-attorney-for-a-misdemeanor.json",
+        "bytes": 3784,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-should-i-do-if-i-m-accused-of-a-felony.json",
+        "bytes": 3528,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/understanding-the-timeline-of-a-felony-case.json",
+        "bytes": 6112,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/can-a-felony-be-reduced-to-a-misdemeanor-in-california.json",
+        "bytes": 3743,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-child-was-arrested-what-now.json",
+        "bytes": 3195,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-are-the-common-myths-about-juvenile-cases.json",
+        "bytes": 3557,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-navigate-the-juvenile-court-system.json",
+        "bytes": 8126,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/facing-domestic-violence-accusations-what-should-i-do-first.json",
+        "bytes": 3161,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-are-the-long-term-consequences-of-a-domestic-violence-conviction.json",
+        "bytes": 5004,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/is-a-restraining-order-permanent.json",
+        "bytes": 2594,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-after-a-drug-crime-arrest.json",
+        "bytes": 3129,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/signs-you-need-a-drug-crime-defense-attorney.json",
+        "bytes": 3619,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/facing-felony-drug-charges-what-you-need-to-know.json",
+        "bytes": 3185,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-a-felony-drug-conviction-impacts-your-future.json",
+        "bytes": 3277,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/myths-about-felony-drug-crime-defense.json",
+        "bytes": 3913,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-immediately-after-a-violent-crime-allegation.json",
+        "bytes": 3701,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/myths-about-violent-crime-charges-you-shouldn-t-believe.json",
+        "bytes": 3856,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/understanding-the-process-of-defending-a-violent-crime-charge.json",
+        "bytes": 5937,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/my-company-is-under-investigation-for-white-collar-crime-what-now.json",
+        "bytes": 3922,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-mistakes-people-make-in-white-collar-crime-cases.json",
+        "bytes": 3991,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-do-you-need-a-white-collar-crime-defense-lawyer.json",
+        "bytes": 4000,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-when-you-violate-probation.json",
+        "bytes": 3792,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/probation-violation-myths-vs-facts.json",
+        "bytes": 4345,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-your-probation-officer-is-accusing-you-of-a-violation.json",
+        "bytes": 4191,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-to-fight-a-hit-and-run-charge-in-san-diego.json",
+        "bytes": 4334,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/will-i-lose-my-license-after-a-hit-and-run.json",
+        "bytes": 4126,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-to-call-you-re-accused-of-a-hit-and-run.json",
+        "bytes": 4188,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-should-i-contact-a-personal-injury-attorney-after-an-accident.json",
+        "bytes": 3336,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/mistakes-to-avoid-in-your-personal-injury-claim.json",
+        "bytes": 3639,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-your-personal-injury-claim-stalls.json",
+        "bytes": 3301,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-immediately-after-a-car-accident.json",
+        "bytes": 5112,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/why-you-shouldn-t-talk-to-the-insurance-company-alone-after-an-accident.json",
+        "bytes": 3448,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/signs-your-car-accident-settlement-offer-is-too-low.json",
+        "bytes": 3468,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-immediately-after-a-car-accident-in-san-diego.json",
+        "bytes": 3448,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/myths-vs-facts-about-property-damage-claims-after-an-accident.json",
+        "bytes": 3843,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/5-mistakes-that-can-hurt-your-car-accident-claim-value.json",
+        "bytes": 4196,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-if-you-re-accused-of-a-crime-in-san-diego-county.json",
+        "bytes": 3546,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/understanding-the-criminal-justice-process-a-step-by-step-guide.json",
+        "bytes": 7185,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/7-signs-you-need-a-criminal-defense-lawyer-in-san-diego.json",
+        "bytes": 4158,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-after-a-federal-criminal-charge.json",
+        "bytes": 7504,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/5-common-mistakes-in-federal-criminal-cases.json",
+        "bytes": 4582,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-facing-state-criminal-charges.json",
+        "bytes": 7976,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/myths-vs-facts-about-state-criminal-defense.json",
+        "bytes": 4470,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-happens-when-you-re-charged-with-a-misdemeanor.json",
+        "bytes": 3190,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/common-misconceptions-about-misdemeanor-charges.json",
+        "bytes": 3340,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/when-do-i-need-a-lawyer-for-a-misdemeanor.json",
+        "bytes": 3305,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/facing-a-felony-what-steps-should-i-take.json",
+        "bytes": 4451,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/how-can-i-avoid-a-felony-conviction.json",
+        "bytes": 3545,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/protecting-your-future-after-a-felony-charge.json",
+        "bytes": 3536,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/navigating-the-juvenile-justice-system-where-do-we-start.json",
+        "bytes": 5437,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/5-myths-about-juvenile-cases-that-could-harm-your-child.json",
+        "bytes": 4106,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/what-to-do-when-accused-of-domestic-violence.json",
+        "bytes": 3675,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/5-mistakes-to-avoid-when-facing-domestic-violence-charges.json",
+        "bytes": 3935,
+        "purpose": "schema"
+      },
+      {
+        "path": "help/understanding-your-rights-in-a-domestic-violence-investigation.json",
+        "bytes": 4236,
+        "purpose": "schema"
+      }
+    ],
+    "webpages": [
+      {
+        "path": "webpages/personal-injury-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/car-accident-injury-claims-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/property-damage-recovery-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/criminal-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/federal-criminal-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/state-criminal-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/misdemeanor-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/felony-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/juvenile-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/domestic-violence-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/drug-crime-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/felony-drug-crime-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/violent-crime-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/white-collar-crime-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/probation-violation-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/hit-and-run-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/restraining-order-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/vehicular-manslaughter-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/dui-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/first-time-dui-offense-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/repeat-dui-offense-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/felony-dui-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/juvenile-dui-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/dui-with-injury-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/drug-dui-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/domestic-violence-dui-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/vehicular-manslaughter-dui-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/reckless-driving-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/dui-diversion-program-assistance-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/dmv-hearings-and-license-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/dui-license-suspension-hearings-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/expungements-and-record-clearing-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/expungements-and-record-sealing-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/criminal-appeals-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/post-conviction-relief-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/truck-accident-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/motorcycle-accident-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/pedestrian-accident-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bicycle-accident-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/rideshare-accident-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/uber-accident-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/lyft-accident-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/wrongful-death-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/catastrophic-injury-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/traumatic-brain-injury-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/spinal-cord-injury-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/burn-injury-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/premises-liability-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/slip-and-fall-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/negligent-security-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/uninsured-motorist-claims-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/underinsured-motorist-claims-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/insurance-bad-faith-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/assault-and-battery-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/aggravated-assault-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/homicide-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/murder-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/robbery-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/burglary-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/theft-crime-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/grand-theft-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/shoplifting-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/fraud-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/identity-theft-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/embezzlement-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/forgery-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/weapons-charges-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/firearm-charges-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/gun-crime-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/sex-crime-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/sexual-assault-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/solicitation-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/prostitution-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/criminal-threats-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/stalking-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/vandalism-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/arson-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/trespassing-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/disorderly-conduct-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/resisting-arrest-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/obstruction-of-justice-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/failure-to-appear-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bench-warrant-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/arrest-warrant-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bail-hearing-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/bond-hearing-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/pre-filing-investigation-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/police-investigation-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/search-and-seizure-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/motion-to-suppress-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/illegal-search-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/driving-on-a-suspended-license-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/driving-without-a-license-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/street-racing-defense-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/evading-police-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/commercial-driver-dui-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/underage-dui-defense-attorney-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      },
+      {
+        "path": "webpages/boating-under-the-influence-lawyer-hub.json",
+        "bytes": 0,
+        "purpose": "webpage"
+      }
+    ],
+    "public": [
+      {
+        "path": "index.html",
+        "bytes": 22629,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "about.html",
+        "bytes": 37553,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "services.html",
+        "bytes": 423278,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "contact.html",
+        "bytes": 17582,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "faqs.html",
+        "bytes": 120977,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "articles.html",
+        "bytes": 729976,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "case-studies.html",
+        "bytes": 22161,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "team-members.html",
+        "bytes": 26155,
+        "purpose": "LLM-optimized public page"
+      },
+      {
+        "path": "web-pages.html",
+        "bytes": 662466,
+        "purpose": "LLM-optimized public page"
+      }
+    ],
+    "root": [
+      {
+        "path": "robots.txt",
+        "bytes": 321,
+        "purpose": "Robots policy"
+      },
+      {
+        "path": "llms.txt",
+        "bytes": 4940,
+        "purpose": "LLM hint"
+      },
+      {
+        "path": ".nojekyll",
+        "bytes": 0,
+        "purpose": "Disable Jekyll on GitHub Pages"
+      },
+      {
+        "path": "index.html",
+        "bytes": 375,
+        "purpose": "Landing page (redirects to ai-data.html)"
+      },
+      {
+        "path": "manifest.json",
+        "bytes": 256,
+        "purpose": "Web app manifest"
+      },
+      {
+        "path": "related-destinations.json",
+        "bytes": 1494,
+        "purpose": "Cross-Destination Index (Related AI Data Sources)"
+      },
+      {
+        "path": "ai-data.html",
+        "bytes": 248263,
+        "purpose": "Master AI data index"
+      },
+      {
+        "path": "llms-full.txt",
+        "bytes": 71608,
+        "purpose": "Extended LLM context"
+      },
+      {
+        "path": "llms-full.md",
+        "bytes": 71608,
+        "purpose": "Extended LLM context (markdown)"
+      },
+      {
+        "path": "full-context.md",
+        "bytes": 4945,
+        "purpose": "Full markdown context"
+      },
+      {
+        "path": "README.md",
+        "bytes": 81573,
+        "purpose": "Repository README"
+      },
+      {
+        "path": "ai-sitemap.xml",
+        "bytes": 73200,
+        "purpose": "AI sitemap"
+      },
+      {
+        "path": "sitemap.xml",
+        "bytes": 1062,
+        "purpose": "Standard sitemap"
+      }
+    ]
+  },
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/law-office-of-angelo-j-reyes-apc-ai-schemas-qgtu",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/law-office-of-angelo-j-reyes-apc-ai-schemas-qgtu"
+    }
+  }
+}

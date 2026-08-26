@@ -1,0 +1,43 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-08-26T18:46:53.860Z",
+  "name": "Cross-Destination Index",
+  "aliases": [
+    "Authority Network",
+    "Repository Mirror Index",
+    "Related AI Data Sources"
+  ],
+  "purpose": "Transparent source discovery, entity consistency, mirror verification, and AI crawler navigation across every published copy of this AI Data Package.",
+  "notALinkWheel": true,
+  "entity": {
+    "name": "Law Office of Angelo J. Reyes, APC",
+    "canonicalUrl": "https://angeloreyeslaw.aiovisibility.net",
+    "primaryWebsiteUrl": "https://www.angeloreyeslaw.com",
+    "aiDataHub": "https://angeloreyeslaw.aiovisibility.net/ai-data.html"
+  },
+  "related": [
+    {
+      "role": "canonical",
+      "label": "Law Office of Angelo J. Reyes, APC — canonical website",
+      "url": "https://angeloreyeslaw.aiovisibility.net"
+    },
+    {
+      "role": "ai-data-hub",
+      "label": "Law Office of Angelo J. Reyes, APC — AI Data Hub",
+      "url": "https://angeloreyeslaw.aiovisibility.net/ai-data.html"
+    },
+    {
+      "role": "mirror-repo",
+      "platform": "github",
+      "label": "GitHub repository",
+      "url": "https://github.com/AIOVisibilityHub/law-office-of-angelo-j-reyes-apc-ai-schemas-qgtu"
+    }
+  ],
+  "destinations": {
+    "github": {
+      "url": "https://github.com/AIOVisibilityHub/law-office-of-angelo-j-reyes-apc-ai-schemas-qgtu",
+      "pagesUrl": "",
+      "repo": "AIOVisibilityHub/law-office-of-angelo-j-reyes-apc-ai-schemas-qgtu"
+    }
+  }
+}
