@@ -1,0 +1,206 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Law Office of Angelo J. Reyes, APC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Happens When You’re Charged with a Misdemeanor?",
+  "publisher": {
+    "url": "https://www.angeloreyeslaw.com",
+    "name": "Law Office of Angelo J. Reyes, APC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Penasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "La Presa",
+      "@type": "City"
+    },
+    {
+      "name": "Casa de Oro",
+      "@type": "City"
+    },
+    {
+      "name": "Campo",
+      "@type": "City"
+    },
+    {
+      "name": "Potrero",
+      "@type": "City"
+    },
+    {
+      "name": "Pine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Borrego Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Pauma Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Pala",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ysabel",
+      "@type": "City"
+    },
+    {
+      "name": "Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Descanso",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "Getting charged with a misdemeanor can feel incredibly stressful and confusing. It's a lower-level criminal offense in California, but it still carries real consequences, so it's super important to understand what you're up against. Generally, a misdemeanor involves less severe penalties than a felony, but don't let that fool you—it can still impact your life significantly. You could face jail time, fines, probation, and even have a criminal record that affects job opportunities or housing. After an arrest, you’ll typically go through booking, and then there’s an arraignment where you formally hear the charges and enter a plea. From there, your defense begins. It’s not just about showing up; it’s about strategically building a case, which might involve negotiating with the prosecution for a lesser charge or even going to trial. Having someone on your side who knows the ins and outs of the San Diego legal system can make a huge difference in protecting your rights and future. Don't try to navigate this alone; get professional help.",
+  "datePublished": "2026-08-26"
+}

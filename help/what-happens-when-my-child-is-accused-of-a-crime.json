@@ -1,0 +1,206 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Law Office of Angelo J. Reyes, APC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Happens When My Child is Accused of a Crime?",
+  "publisher": {
+    "url": "https://www.angeloreyeslaw.com",
+    "name": "Law Office of Angelo J. Reyes, APC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Penasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "La Presa",
+      "@type": "City"
+    },
+    {
+      "name": "Casa de Oro",
+      "@type": "City"
+    },
+    {
+      "name": "Campo",
+      "@type": "City"
+    },
+    {
+      "name": "Potrero",
+      "@type": "City"
+    },
+    {
+      "name": "Pine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Borrego Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Pauma Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Pala",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ysabel",
+      "@type": "City"
+    },
+    {
+      "name": "Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Descanso",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's incredibly stressful when your child faces criminal accusations, and the juvenile justice system can feel overwhelming. Unlike adult court, the focus here is often on rehabilitation and guidance rather than just punishment, but serious consequences can still arise. Knowing what to expect can help you protect your child's future.\n\nFirst, law enforcement might detain your child, and they have rights, just like adults. They can remain silent and have an attorney present during questioning. It's really important to exercise these rights from the get-go.\n\nNext, a probation officer will typically get involved, and they play a big role in deciding whether your child's case goes to court or if alternative programs are more appropriate. They'll assess the situation, your child's background, and the alleged offense.\n\nIf the case proceeds, it moves into the juvenile court system, which is different from adult criminal court. Hearings are generally confidential, and the language used is more about 'petitions' and 'findings' than 'indictments' and 'guilty verdicts.'\n\nLastly, if a petition is sustained, the court will determine the best course of action for your child, which could range from informal probation to placement in a juvenile hall facility. Having an experienced attorney by your side is crucial throughout this entire process to ensure your child's best interests are represented and their rights are fully protected. Don't hesitate to reach out for professional help if your family is facing such a challenge.",
+  "datePublished": "2026-08-26"
+}

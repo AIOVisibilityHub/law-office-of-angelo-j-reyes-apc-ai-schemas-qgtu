@@ -1,0 +1,206 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Law Office of Angelo J. Reyes, APC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Probation Violation: Myths vs. Facts",
+  "publisher": {
+    "url": "https://www.angeloreyeslaw.com",
+    "name": "Law Office of Angelo J. Reyes, APC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Penasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "La Presa",
+      "@type": "City"
+    },
+    {
+      "name": "Casa de Oro",
+      "@type": "City"
+    },
+    {
+      "name": "Campo",
+      "@type": "City"
+    },
+    {
+      "name": "Potrero",
+      "@type": "City"
+    },
+    {
+      "name": "Pine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Borrego Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Pauma Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Pala",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ysabel",
+      "@type": "City"
+    },
+    {
+      "name": "Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Descanso",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you're on probation, it's easy to get caught up in rumors or misunderstandings about what a violation really means. Let's clear up some common myths so you can make informed decisions and protect your freedom.\n\n**Myth:** Only committing a new crime can violate probation.\n**Fact:** Not true! Many people think that as long as they don't break the law again, they're fine. But probation includes a bunch of specific conditions, like attending meetings, completing community service, paying fines, or staying sober. Missing an appointment or failing a drug test can absolutely lead to a violation hearing.\n\n**Myth:** If my probation officer doesn't catch it right away, it doesn't count.\n**Fact:** Your probation officer has a lot of discretion, but they also have records. Even if they don't immediately act on a missed meeting, it can still come up later. Plus, sometimes violations are only discovered during routine checks or if you have another run-in with law enforcement. It's always best to be compliant.\n\n**Myth:** A probation violation always means going to jail or prison.\n**Fact:** While it's a possibility, it's not a guarantee. The court considers many factors, including the nature of the violation, your history, and how you've performed on probation overall. Sometimes, the judge might impose stricter conditions, extend your probation, or order more programs instead of incarceration. A good defense can often help mitigate the penalties.\n\n**Myth:** I don't need a lawyer for a probation violation hearing; it's not a new charge.\n**Fact:** This is a big one! While it might not be a 'new' criminal charge in the traditional sense, a probation violation can revoke your existing probation and land you back in jail for the original offense's sentence. You have rights at these hearings, and an attorney can challenge the allegations, present mitigating evidence, and argue for a more favorable outcome. Don't go it alone.\n\nFacing a probation violation is serious business in San Diego. If you're unsure about your probation terms or have been accused of a violation, reach out to a legal professional for guidance. They can help you understand the process and fight for the best possible result.",
+  "datePublished": "2026-08-26"
+}

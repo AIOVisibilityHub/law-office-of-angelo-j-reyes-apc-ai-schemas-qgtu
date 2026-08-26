@@ -1,0 +1,206 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Law Office of Angelo J. Reyes, APC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What Happens When You Break Probation in San Diego?",
+  "publisher": {
+    "url": "https://www.angeloreyeslaw.com",
+    "name": "Law Office of Angelo J. Reyes, APC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Penasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "La Presa",
+      "@type": "City"
+    },
+    {
+      "name": "Casa de Oro",
+      "@type": "City"
+    },
+    {
+      "name": "Campo",
+      "@type": "City"
+    },
+    {
+      "name": "Potrero",
+      "@type": "City"
+    },
+    {
+      "name": "Pine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Borrego Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Pauma Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Pala",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ysabel",
+      "@type": "City"
+    },
+    {
+      "name": "Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Descanso",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "So, you've been accused of violating your probation in San Diego, and you're probably wondering what comes next. It can feel really overwhelming, but understanding the process can help you prepare. Generally, if the court thinks you've violated your probation terms, they'll issue a warrant for your arrest or send you a notice to appear. This isn't just a slap on the wrist; it can lead to serious consequences, including jail time, fines, or even having your original sentence reinstated. The specifics depend on what you were on probation for and the nature of the alleged violation. You'll have a hearing where a judge will decide if you actually violated the terms. It’s crucial to have someone in your corner who understands how these hearings work. This is where getting professional help becomes really important. An attorney can review your case, gather evidence, and present a defense to protect your rights and hopefully mitigate the outcome. Don't try to navigate this complex legal territory alone. Talking to an attorney early can make a big difference in the outcome of your probation violation case.",
+  "datePublished": "2026-08-26"
+}

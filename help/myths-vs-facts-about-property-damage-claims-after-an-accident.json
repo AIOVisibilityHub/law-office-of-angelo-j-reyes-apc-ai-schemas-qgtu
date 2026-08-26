@@ -1,0 +1,206 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Law Office of Angelo J. Reyes, APC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Myths vs. Facts About Property Damage Claims After an Accident",
+  "publisher": {
+    "url": "https://www.angeloreyeslaw.com",
+    "name": "Law Office of Angelo J. Reyes, APC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Penasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "La Presa",
+      "@type": "City"
+    },
+    {
+      "name": "Casa de Oro",
+      "@type": "City"
+    },
+    {
+      "name": "Campo",
+      "@type": "City"
+    },
+    {
+      "name": "Potrero",
+      "@type": "City"
+    },
+    {
+      "name": "Pine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Borrego Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Pauma Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Pala",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ysabel",
+      "@type": "City"
+    },
+    {
+      "name": "Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Descanso",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you're dealing with a car accident, especially in places like Carlsbad or San Diego, there's a lot of information floating around that can be confusing. Let's clear up some common myths about property damage claims. \n\nMyth: Your insurance company is always on your side after an accident. Fact: While your insurance company is there to help, their primary goal is often to minimize their payout. This means they might offer a quick settlement that doesn't fully cover your damages. You need to be vigilant and understand what your policy truly covers, and what your rights are. \n\nMyth: You have to accept the first settlement offer for your damaged vehicle. Fact: Not true! Initial offers are frequently low, designed to get you to close the claim quickly. It’s always a good idea to assess the full extent of the damage, including hidden issues, before agreeing to anything. Don't rush into a decision that might leave you footing the bill for repairs. \n\nMyth: You don't need a lawyer for just property damage. Fact: While some minor property damage claims can be straightforward, many become complex, especially when disputes arise over valuation or repair costs. An attorney who specializes in property damage recovery, like Angelo Reyes, can help you navigate these complexities, ensure you're fairly compensated, and deal with adjusters who might try to undervalue your claim. \n\nMyth: Waiting to file a claim won't affect anything. Fact: Delaying your claim can actually hurt your case. Evidence can disappear, witnesses' memories fade, and the insurance company might argue that your damages weren't directly caused by the accident if you wait too long. It's best to act promptly.",
+  "datePublished": "2026-08-26"
+}

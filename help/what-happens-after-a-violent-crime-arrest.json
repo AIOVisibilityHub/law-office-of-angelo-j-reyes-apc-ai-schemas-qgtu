@@ -1,0 +1,229 @@
+{
+  "name": "What Happens After a Violent Crime Arrest?",
+  "step": [
+    {
+      "name": "Step 1: The Arrest and Booking Process. After an arrest, you'll be taken to a police station for booking, which includes fingerprinting, photographs, and collecting personal information. This can take several hours, and it's essential to remain calm and avoid saying anything without legal counsel.",
+      "text": "Step 1: The Arrest and Booking Process. After an arrest, you'll be taken to a police station for booking, which includes fingerprinting, photographs, and collecting personal information. This can take several hours, and it's essential to remain calm and avoid saying anything without legal counsel.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Initial Appearance/Arraignment. You'll then appear before a judge, usually within 48 hours, where the formal charges are presented, and your rights are explained. This is also when bail may be determined, allowing for release while your case proceeds.",
+      "text": "Step 2: Initial Appearance/Arraignment. You'll then appear before a judge, usually within 48 hours, where the formal charges are presented, and your rights are explained. This is also when bail may be determined, allowing for release while your case proceeds.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Preliminary Hearing. If your case is a felony, a preliminary hearing will likely be scheduled. Here, a judge decides if there's enough evidence to proceed to trial. It's a critical stage where your attorney can challenge the prosecution's evidence.",
+      "text": "Step 3: Preliminary Hearing. If your case is a felony, a preliminary hearing will likely be scheduled. Here, a judge decides if there's enough evidence to proceed to trial. It's a critical stage where your attorney can challenge the prosecution's evidence.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Pre-Trial Motions and Negotiations. Before a trial, your defense attorney will file various motions and engage in negotiations with the prosecution, exploring options like plea bargains or having evidence excluded. This phase can be extensive and complex.",
+      "text": "Step 4: Pre-Trial Motions and Negotiations. Before a trial, your defense attorney will file various motions and engage in negotiations with the prosecution, exploring options like plea bargains or having evidence excluded. This phase can be extensive and complex.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Trial or Resolution. If no agreement is reached, the case proceeds to trial. A jury or judge will hear the evidence and determine guilt or innocence. If found guilty, there will be a sentencing phase. Having an experienced attorney like Angelo J. Reyes, APC, who prepares every case for trial from day one, can make a significant difference at every stage, protecting your rights throughout the process.",
+      "text": "Step 5: Trial or Resolution. If no agreement is reached, the case proceeds to trial. A jury or judge will hear the evidence and determine guilt or innocence. If found guilty, there will be a sentencing phase. Having an experienced attorney like Angelo J. Reyes, APC, who prepares every case for trial from day one, can make a significant difference at every stage, protecting your rights throughout the process.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Penasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "La Presa",
+      "@type": "City"
+    },
+    {
+      "name": "Casa de Oro",
+      "@type": "City"
+    },
+    {
+      "name": "Campo",
+      "@type": "City"
+    },
+    {
+      "name": "Potrero",
+      "@type": "City"
+    },
+    {
+      "name": "Pine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Borrego Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Pauma Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Pala",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ysabel",
+      "@type": "City"
+    },
+    {
+      "name": "Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Descanso",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: The Arrest and Booking Process. After an arrest, you'll be taken to a police station for booking, which includes fingerprinting, photographs, and collecting personal information. This can take"
+}

@@ -1,0 +1,247 @@
+{
+  "name": "What Happens After a Federal Criminal Charge?",
+  "step": [
+    {
+      "name": "Step 1: Investigation and Arrest — This stage can last a while, with federal agencies like the FBI or DEA gathering evidence. You might be arrested based on a warrant, or sometimes you'll receive a summons. It's crucial to have legal counsel immediately to protect your rights during questioning.",
+      "text": "Step 1: Investigation and Arrest — This stage can last a while, with federal agencies like the FBI or DEA gathering evidence. You might be arrested based on a warrant, or sometimes you'll receive a summons. It's crucial to have legal counsel immediately to protect your rights during questioning.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Initial Appearance and Bail — Soon after arrest, you'll go before a magistrate judge. They'll inform you of the charges and decide on bail. Your attorney will argue for your release, stressing factors like community ties and employment. This step usually happens within 24-48 hours.",
+      "text": "Step 2: Initial Appearance and Bail — Soon after arrest, you'll go before a magistrate judge. They'll inform you of the charges and decide on bail. Your attorney will argue for your release, stressing factors like community ties and employment. This step usually happens within 24-48 hours.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Indictment or Information — For felonies, a grand jury will decide if there's enough evidence to issue an indictment. If they do, formal charges are filed. For misdemeanors or if you waive your right, the prosecutor might file an 'information.' This process can take weeks or even months.",
+      "text": "Step 3: Indictment or Information — For felonies, a grand jury will decide if there's enough evidence to issue an indictment. If they do, formal charges are filed. For misdemeanors or if you waive your right, the prosecutor might file an 'information.' This process can take weeks or even months.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Arraignment — This is where you formally enter a plea of guilty or not guilty to the charges. Your attorney will help you understand the charges and guide your plea. This typically occurs shortly after indictment or information.",
+      "text": "Step 4: Arraignment — This is where you formally enter a plea of guilty or not guilty to the charges. Your attorney will help you understand the charges and guide your plea. This typically occurs shortly after indictment or information.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Pretrial Motions and Discovery — Both sides exchange information (discovery), and your lawyer will file motions to suppress evidence, challenge procedures, or dismiss charges. This can be a lengthy phase, often spanning several months as strategies are developed and evidence reviewed.",
+      "text": "Step 5: Pretrial Motions and Discovery — Both sides exchange information (discovery), and your lawyer will file motions to suppress evidence, challenge procedures, or dismiss charges. This can be a lengthy phase, often spanning several months as strategies are developed and evidence reviewed.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Trial or Plea Bargain — Most federal cases are resolved through plea bargains, but if an agreement isn't reached, the case goes to trial. A trial can last days or weeks. If convicted, or if you plead guilty, you move to sentencing.",
+      "text": "Step 6: Trial or Plea Bargain — Most federal cases are resolved through plea bargains, but if an agreement isn't reached, the case goes to trial. A trial can last days or weeks. If convicted, or if you plead guilty, you move to sentencing.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Sentencing — The judge determines your sentence based on federal sentencing guidelines, which are very specific. Your attorney will advocate for the most lenient sentence possible, presenting mitigating factors. This occurs several weeks to a few months after a conviction or plea.",
+      "text": "Step 7: Sentencing — The judge determines your sentence based on federal sentencing guidelines, which are very specific. Your attorney will advocate for the most lenient sentence possible, presenting mitigating factors. This occurs several weeks to a few months after a conviction or plea.",
+      "@type": "HowToStep",
+      "position": 7
+    },
+    {
+      "name": "Step 8: Appeals — If you're convicted, you have the right to appeal the decision to a higher court. This is a complex process focused on legal errors made during the trial or sentencing. This final stage can extend for many months or even years. Throughout this entire journey, having an experienced federal criminal defense attorney by your side, like Angelo J. Reyes, is absolutely essential. They can help you understand each phase, protect your rights, and work towards the best possible outcome in San Diego County.",
+      "text": "Step 8: Appeals — If you're convicted, you have the right to appeal the decision to a higher court. This is a complex process focused on legal errors made during the trial or sentencing. This final stage can extend for many months or even years. Throughout this entire journey, having an experienced federal criminal defense attorney by your side, like Angelo J. Reyes, is absolutely essential. They can help you understand each phase, protect your rights, and work towards the best possible outcome in San Diego County.",
+      "@type": "HowToStep",
+      "position": 8
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Penasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "La Presa",
+      "@type": "City"
+    },
+    {
+      "name": "Casa de Oro",
+      "@type": "City"
+    },
+    {
+      "name": "Campo",
+      "@type": "City"
+    },
+    {
+      "name": "Potrero",
+      "@type": "City"
+    },
+    {
+      "name": "Pine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Borrego Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Pauma Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Pala",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ysabel",
+      "@type": "City"
+    },
+    {
+      "name": "Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Descanso",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Investigation and Arrest — This stage can last a while, with federal agencies like the FBI or DEA gathering evidence. You might be arrested based on a warrant, or sometimes you'll receive a su"
+}

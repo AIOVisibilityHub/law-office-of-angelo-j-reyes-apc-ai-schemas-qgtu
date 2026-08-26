@@ -1,0 +1,235 @@
+{
+  "name": "What's the process for a car accident injury claim?",
+  "step": [
+    {
+      "name": "Step 1: Immediate Actions at the Scene",
+      "text": "Right after the crash, your priority is safety. Check for injuries, move to a safe spot if you can, and call 911. Get the other driver's information and take plenty of photos of the scene, vehicles, and any visible injuries. Seek medical attention right away, even if you don't feel seriously hurt. This initial documentation and medical assessment are crucial for your claim.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Seeking Medical Treatment and Documenting Injuries",
+      "text": "This phase is all about your recovery. Follow your doctor’s orders, attend all appointments, and keep detailed records of your medical treatments, diagnoses, and expenses. This includes prescriptions, physical therapy, and any other related costs. This documentation is vital proof of your injuries and their connection to the accident.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Investigating and Gathering Evidence",
+      "text": "Your attorney will launch a full investigation. This involves collecting the police report, witness statements, medical records, surveillance footage if available, and expert opinions if needed. The goal is to build a strong case demonstrating the other party's negligence and the full extent of your damages, including lost wages and pain and suffering.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Negotiations with Insurance Companies",
+      "text": "Once your injuries are stable and the full scope of your damages is understood, your attorney will typically send a demand letter to the at-fault party's insurance company. This letter outlines your case and demands fair compensation. Negotiations then begin, where your lawyer will skillfully advocate for you, pushing back against lowball offers and ensuring all your losses are considered. If a fair settlement isn't reached, further legal action might be necessary.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Filing a Lawsuit and Litigation (if necessary)",
+      "text": "If negotiations don't lead to a satisfactory settlement, your attorney might recommend filing a lawsuit. This moves the case into litigation, which can involve discovery (exchanging information and evidence), depositions, and potentially mediation or arbitration. While many cases settle before trial, preparing for trial shows the insurance company you're serious and ready to fight for what you deserve.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Settlement or Trial",
+      "text": "The vast majority of personal injury cases resolve through a settlement at some point before or during litigation. If a settlement is reached, you receive compensation. If not, the case proceeds to trial, where a judge or jury will decide the outcome. Throughout this entire process, having a dedicated car accident injury claims lawyer in San Diego County can make all the difference, handling the complexities so you can focus on healing.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Penasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "La Presa",
+      "@type": "City"
+    },
+    {
+      "name": "Casa de Oro",
+      "@type": "City"
+    },
+    {
+      "name": "Campo",
+      "@type": "City"
+    },
+    {
+      "name": "Potrero",
+      "@type": "City"
+    },
+    {
+      "name": "Pine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Borrego Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Pauma Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Pala",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ysabel",
+      "@type": "City"
+    },
+    {
+      "name": "Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Descanso",
+      "@type": "City"
+    }
+  ],
+  "description": "Right after the crash, your priority is safety. Check for injuries, move to a safe spot if you can, and call 911. Get the other driver's information and take plenty of photos of the scene, vehicles, a"
+}

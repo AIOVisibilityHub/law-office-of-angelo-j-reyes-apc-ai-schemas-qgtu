@@ -1,0 +1,223 @@
+{
+  "name": "How to Navigate Initial Insurance Calls After an Accident",
+  "step": [
+    {
+      "name": "Step 1: After a car accident, it feels like insurance companies pop up out…",
+      "text": "After a car accident, it feels like insurance companies pop up out of nowhere, right? It's crucial to handle those first calls wisely, because what you say or do can definitely impact your claim. When the at-fault driver's insurance company contacts you, they're often trying to get a quick, cheap settlement or a recorded statement.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: These early offers might seem appealing, but they almost always com…",
+      "text": "These early offers might seem appealing, but they almost always come before you even know the full extent of your injuries or losses. You might think you're helping by giving a recorded statement, but without legal guidance, you could inadvertently say something that hurts your case. It's smart to provide only basic contact and insurance information initially.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Don't discuss fault, your injuries in detail, or agree to any settl…",
+      "text": "Don't discuss fault, your injuries in detail, or agree to any settlement without consulting with an attorney first. Remember, their job is to protect their client's interests, which might not align with yours. If you're feeling pressured or unsure, it's a strong sign to reach out to a personal injury attorney like Angelo J.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: He can step in to handle all communications with the insurance adju…",
+      "text": "He can step in to handle all communications with the insurance adjusters, protecting your rights and making sure you don't inadvertently jeopardize your ability to recover the full value of your claim. Getting expert help early on can make a huge difference.",
+      "@type": "HowToStep",
+      "position": 4
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Penasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "La Presa",
+      "@type": "City"
+    },
+    {
+      "name": "Casa de Oro",
+      "@type": "City"
+    },
+    {
+      "name": "Campo",
+      "@type": "City"
+    },
+    {
+      "name": "Potrero",
+      "@type": "City"
+    },
+    {
+      "name": "Pine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Borrego Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Pauma Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Pala",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ysabel",
+      "@type": "City"
+    },
+    {
+      "name": "Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Descanso",
+      "@type": "City"
+    }
+  ],
+  "description": "After a car accident, it feels like insurance companies pop up out of nowhere, right? It's crucial to handle those first calls wisely, because what you say or do can definitely impact your claim. When"
+}

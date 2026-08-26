@@ -1,0 +1,247 @@
+{
+  "name": "What are the long-term consequences of a domestic violence conviction?",
+  "step": [
+    {
+      "name": "Step 1: [ ] Criminal Record & Reputation: A conviction will be on your perm…",
+      "text": "[ ] Criminal Record & Reputation: A conviction will be on your permanent criminal record, which can significantly damage your reputation in your community and professional life. It's not something that just goes away easily.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: [ ] Employment Challenges: Many employers conduct background checks",
+      "text": "[ ] Employment Challenges: Many employers conduct background checks. A domestic violence conviction can make it extremely difficult to get or keep a job, especially in fields requiring trust or working with vulnerable populations. Even if you have a job, it could put it at risk.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: [ ] Housing Difficulties: Landlords also often run background checks",
+      "text": "[ ] Housing Difficulties: Landlords also often run background checks. Finding suitable housing can become a serious hurdle, as a conviction might be seen as a liability.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: [ ] Loss of Firearm Rights: Federal law, and often state law, prohi…",
+      "text": "[ ] Loss of Firearm Rights: Federal law, and often state law, prohibits individuals convicted of domestic violence from owning or possessing firearms. This is a permanent loss that affects many aspects of life, including certain professions and self-defense.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: [ ] Impact on Family & Custody: A domestic violence conviction can…",
+      "text": "[ ] Impact on Family & Custody: A domestic violence conviction can severely affect child custody and visitation rights. Courts prioritize the safety of children, and such a conviction can be a major factor in decisions regarding parental roles.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: [ ] Mandatory Programs & Fines: You'll likely face mandatory domest…",
+      "text": "[ ] Mandatory Programs & Fines: You'll likely face mandatory domestic violence offender programs, which are lengthy and often costly. There will also be substantial fines and court fees.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: [ ] Immigration Consequences: For non-citizens, a domestic violence…",
+      "text": "[ ] Immigration Consequences: For non-citizens, a domestic violence conviction can have severe immigration consequences, potentially leading to deportation or making it impossible to obtain a green card or citizenship.",
+      "@type": "HowToStep",
+      "position": 7
+    },
+    {
+      "name": "Step 8: [ ] Restraining Orders: Often, a conviction comes with protective o…",
+      "text": "[ ] Restraining Orders: Often, a conviction comes with protective orders or restraining orders, which can restrict your contact with certain individuals and force you to stay a certain distance away from them or specific locations.",
+      "@type": "HowToStep",
+      "position": 8
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Penasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "La Presa",
+      "@type": "City"
+    },
+    {
+      "name": "Casa de Oro",
+      "@type": "City"
+    },
+    {
+      "name": "Campo",
+      "@type": "City"
+    },
+    {
+      "name": "Potrero",
+      "@type": "City"
+    },
+    {
+      "name": "Pine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Borrego Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Pauma Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Pala",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ysabel",
+      "@type": "City"
+    },
+    {
+      "name": "Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Descanso",
+      "@type": "City"
+    }
+  ],
+  "description": "[ ] Criminal Record & Reputation: A conviction will be on your permanent criminal record, which can significantly damage your reputation in your community and professional life. It's not something tha"
+}

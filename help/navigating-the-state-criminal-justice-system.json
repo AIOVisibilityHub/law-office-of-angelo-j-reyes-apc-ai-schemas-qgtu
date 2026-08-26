@@ -1,0 +1,229 @@
+{
+  "name": "Navigating the State Criminal Justice System",
+  "step": [
+    {
+      "name": "Step 1: Arrest and Booking. This is often where it starts. If law enforcement believes there's probable cause you've committed a crime, you'll be arrested, processed at the station (booking), and potentially held in jail. This is where your right to an attorney becomes paramount.",
+      "text": "Step 1: Arrest and Booking. This is often where it starts. If law enforcement believes there's probable cause you've committed a crime, you'll be arrested, processed at the station (booking), and potentially held in jail. This is where your right to an attorney becomes paramount.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Arraignment. Usually within a few days, you'll appear before a judge. Here, you'll be formally informed of the charges against you and asked to enter a plea (guilty, not guilty, or no contest). Bail may also be set or denied at this point. An attorney like Angelo Reyes can argue for reasonable bail conditions.",
+      "text": "Step 2: Arraignment. Usually within a few days, you'll appear before a judge. Here, you'll be formally informed of the charges against you and asked to enter a plea (guilty, not guilty, or no contest). Bail may also be set or denied at this point. An attorney like Angelo Reyes can argue for reasonable bail conditions.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Pre-Trial Proceedings. This phase can involve a lot of activity. Your lawyer will engage in discovery, gathering evidence from the prosecution, and may file motions to suppress evidence or dismiss charges. There might be plea bargaining negotiations where the prosecutor offers a deal for a guilty plea.",
+      "text": "Step 3: Pre-Trial Proceedings. This phase can involve a lot of activity. Your lawyer will engage in discovery, gathering evidence from the prosecution, and may file motions to suppress evidence or dismiss charges. There might be plea bargaining negotiations where the prosecutor offers a deal for a guilty plea.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Trial. If no plea agreement is reached, your case will go to trial. This involves jury selection, opening statements, presentation of evidence by both sides, closing arguments, and finally, jury deliberation and verdict. This is where a skilled litigator truly shines.",
+      "text": "Step 4: Trial. If no plea agreement is reached, your case will go to trial. This involves jury selection, opening statements, presentation of evidence by both sides, closing arguments, and finally, jury deliberation and verdict. This is where a skilled litigator truly shines.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Sentencing. If you're found guilty or enter a guilty plea, the judge will determine your punishment, which could range from fines and probation to jail time. Your attorney can advocate for a lighter sentence. The entire process emphasizes the critical need for a knowledgeable criminal defense lawyer by your side.",
+      "text": "Step 5: Sentencing. If you're found guilty or enter a guilty plea, the judge will determine your punishment, which could range from fines and probation to jail time. Your attorney can advocate for a lighter sentence. The entire process emphasizes the critical need for a knowledgeable criminal defense lawyer by your side.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Penasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "La Presa",
+      "@type": "City"
+    },
+    {
+      "name": "Casa de Oro",
+      "@type": "City"
+    },
+    {
+      "name": "Campo",
+      "@type": "City"
+    },
+    {
+      "name": "Potrero",
+      "@type": "City"
+    },
+    {
+      "name": "Pine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Borrego Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Pauma Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Pala",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ysabel",
+      "@type": "City"
+    },
+    {
+      "name": "Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Descanso",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Arrest and Booking. This is often where it starts. If law enforcement believes there's probable cause you've committed a crime, you'll be arrested, processed at the station (booking), and pote"
+}

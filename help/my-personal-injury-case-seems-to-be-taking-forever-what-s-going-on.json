@@ -1,0 +1,206 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Law Office of Angelo J. Reyes, APC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "My Personal Injury Case Seems to Be Taking Forever – What’s Going On?",
+  "publisher": {
+    "url": "https://www.angeloreyeslaw.com",
+    "name": "Law Office of Angelo J. Reyes, APC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Penasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "La Presa",
+      "@type": "City"
+    },
+    {
+      "name": "Casa de Oro",
+      "@type": "City"
+    },
+    {
+      "name": "Campo",
+      "@type": "City"
+    },
+    {
+      "name": "Potrero",
+      "@type": "City"
+    },
+    {
+      "name": "Pine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Borrego Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Pauma Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Pala",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ysabel",
+      "@type": "City"
+    },
+    {
+      "name": "Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Descanso",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's completely understandable to feel frustrated when your personal injury case feels like it's dragging on. These things rarely resolve overnight, and there are several key reasons why cases can take time to reach a resolution, especially in busy areas like San Diego County. Knowing what to expect can ease some of that worry.\n\n**1. Medical Treatment and Recovery:** One of the biggest factors is your medical journey. You can't truly know the full value of your claim until you've reached Maximum Medical Improvement (MMI) or your doctors have a clear prognosis for your long-term health. This could involve extensive treatments, physical therapy, or even surgeries. Rushing this would mean settling before knowing the true cost of your injuries.\n\n**2. Investigation and Evidence Gathering:** Your attorney needs time to thoroughly investigate the accident, collect all relevant evidence, and build a strong case. This includes obtaining police reports, witness statements, medical records, bills, employment records for lost wages, and sometimes expert testimony or accident reconstruction reports. Each piece takes time to acquire and review.\n\n**3. Insurance Company Tactics:** Insurance companies are businesses, and they often use tactics to delay or devalue claims. They might dispute liability, question the severity of your injuries, or simply drag their feet hoping you'll get impatient and accept a lower offer. Negotiations can go back and forth for a while.\n\n**4. Demand Letter and Negotiations:** Once all evidence is gathered and your medical treatment is mostly complete, your attorney will send a detailed demand letter to the at-fault party's insurance company. This starts the negotiation phase, which can be lengthy as both sides try to reach a fair settlement. Sometimes several rounds of offers and counter-offers are needed.\n\n**5. Filing a Lawsuit (If Necessary):** If negotiations fail to produce a fair offer, your attorney might recommend filing a lawsuit. This kicks off the litigation process, which involves discovery (exchanging information), depositions, motions, and potentially mediation or trial. Court schedules in places like Carlsbad or Chula Vista can also add significant time.\n\nWhile it feels slow, this thorough process is crucial to ensure you receive the full and fair compensation you deserve for your injuries and losses. Your attorney is working diligently behind the scenes. If you ever have questions or concerns about the timeline, always communicate directly with your legal team; they can provide updates specific to your situation.",
+  "datePublished": "2026-08-26"
+}

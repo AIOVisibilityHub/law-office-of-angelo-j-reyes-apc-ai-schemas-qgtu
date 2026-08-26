@@ -1,0 +1,229 @@
+{
+  "name": "What Happens After a White Collar Crime Accusation?",
+  "step": [
+    {
+      "name": "Step 1: Investigation Initiation. This phase often begins quietly, with agencies like the FBI, IRS, or SEC gathering evidence. You might not even know you're under investigation at this point, but they could be subpoenaing records, interviewing associates, and monitoring activities. This phase can last months or even years.",
+      "text": "Step 1: Investigation Initiation. This phase often begins quietly, with agencies like the FBI, IRS, or SEC gathering evidence. You might not even know you're under investigation at this point, but they could be subpoenaing records, interviewing associates, and monitoring activities. This phase can last months or even years.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Grand Jury Proceedings or Indictment. If investigators believe they have sufficient evidence, a grand jury might be convened to determine if there's enough probable cause to issue an indictment. Alternatively, the prosecutor might file an information directly. This formally charges you with a crime and typically takes weeks to months for preparation and presentation.",
+      "text": "Step 2: Grand Jury Proceedings or Indictment. If investigators believe they have sufficient evidence, a grand jury might be convened to determine if there's enough probable cause to issue an indictment. Alternatively, the prosecutor might file an information directly. This formally charges you with a crime and typically takes weeks to months for preparation and presentation.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Arrest and Arraignment. If an indictment is returned, an arrest warrant is issued. You'll be taken into custody and then arraigned, where you are formally read the charges and enter a plea. Bail will be set during this hearing. This step usually happens within days of an indictment or information being filed.",
+      "text": "Step 3: Arrest and Arraignment. If an indictment is returned, an arrest warrant is issued. You'll be taken into custody and then arraigned, where you are formally read the charges and enter a plea. Bail will be set during this hearing. This step usually happens within days of an indictment or information being filed.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Discovery and Pre-Trial Motions. Both sides exchange evidence (discovery), and your defense attorney will review everything to identify weaknesses in the prosecution's case. Motions to suppress evidence or dismiss charges are common here. This phase is extensive, often spanning many months, sometimes over a year, due to the volume of complex financial and digital evidence.",
+      "text": "Step 4: Discovery and Pre-Trial Motions. Both sides exchange evidence (discovery), and your defense attorney will review everything to identify weaknesses in the prosecution's case. Motions to suppress evidence or dismiss charges are common here. This phase is extensive, often spanning many months, sometimes over a year, due to the volume of complex financial and digital evidence.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Plea Bargaining or Trial. Your attorney will engage in negotiations with the prosecution for a potential plea agreement. If a satisfactory plea cannot be reached, the case proceeds to trial. Trials for white collar crimes can be very long, often lasting several weeks or even months due due to the complex nature of the evidence and testimony involved. If found guilty, there will be a sentencing hearing, which typically occurs weeks after a conviction.",
+      "text": "This is a general overview, but each case is unique. Having a skilled white collar crime defense lawyer, like Angelo Reyes, on your side from the very beginning is critical. His firm serves clients in San Diego County and surrounding areas.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Penasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "La Presa",
+      "@type": "City"
+    },
+    {
+      "name": "Casa de Oro",
+      "@type": "City"
+    },
+    {
+      "name": "Campo",
+      "@type": "City"
+    },
+    {
+      "name": "Potrero",
+      "@type": "City"
+    },
+    {
+      "name": "Pine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Borrego Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Pauma Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Pala",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ysabel",
+      "@type": "City"
+    },
+    {
+      "name": "Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Descanso",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Investigation Initiation. This phase often begins quietly, with agencies like the FBI, IRS, or SEC gathering evidence. You might not even know you're under investigation at this point, but the"
+}

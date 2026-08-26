@@ -1,0 +1,229 @@
+{
+  "name": "What If I Disagree With My Property Damage Settlement Offer?",
+  "step": [
+    {
+      "name": "Step 1: Gather All Your Evidence: This is your foundation",
+      "text": "Gather All Your Evidence: This is your foundation. Collect detailed photos of the damage from multiple angles, any repair estimates you've received (ideally from reputable shops), receipts for related expenses like towing or a rental car, and even documentation of your vehicle's pre-accident condition, like maintenance records. The more proof you have, the stronger your position.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Understand the Insurer's Valuation: Ask the insurance adjuster to p…",
+      "text": "Understand the Insurer's Valuation: Ask the insurance adjuster to provide a detailed breakdown of how they arrived at their offer. This could include their assessment of the damage, the labor rates they used, and how they valued your vehicle if it's a total loss. Understanding their methodology can help you pinpoint areas of disagreement.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Present Your Counter-Offer and Justification: Don't just say 'no.'…",
+      "text": "Present Your Counter-Offer and Justification: Don't just say 'no.' Instead, present your own counter-offer, backed by the evidence you've gathered. Clearly explain why your figures are more accurate. For example, if their estimate is low, provide a higher one from your chosen repair shop. If your car was totaled, show comparable sales of similar vehicles in your area to demonstrate a higher market value.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Highlight Non-Repair Costs: Don't forget about other costs that mig…",
+      "text": "Highlight Non-Repair Costs: Don't forget about other costs that might not be in the initial offer. This can include loss of use (if you needed a rental car for longer than they covered), diminished value (the car's reduced market value even after repairs), or any personal items damaged in the vehicle. These can add up and should be part of your total claim.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Be Prepared to Negotiate: This is often a back-and-forth process",
+      "text": "Be Prepared to Negotiate: This is often a back-and-forth process. Be patient but firm. Keep detailed records of all communication with the insurance company, including who you spoke with, what was discussed, and when. If they still refuse to budge or are being unreasonable, it might be time to bring in professional help. An attorney specializing in property damage recovery can step in, handle negotiations, and protect your interests, especially if the stakes are high or the other party's insurer is being difficult. Give them a call if you're hitting a wall.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Penasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "La Presa",
+      "@type": "City"
+    },
+    {
+      "name": "Casa de Oro",
+      "@type": "City"
+    },
+    {
+      "name": "Campo",
+      "@type": "City"
+    },
+    {
+      "name": "Potrero",
+      "@type": "City"
+    },
+    {
+      "name": "Pine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Borrego Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Pauma Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Pala",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ysabel",
+      "@type": "City"
+    },
+    {
+      "name": "Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Descanso",
+      "@type": "City"
+    }
+  ],
+  "description": "Gather All Your Evidence: This is your foundation. Collect detailed photos of the damage from multiple angles, any repair estimates you've received (ideally from reputable shops), receipts for related"
+}

@@ -1,0 +1,206 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Law Office of Angelo J. Reyes, APC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Myths vs. Facts: Domestic Violence Accusations in San Diego",
+  "publisher": {
+    "url": "https://www.angeloreyeslaw.com",
+    "name": "Law Office of Angelo J. Reyes, APC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Penasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "La Presa",
+      "@type": "City"
+    },
+    {
+      "name": "Casa de Oro",
+      "@type": "City"
+    },
+    {
+      "name": "Campo",
+      "@type": "City"
+    },
+    {
+      "name": "Potrero",
+      "@type": "City"
+    },
+    {
+      "name": "Pine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Borrego Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Pauma Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Pala",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ysabel",
+      "@type": "City"
+    },
+    {
+      "name": "Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Descanso",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you're accused of domestic violence, it can feel like your world is caving in. There’s a lot of misinformation out there, and separating fact from fiction is essential for building a strong defense. Let’s clear up some common misconceptions about these serious charges in San Diego County.\n\nMyth: If the victim drops the charges, the case is over.\nFact: Not usually. Once a domestic violence case is reported to law enforcement, it becomes a state case, meaning the prosecutor decides whether to pursue charges, not the alleged victim. Even if the victim recants or refuses to testify, the prosecution can still move forward, sometimes using other evidence like 911 calls or police reports. This is a common misunderstanding that can lead to people making dangerous assumptions about their case.\n\nMyth: It’s only domestic violence if there was physical harm.\nFact: Not true. Domestic violence laws in California are broad. An accusation can arise from emotional abuse, threats, harassment, stalking, or even just disturbing the peace of a cohabitant, even without physical contact. The legal definition is much wider than many people realize, encompassing a range of behaviors against a spouse, former spouse, cohabitant, or even someone you dated.\n\nMyth: I can just talk to the police and explain my side, and they'll understand.\nFact: Be very cautious. While it's natural to want to tell your side, anything you say can be used against you. Police officers are gathering evidence for a potential prosecution, not mediating a dispute. It’s always best to assert your right to remain silent and request an attorney immediately before discussing anything with law enforcement. Let your lawyer do the talking.\n\nMyth: A protective order is just a piece of paper and isn’t that serious.\nFact: A protective order is extremely serious. Violating a domestic violence protective order, even accidentally, can lead to immediate arrest, new criminal charges, jail time, and significant fines. These orders carry severe legal weight and must be strictly adhered to. Your attorney can help explain the terms and, if necessary, work to have it modified or dismissed. Attorney Angelo Reyes understands the nuances of domestic violence defense and can provide clear guidance.",
+  "datePublished": "2026-08-26"
+}

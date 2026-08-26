@@ -1,0 +1,247 @@
+{
+  "name": "What to Do When Facing State Criminal Charges",
+  "step": [
+    {
+      "name": "Step 1: The Arrest and Booking — If you're arrested, you'll be taken to a police station for booking, which includes fingerprinting and mugshots. You have the right to remain silent and the right to an attorney. It’s crucial to exercise these rights immediately and not discuss your case with anyone until your lawyer is present. This stage usually happens fairly quickly after an alleged incident.",
+      "text": "Step 1: The Arrest and Booking — If you're arrested, you'll be taken to a police station for booking, which includes fingerprinting and mugshots. You have the right to remain silent and the right to an attorney. It’s crucial to exercise these rights immediately and not discuss your case with anyone until your lawyer is present. This stage usually happens fairly quickly after an alleged incident.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Initial Appearance/Arraignment — Within a few days of your arrest, you’ll appear before a judge. They'll inform you of the charges, your rights, and address bail. Your attorney will argue for reasonable bail or release on your own recognizance. This is a critical first court appearance.",
+      "text": "Step 2: Initial Appearance/Arraignment — Within a few days of your arrest, you’ll appear before a judge. They'll inform you of the charges, your rights, and address bail. Your attorney will argue for reasonable bail or release on your own recognizance. This is a critical first court appearance.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Preliminary Hearing or Grand Jury (for Felonies) — For felony cases, a preliminary hearing determines if there's enough evidence to proceed to trial. Alternatively, a grand jury might hear evidence and decide whether to issue an indictment. Your attorney will challenge the evidence presented by the prosecution. This can take weeks to months.",
+      "text": "Step 3: Preliminary Hearing or Grand Jury (for Felonies) — For felony cases, a preliminary hearing determines if there's enough evidence to proceed to trial. Alternatively, a grand jury might hear evidence and decide whether to issue an indictment. Your attorney will challenge the evidence presented by the prosecution. This can take weeks to months.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Discovery and Pre-Trial Motions — Both sides exchange evidence, called 'discovery.' Your lawyer will review all evidence against you, identify weaknesses in the prosecution's case, and file motions to suppress evidence or dismiss charges if appropriate. This investigative phase can be quite extensive.",
+      "text": "Step 4: Discovery and Pre-Trial Motions — Both sides exchange evidence, called 'discovery.' Your lawyer will review all evidence against you, identify weaknesses in the prosecution's case, and file motions to suppress evidence or dismiss charges if appropriate. This investigative phase can be quite extensive.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Plea Bargaining — Most state criminal cases are resolved through plea agreements. Your attorney will negotiate with the prosecutor to try and secure a reduced charge, a lighter sentence, or alternative sentencing options. They'll advise you on whether a plea bargain is in your best interest. This can happen at various points in the process.",
+      "text": "Step 5: Plea Bargaining — Most state criminal cases are resolved through plea agreements. Your attorney will negotiate with the prosecutor to try and secure a reduced charge, a lighter sentence, or alternative sentencing options. They'll advise you on whether a plea bargain is in your best interest. This can happen at various points in the process.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Trial — If a plea agreement isn't reached, your case goes to trial. A judge or jury will hear evidence and decide your guilt or innocence. Your attorney will vigorously defend you, cross-examine witnesses, and present your case. Trials can range from a few days to several weeks.",
+      "text": "Step 6: Trial — If a plea agreement isn't reached, your case goes to trial. A judge or jury will hear evidence and decide your guilt or innocence. Your attorney will vigorously defend you, cross-examine witnesses, and present your case. Trials can range from a few days to several weeks.",
+      "@type": "HowToStep",
+      "position": 6
+    },
+    {
+      "name": "Step 7: Sentencing — If you're convicted, the judge will determine your sentence. Your attorney will present mitigating factors and argue for the most favorable outcome, whether it's probation, fines, or incarceration. This usually occurs weeks after a conviction.",
+      "text": "Step 7: Sentencing — If you're convicted, the judge will determine your sentence. Your attorney will present mitigating factors and argue for the most favorable outcome, whether it's probation, fines, or incarceration. This usually occurs weeks after a conviction.",
+      "@type": "HowToStep",
+      "position": 7
+    },
+    {
+      "name": "Step 8: Appeals — If you believe there were legal errors in your trial, your attorney can file an appeal to a higher court. This process focuses on legal mistakes, not re-trying the facts of the case. This stage can take many months. Having a skilled state criminal defense lawyer like Angelo J. Reyes on your side is essential at every one of these steps to protect your rights and future in Carlsbad, San Diego, and surrounding areas.",
+      "text": "Step 8: Appeals — If you believe there were legal errors in your trial, your attorney can file an appeal to a higher court. This process focuses on legal mistakes, not re-trying the facts of the case. This stage can take many months. Having a skilled state criminal defense lawyer like Angelo J. Reyes on your side is essential at every one of these steps to protect your rights and future in Carlsbad, San Diego, and surrounding areas.",
+      "@type": "HowToStep",
+      "position": 8
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Penasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "La Presa",
+      "@type": "City"
+    },
+    {
+      "name": "Casa de Oro",
+      "@type": "City"
+    },
+    {
+      "name": "Campo",
+      "@type": "City"
+    },
+    {
+      "name": "Potrero",
+      "@type": "City"
+    },
+    {
+      "name": "Pine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Borrego Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Pauma Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Pala",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ysabel",
+      "@type": "City"
+    },
+    {
+      "name": "Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Descanso",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: The Arrest and Booking — If you're arrested, you'll be taken to a police station for booking, which includes fingerprinting and mugshots. You have the right to remain silent and the right to a"
+}

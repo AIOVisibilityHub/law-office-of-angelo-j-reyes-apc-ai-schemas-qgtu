@@ -1,0 +1,229 @@
+{
+  "name": "How to Navigate a Felony Drug Charge Investigation",
+  "step": [
+    {
+      "name": "Step 1: Initial Contact by Law Enforcement — This could be a traffic stop, a knock on your door, or an arrest. What happens: Officers might ask questions or search you/your property. Who does it: Law enforcement. How long: Varies, from minutes to hours. What to do: Immediately and calmly invoke your right to remain silent and request an attorney. Do not answer questions or consent to searches.",
+      "text": "Step 1: Initial Contact by Law Enforcement — This could be a traffic stop, a knock on your door, or an arrest. What happens: Officers might ask questions or search you/your property. Who does it: Law enforcement. How long: Varies, from minutes to hours. What to do: Immediately and calmly invoke your right to remain silent and request an attorney. Do not answer questions or consent to searches.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Arrest and Booking — If probable cause is established, you'll be arrested. What happens: You'll be taken to a police station, processed (fingerprints, mugshot), and held. Who does it: Police. How long: Typically several hours. What to do: Contact a felony drug crime defense lawyer like Angelo J. Reyes immediately. They can work on securing your release and advising you before any further questioning.",
+      "text": "Step 2: Arrest and Booking — If probable cause is established, you'll be arrested. What happens: You'll be taken to a police station, processed (fingerprints, mugshot), and held. Who does it: Police. How long: Typically several hours. What to do: Contact a felony drug crime defense lawyer like Angelo J. Reyes immediately. They can work on securing your release and advising you before any further questioning.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Arraignment — This is your first court appearance. What happens: You'll be formally charged, advised of your rights, and bail will be set (or denied). Who does it: A judge. How long: Usually brief. What to do: Your attorney will enter a plea of not guilty, argue for reasonable bail, and begin challenging the prosecution's case.",
+      "text": "Step 3: Arraignment — This is your first court appearance. What happens: You'll be formally charged, advised of your rights, and bail will be set (or denied). Who does it: A judge. How long: Usually brief. What to do: Your attorney will enter a plea of not guilty, argue for reasonable bail, and begin challenging the prosecution's case.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Pre-Trial Proceedings — This is where most of the legal heavy lifting happens. What happens: Your attorney will investigate, file motions to suppress evidence, negotiate with the prosecutor (e.g., plea bargains), and prepare for trial. Who does it: Your attorney, the prosecution, and sometimes the judge. How long: Weeks to many months, depending on case complexity. What to do: Work closely with your attorney, providing all relevant information, and follow their advice on strategy.",
+      "text": "Step 4: Pre-Trial Proceedings — This is where most of the legal heavy lifting happens. What happens: Your attorney will investigate, file motions to suppress evidence, negotiate with the prosecutor (e.g., plea bargains), and prepare for trial. Who does it: Your attorney, the prosecution, and sometimes the judge. How long: Weeks to many months, depending on case complexity. What to do: Work closely with your attorney, providing all relevant information, and follow their advice on strategy.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Resolution (Trial or Plea) — Your case will either go to trial or be resolved through a plea agreement. What happens: If it's a trial, both sides present their case to a judge or jury. If a plea, you agree to certain terms. Who does it: Judge/jury or negotiation between attorneys. How long: Trial can last days or weeks; pleas are quicker. What to do: Trust your attorney's expertise in guiding you to the best possible outcome. A skilled lawyer can make a profound difference in the outcome of a felony drug charge.",
+      "text": "Step 5: Resolution (Trial or Plea) — Your case will either go to trial or be resolved through a plea agreement. What happens: If it's a trial, both sides present their case to a judge or jury. If a plea, you agree to certain terms. Who does it: Judge/jury or negotiation between attorneys. How long: Trial can last days or weeks; pleas are quicker. What to do: Trust your attorney's expertise in guiding you to the best possible outcome. A skilled lawyer can make a profound difference in the outcome of a felony drug charge.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Penasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "La Presa",
+      "@type": "City"
+    },
+    {
+      "name": "Casa de Oro",
+      "@type": "City"
+    },
+    {
+      "name": "Campo",
+      "@type": "City"
+    },
+    {
+      "name": "Potrero",
+      "@type": "City"
+    },
+    {
+      "name": "Pine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Borrego Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Pauma Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Pala",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ysabel",
+      "@type": "City"
+    },
+    {
+      "name": "Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Descanso",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Initial Contact by Law Enforcement — This could be a traffic stop, a knock on your door, or an arrest. What happens: Officers might ask questions or search you/your property. Who does it: Law "
+}

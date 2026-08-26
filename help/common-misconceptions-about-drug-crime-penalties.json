@@ -1,0 +1,206 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Law Office of Angelo J. Reyes, APC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Common Misconceptions About Drug Crime Penalties",
+  "publisher": {
+    "url": "https://www.angeloreyeslaw.com",
+    "name": "Law Office of Angelo J. Reyes, APC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Penasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "La Presa",
+      "@type": "City"
+    },
+    {
+      "name": "Casa de Oro",
+      "@type": "City"
+    },
+    {
+      "name": "Campo",
+      "@type": "City"
+    },
+    {
+      "name": "Potrero",
+      "@type": "City"
+    },
+    {
+      "name": "Pine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Borrego Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Pauma Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Pala",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ysabel",
+      "@type": "City"
+    },
+    {
+      "name": "Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Descanso",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "When you're dealing with drug crime accusations, it's easy to get caught up in rumors or misunderstandings about what could actually happen. The legal landscape around drug offenses is pretty nuanced, and what you hear on TV or from friends might not be the full picture. Let's clear up some common myths about drug crime penalties.\n\nMyth: First-time drug offenders always get a slap on the wrist. Fact: While some first-time offenses might lead to lighter sentences or diversion programs, many factors influence the outcome. The type of drug, quantity, intent (personal use vs. sales), and even where the alleged crime took place can all significantly increase penalties, even for a first offense. Don't assume it will be minor.\n\nMyth: If the drugs weren't on your person, you can't be charged. Fact: This isn't true at all. You can be charged with 'constructive possession' if law enforcement can prove you had control over the drugs, even if they weren't in your pocket. This could mean they were in your car, your home, or a shared space you had access to. Location isn't everything.\n\nMyth: You can just talk your way out of it by explaining to the police. Fact: Engaging in conversations with law enforcement without legal representation is one of the riskiest things you can do. Any statements, even if you think they're innocent, can be misconstrued or used against you. Your best bet is to respectfully assert your right to remain silent and ask for an attorney immediately.\n\nMyth: All drug charges are felonies. Fact: Not every drug charge is a felony, though many can be. Possession of smaller quantities of certain drugs might be charged as a misdemeanor. However, possession with intent to sell, transportation, or manufacturing often escalates to felony charges, which carry much harsher penalties. Understanding this distinction is vital.\n\nMyth: A public defender is just as good as a private attorney for drug cases. Fact: While public defenders are dedicated, they often have extremely heavy caseloads, which can limit the time they can dedicate to individual cases. A private attorney, like Angelo J. Reyes, often has more resources and time to dedicate to a thorough investigation and defense strategy tailored specifically for your situation. Choosing the right representation can make a substantial difference in navigating the complexities of drug crime penalties in San Diego County.",
+  "datePublished": "2026-08-26"
+}

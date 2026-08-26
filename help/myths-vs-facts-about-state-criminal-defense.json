@@ -1,0 +1,206 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Law Office of Angelo J. Reyes, APC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "Myths vs. Facts About State Criminal Defense",
+  "publisher": {
+    "url": "https://www.angeloreyeslaw.com",
+    "name": "Law Office of Angelo J. Reyes, APC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Penasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "La Presa",
+      "@type": "City"
+    },
+    {
+      "name": "Casa de Oro",
+      "@type": "City"
+    },
+    {
+      "name": "Campo",
+      "@type": "City"
+    },
+    {
+      "name": "Potrero",
+      "@type": "City"
+    },
+    {
+      "name": "Pine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Borrego Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Pauma Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Pala",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ysabel",
+      "@type": "City"
+    },
+    {
+      "name": "Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Descanso",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "There's a lot of misinformation out there about state criminal charges and how the legal system works. When you're facing these serious accusations in San Diego County, it's really important to separate the myths from the facts. Here are a few common misconceptions we often hear:\n\n**Myth:** If the police didn't read me my Miranda Rights, my case will automatically be dismissed.\n**Fact:** Not exactly. Miranda warnings (your right to remain silent and right to an attorney) only apply when you are in custody AND being interrogated. If police don't read them, it usually means that any statements you made *after* that point can't be used against you in court. It doesn't typically lead to an automatic dismissal of all charges. Your attorney can file a motion to suppress those statements.\n\n**Myth:** I can talk my way out of this with the police.\n**Fact:** This is a big one. Any conversation with law enforcement without your attorney present can severely harm your case. Even if you think you're innocent, police are trained to gather information, and seemingly harmless statements can be twisted or used against you. Always politely invoke your right to remain silent and request an attorney.\n\n**Myth:** Public defenders aren't as good as private attorneys.\n**Fact:** Public defenders are often highly experienced and dedicated attorneys who handle a high volume of cases, giving them extensive courtroom experience. They are fully qualified and committed to defending their clients. The best choice for you depends on your specific situation and needs, and a good private attorney like Angelo J. Reyes can offer personalized attention and specialized resources.\n\n**Myth:** If the victim wants to drop the charges, the case is over.\n**Fact:** While the victim's wishes are considered, once a crime is reported and charges are filed, it's typically the state (the prosecutor) that decides whether to pursue or drop the charges, not the victim. The prosecutor will weigh many factors, including the evidence, public safety, and the victim's input, but they have the final say. Understanding these facts is vital for anyone navigating the state criminal justice system. Don't let myths guide your decisions; seek expert advice from a state criminal defense lawyer like Angelo J. Reyes in Carlsbad and other San Diego County areas.",
+  "datePublished": "2026-08-26"
+}

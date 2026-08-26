@@ -1,0 +1,206 @@
+{
+  "@type": "Article",
+  "author": {
+    "name": "Law Office of Angelo J. Reyes, APC",
+    "@type": "Organization"
+  },
+  "@context": "https://schema.org",
+  "headline": "What If I Didn't Know I Hit Someone?",
+  "publisher": {
+    "url": "https://www.angeloreyeslaw.com",
+    "name": "Law Office of Angelo J. Reyes, APC",
+    "@type": "Organization"
+  },
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".article-summary",
+      "article p:first-of-type"
+    ]
+  },
+  "areaServed": [
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Penasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "La Presa",
+      "@type": "City"
+    },
+    {
+      "name": "Casa de Oro",
+      "@type": "City"
+    },
+    {
+      "name": "Campo",
+      "@type": "City"
+    },
+    {
+      "name": "Potrero",
+      "@type": "City"
+    },
+    {
+      "name": "Pine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Borrego Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Pauma Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Pala",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ysabel",
+      "@type": "City"
+    },
+    {
+      "name": "Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Descanso",
+      "@type": "City"
+    }
+  ],
+  "articleBody": "It's a surprisingly common scenario: you're driving along, maybe you feel a bump or hear a strange noise, but you genuinely don't realize you've been involved in an accident, especially one that caused damage or injury. Then, suddenly, you're facing hit and run charges in San Diego. The key here is the 'knowledge' element. For a hit and run conviction, the prosecution generally needs to prove that you knew, or reasonably should have known, you were involved in an accident that caused damage or injury, and then you left the scene without stopping to exchange information or render aid.\n\nThis lack of knowledge can be a powerful defense, but it's not always easy to prove. Think about it: maybe you were driving a large truck, and a minor bump wasn't noticeable. Or perhaps the accident happened in a noisy environment, or you were distracted for a moment. These aren't excuses, but they can be legitimate explanations for why you didn't perceive an impact. The legal standard often asks whether a 'reasonable person' in your situation would have known an accident occurred. Your defense will focus on demonstrating that you genuinely lacked that knowledge.\n\nGathering evidence to support this claim is crucial. This might include testimony about road noise, vehicle size, your attention being focused elsewhere (safely, of course), or even mechanical issues with your car that might have masked an impact. It's also important to consider your actions immediately after the alleged incident. Did you drive home and notice damage you couldn't explain? Did you immediately report it once you realized what happened? Your subsequent actions can help or hurt your claim of unknowing. Sometimes, damage isn't visible until later, or a small bump might be mistaken for hitting a pothole or road debris.\n\nIf you find yourself in this situation, it's really important not to speak with law enforcement without first consulting a lawyer. Anything you say can be used against you, even if you're trying to explain your side of the story. A lawyer specializing in hit and run defense in San Diego can help you build a defense around the 'lack of knowledge' argument, gather necessary evidence, and negotiate with the prosecution. They can also explain your rights and ensure you don't inadvertently incriminate yourself. Don't try to navigate these complex waters alone; a free consultation can help you understand how to best approach your defense.",
+  "datePublished": "2026-08-26"
+}

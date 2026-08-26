@@ -1,0 +1,223 @@
+{
+  "name": "Facing a Felony: What Steps Should I Take?",
+  "step": [
+    {
+      "name": "Step 1: Understand the Severity of the Situation. Felonies can result in state prison time, massive fines, and a permanent criminal record that affects everything from voting rights to employment and housing. Don't underestimate the potential impact.",
+      "text": "Step 1: Understand the Severity of the Situation. Felonies can result in state prison time, massive fines, and a permanent criminal record that affects everything from voting rights to employment and housing. Don't underestimate the potential impact.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Remain Silent and Don't Resist. Anything you say or do can be used against you. Politely decline to answer questions and avoid resisting arrest. Ask to speak to your lawyer immediately.",
+      "text": "Step 2: Remain Silent and Don't Resist. Anything you say or do can be used against you. Politely decline to answer questions and avoid resisting arrest. Ask to speak to your lawyer immediately.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Contact a Skilled Felony Defense Lawyer. This is the most critical step. A lawyer can advise you on your rights, review the charges, gather evidence, and begin building a strong defense from day one. In San Diego, having an attorney who prepares every case for trial from the start is invaluable. They can protect you during police interrogations and guide you through the complex legal process.",
+      "text": "Step 3: Contact a Skilled Felony Defense Lawyer. This is the most critical step. A lawyer can advise you on your rights, review the charges, gather evidence, and begin building a strong defense from day one. In San Diego, having an attorney who prepares every case for trial from the start is invaluable. They can protect you during police interrogations and guide you through the complex legal process.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Cooperate with Your Legal Team. Be open and honest with your attorney. Provide all relevant information, and follow their advice. Your lawyer is your best advocate, working to protect your rights and future.",
+      "text": "Step 4: Cooperate with Your Legal Team. Be open and honest with your attorney. Provide all relevant information, and follow their advice. Your lawyer is your best advocate, working to protect your rights and future.",
+      "@type": "HowToStep",
+      "position": 4
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Penasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "La Presa",
+      "@type": "City"
+    },
+    {
+      "name": "Casa de Oro",
+      "@type": "City"
+    },
+    {
+      "name": "Campo",
+      "@type": "City"
+    },
+    {
+      "name": "Potrero",
+      "@type": "City"
+    },
+    {
+      "name": "Pine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Borrego Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Pauma Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Pala",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ysabel",
+      "@type": "City"
+    },
+    {
+      "name": "Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Descanso",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Understand the Severity of the Situation. Felonies can result in state prison time, massive fines, and a permanent criminal record that affects everything from voting rights to employment and "
+}

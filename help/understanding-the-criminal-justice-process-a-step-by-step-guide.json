@@ -1,0 +1,235 @@
+{
+  "name": "Understanding the Criminal Justice Process: A Step-by-Step Guide",
+  "step": [
+    {
+      "name": "Step 1: Arrest and Booking. This is often the initial phase where law enforcement takes you into custody. You'll be fingerprinted, photographed, and your personal information will be recorded. This usually happens quickly, and your right to remain silent and to an attorney is paramount here. An attorney, like Angelo Reyes, can help ensure your rights are protected from this very first step, even in cities like Vista or Escondido.",
+      "text": "Step 1: Arrest and Booking. This is often the initial phase where law enforcement takes you into custody. You'll be fingerprinted, photographed, and your personal information will be recorded. This usually happens quickly, and your right to remain silent and to an attorney is paramount here. An attorney, like Angelo Reyes, can help ensure your rights are protected from this very first step, even in cities like Vista or Escondido.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Arraignment. This is your first court appearance. The judge will read the charges against you, and you'll enter a plea (guilty, not guilty, or no contest). Bail may also be set at this point. Having a lawyer before your arraignment is really important, as they can advise you on your plea and argue for reasonable bail conditions.",
+      "text": "Step 2: Arraignment. This is your first court appearance. The judge will read the charges against you, and you'll enter a plea (guilty, not guilty, or no contest). Bail may also be set at this point. Having a lawyer before your arraignment is really important, as they can advise you on your plea and argue for reasonable bail conditions.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Pre-Trial Hearings/Motions. Over the next few weeks or months, there might be several court dates. Your attorney will gather evidence, interview witnesses, file motions to challenge evidence, and negotiate with the prosecutor. This is often where a strong defense is built, and plea bargains might be discussed. This phase can take varying amounts of time depending on the complexity of the case.",
+      "text": "Step 3: Pre-Trial Hearings/Motions. Over the next few weeks or months, there might be several court dates. Your attorney will gather evidence, interview witnesses, file motions to challenge evidence, and negotiate with the prosecutor. This is often where a strong defense is built, and plea bargains might be discussed. This phase can take varying amounts of time depending on the complexity of the case.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Trial. If a plea agreement isn't reached, or if you decide to fight the charges, your case will go to trial. This involves selecting a jury, presenting evidence, calling witnesses, and making arguments. This can be a lengthy and intense process, where skilled legal representation is absolutely essential to argue your case effectively in front of a judge and jury.",
+      "text": "Step 4: Trial. If a plea agreement isn't reached, or if you decide to fight the charges, your case will go to trial. This involves selecting a jury, presenting evidence, calling witnesses, and making arguments. This can be a lengthy and intense process, where skilled legal representation is absolutely essential to argue your case effectively in front of a judge and jury.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Sentencing. If you are found guilty or plead guilty, the judge will determine your sentence. This could involve fines, probation, or incarceration, among other penalties. Your attorney will advocate for the most lenient sentence possible, often presenting mitigating factors to the court. This is a critical stage where an attorney's ability to articulate your situation can significantly impact the outcome.",
+      "text": "Step 5: Sentencing. If you are found guilty or plead guilty, the judge will determine your sentence. This could involve fines, probation, or incarceration, among other penalties. Your attorney will advocate for the most lenient sentence possible, often presenting mitigating factors to the court. This is a critical stage where an attorney's ability to articulate your situation can significantly impact the outcome.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Post-Conviction Relief/Appeals. If you've been convicted, it might not be the end. Your lawyer can explore options like filing an appeal, expungement, or seeking other post-conviction relief, especially if your criminal record is impacting your employment, housing, or other opportunities. Attorney Angelo Reyes can help clients across San Diego County pursue these avenues to move forward.",
+      "text": "Step 6: Post-Conviction Relief/Appeals. If you've been convicted, it might not be the end. Your lawyer can explore options like filing an appeal, expungement, or seeking other post-conviction relief, especially if your criminal record is impacting your employment, housing, or other opportunities. Attorney Angelo Reyes can help clients across San Diego County pursue these avenues to move forward.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Penasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "La Presa",
+      "@type": "City"
+    },
+    {
+      "name": "Casa de Oro",
+      "@type": "City"
+    },
+    {
+      "name": "Campo",
+      "@type": "City"
+    },
+    {
+      "name": "Potrero",
+      "@type": "City"
+    },
+    {
+      "name": "Pine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Borrego Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Pauma Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Pala",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ysabel",
+      "@type": "City"
+    },
+    {
+      "name": "Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Descanso",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Arrest and Booking. This is often the initial phase where law enforcement takes you into custody. You'll be fingerprinted, photographed, and your personal information will be recorded. This us"
+}

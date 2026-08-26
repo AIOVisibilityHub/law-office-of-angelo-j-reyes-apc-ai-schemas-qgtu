@@ -1,0 +1,235 @@
+{
+  "name": "What Happens After a Felony Arrest in California?",
+  "step": [
+    {
+      "name": "Step 1: Arrest and Booking: If you're arrested, you'll be taken to a police station or jail for booking. This involves getting your fingerprints, mugshot, and a background check. You'll likely be held until a bail amount is set or you're released on your own recognizance. This phase typically takes a few hours, but you might be detained longer depending on the charges.",
+      "text": "Step 1: Arrest and Booking: If you're arrested, you'll be taken to a police station or jail for booking. This involves getting your fingerprints, mugshot, and a background check. You'll likely be held until a bail amount is set or you're released on your own recognizance. This phase typically takes a few hours, but you might be detained longer depending on the charges.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Arraignment: This is your first court appearance, usually within a few days of your arrest. The charges against you will be read, and you'll enter a plea (guilty, not guilty, or no contest). Your attorney will be there to represent you, advise on your plea, and discuss bail or release conditions. This step is often quick but sets the stage for the rest of your case.",
+      "text": "Step 2: Arraignment: This is your first court appearance, usually within a few days of your arrest. The charges against you will be read, and you'll enter a plea (guilty, not guilty, or no contest). Your attorney will be there to represent you, advise on your plea, and discuss bail or release conditions. This step is often quick but sets the stage for the rest of your case.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Preliminary Hearing (for some cases): For felony cases, a preliminary hearing might be held where a judge decides if there's enough evidence to proceed to trial. The prosecution presents some of its evidence, and your attorney can cross-examine witnesses. This isn't a trial, but it's an important hurdle, potentially lasting a few hours to a day.",
+      "text": "Step 3: Preliminary Hearing (for some cases): For felony cases, a preliminary hearing might be held where a judge decides if there's enough evidence to proceed to trial. The prosecution presents some of its evidence, and your attorney can cross-examine witnesses. This isn't a trial, but it's an important hurdle, potentially lasting a few hours to a day.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Pretrial Motions and Negotiations: Before a trial, your attorney will file motions to challenge evidence, suppress statements, or seek dismissal of charges. This is also when plea negotiations happen, where the prosecution might offer a deal in exchange for a guilty plea. This phase can take weeks or even months, depending on the complexity of the case and negotiations.",
+      "text": "Step 4: Pretrial Motions and Negotiations: Before a trial, your attorney will file motions to challenge evidence, suppress statements, or seek dismissal of charges. This is also when plea negotiations happen, where the prosecution might offer a deal in exchange for a guilty plea. This phase can take weeks or even months, depending on the complexity of the case and negotiations.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Trial: If no plea agreement is reached, your case goes to trial. A judge or jury will hear evidence from both sides and decide your guilt or innocence. A felony trial can be lengthy, often lasting several days or weeks, depending on the charges and number of witnesses.",
+      "text": "Step 5: Trial: If no plea agreement is reached, your case goes to trial. A judge or jury will hear evidence from both sides and decide your guilt or innocence. A felony trial can be lengthy, often lasting several days or weeks, depending on the charges and number of witnesses.",
+      "@type": "HowToStep",
+      "position": 5
+    },
+    {
+      "name": "Step 6: Sentencing (if convicted): If you're found guilty or enter a guilty plea, the court will proceed to sentencing. Felony sentences can range from probation to significant prison time, large fines, and other penalties. Your attorney will advocate for the most lenient sentence possible, often presenting mitigating factors. This occurs within weeks of conviction.",
+      "text": "Throughout this entire timeline, having a dedicated felony defense lawyer by your side is absolutely critical. They'll guide you, protect your rights, and work towards the best possible outcome at every turn. Don't go through this complex process alone.",
+      "@type": "HowToStep",
+      "position": 6
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Penasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "La Presa",
+      "@type": "City"
+    },
+    {
+      "name": "Casa de Oro",
+      "@type": "City"
+    },
+    {
+      "name": "Campo",
+      "@type": "City"
+    },
+    {
+      "name": "Potrero",
+      "@type": "City"
+    },
+    {
+      "name": "Pine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Borrego Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Pauma Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Pala",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ysabel",
+      "@type": "City"
+    },
+    {
+      "name": "Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Descanso",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Arrest and Booking: If you're arrested, you'll be taken to a police station or jail for booking. This involves getting your fingerprints, mugshot, and a background check. You'll likely be held"
+}
