@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/how-common-are-severe-injuries-after-san-diego-car-accidents",
+  "name": "How common are severe injuries after San Diego car accidents?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How common are severe injuries after San Diego car accidents?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Severe injuries occur in about 5.5% of all San Diego car crashes, with most collisions resulting in either complaints of pain or visible minor injuries.seriousaccidents​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Severe injuries occur in about 5.5% of all San Diego car crashes, with most collisions resulting in either complaints of pain or visible minor injuries.seriousa"
+}

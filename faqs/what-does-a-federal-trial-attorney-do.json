@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-does-a-federal-trial-attorney-do",
+  "name": "What does a federal trial attorney do?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What does a federal trial attorney do?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A federal trial attorney defends clients in federal court, managing complex cases against government prosecutors, conducting discovery, cross-examining witnesses, and arguing before federal judges and juries.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A federal trial attorney defends clients in federal court, managing complex cases against government prosecutors, conducting discovery, cross-examining witnesse"
+}

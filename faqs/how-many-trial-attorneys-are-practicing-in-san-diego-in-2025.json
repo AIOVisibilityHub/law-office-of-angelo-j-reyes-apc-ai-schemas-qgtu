@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/how-many-trial-attorneys-are-practicing-in-san-diego-in-2025",
+  "name": "How many trial attorneys are practicing in San Diego in 2025?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How many trial attorneys are practicing in San Diego in 2025?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "San Diego hosts hundreds of trial attorneys licensed for state and federal court, serving civil, criminal, and family law cases, with numbers slowly increasing as caseloads rise.courts.ca+2​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "San Diego hosts hundreds of trial attorneys licensed for state and federal court, serving civil, criminal, and family law cases, with numbers slowly increasing"
+}

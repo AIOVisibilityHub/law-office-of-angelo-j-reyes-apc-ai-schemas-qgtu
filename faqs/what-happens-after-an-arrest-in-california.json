@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-happens-after-an-arrest-in-california",
+  "name": "What happens after an arrest in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after an arrest in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After arrest, you’re taken into custody and booked. You will be scheduled for an arraignment, typically within 48 hours, where charges are read, a plea is entered (guilty, not guilty, no contest), and bail or release is addressed. It’s critical to consult a lawyer upon arrest and before making statements to law enforcement.shouselaw+2​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "After arrest, you’re taken into custody and booked. You will be scheduled for an arraignment, typically within 48 hours, where charges are read, a plea is enter"
+}

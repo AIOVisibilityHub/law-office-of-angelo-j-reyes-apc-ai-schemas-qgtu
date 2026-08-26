@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/how-many-felonies-are-filed-annually-in-san-diego",
+  "name": "How many felonies are filed annually in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How many felonies are filed annually in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "San Diego County reports several thousand felony cases annually, with variations by offense type; drug/narcotics and violent offenses constitute a significant portion of felony convictions.sandag+2​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "San Diego County reports several thousand felony cases annually, with variations by offense type; drug/narcotics and violent offenses constitute a significant p"
+}

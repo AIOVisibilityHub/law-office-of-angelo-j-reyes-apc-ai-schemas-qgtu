@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/how-does-underage-dui-impact-accident-rates-in-san-diego",
+  "name": "How does underage DUI impact accident rates in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does underage DUI impact accident rates in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Statistics show people under 21 in San Diego have a much higher risk for DUI crashes; about 25% of fatal car accidents involve underage drinking.sandiego​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Statistics show people under 21 in San Diego have a much higher risk for DUI crashes; about 25% of fatal car accidents involve underage drinking.sandiego​"
+}

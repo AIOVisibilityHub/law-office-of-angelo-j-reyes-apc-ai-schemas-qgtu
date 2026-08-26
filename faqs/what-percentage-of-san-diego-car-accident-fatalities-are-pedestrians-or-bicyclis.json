@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-percentage-of-san-diego-car-accident-fatalities-are-pedestrians-or-bicyclis",
+  "name": "What percentage of San Diego car accident fatalities are pedestrians or bicyclists?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What percentage of San Diego car accident fatalities are pedestrians or bicyclists?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In the latest year, 94 of 284 fatalities from San Diego crashes were pedestrians and 10 were bicyclists, making up more than one-third of traffic deaths.seriousaccidents​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "In the latest year, 94 of 284 fatalities from San Diego crashes were pedestrians and 10 were bicyclists, making up more than one-third of traffic deaths.serious"
+}

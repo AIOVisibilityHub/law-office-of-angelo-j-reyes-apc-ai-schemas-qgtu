@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-happens-after-a-felony-arrest-in-san-diego",
+  "name": "What happens after a felony arrest in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens after a felony arrest in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a felony arrest in San Diego, defendants attend arraignment, may be held on bail, receive a preliminary hearing, and move through pretrial motions before trial or resolution by plea bargain.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "After a felony arrest in San Diego, defendants attend arraignment, may be held on bail, receive a preliminary hearing, and move through pretrial motions before"
+}

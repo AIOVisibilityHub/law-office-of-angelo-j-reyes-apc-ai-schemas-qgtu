@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-standards-of-quality-must-state-criminal-defense-attorneys-meet",
+  "name": "What standards of quality must state criminal defense attorneys meet?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What standards of quality must state criminal defense attorneys meet?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "State criminal defense attorneys must provide zealous and competent advocacy, keep clients informed, avoid conflicts of interest, and meet continuing education standards.nlada​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "State criminal defense attorneys must provide zealous and competent advocacy, keep clients informed, avoid conflicts of interest, and meet continuing education"
+}

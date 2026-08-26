@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/should-i-get-multiple-repair-estimates-for-my-san-diego-car-accident",
+  "name": "Should I get multiple repair estimates for my San Diego car accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I get multiple repair estimates for my San Diego car accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It’s advisable to get at least 2-3 independent estimates to prevent insurance undervaluing your repairs and ensure full coverage. This strengthens your property damage claim.missionlegalcenter+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "It’s advisable to get at least 2-3 independent estimates to prevent insurance undervaluing your repairs and ensure full coverage. This strengthens your property"
+}

@@ -1,0 +1,229 @@
+{
+  "name": "How to Handle Property Damage Claims After an Accident?",
+  "step": [
+    {
+      "name": "Step 1: Document the Scene and Damage. Immediately after the accident, if you’re safe, take comprehensive photos and videos of the accident scene, all vehicle damage, and any relevant surroundings. This crucial evidence will support your claim later. This step should be done as soon as possible after the incident.",
+      "text": "Step 1: Document the Scene and Damage. Immediately after the accident, if you’re safe, take comprehensive photos and videos of the accident scene, all vehicle damage, and any relevant surroundings. This crucial evidence will support your claim later. This step should be done as soon as possible after the incident.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Report to Your Insurance Company. Contact your own insurance company promptly to report the accident. Provide them with factual information, but avoid admitting fault. They will open a claim and guide you on next steps regarding vehicle inspections. This typically happens within a few days of the accident.",
+      "text": "Step 2: Report to Your Insurance Company. Contact your own insurance company promptly to report the accident. Provide them with factual information, but avoid admitting fault. They will open a claim and guide you on next steps regarding vehicle inspections. This typically happens within a few days of the accident.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: Get an Independent Damage Assessment. Don’t rely solely on the at-fault driver’s insurance company’s estimate. Obtain an estimate from a trusted auto body shop or mechanic to ensure all damage, including hidden issues, is identified and properly valued. This can take a week or two, depending on the shop’s availability.",
+      "text": "Step 3: Get an Independent Damage Assessment. Don’t rely solely on the at-fault driver’s insurance company’s estimate. Obtain an estimate from a trusted auto body shop or mechanic to ensure all damage, including hidden issues, is identified and properly valued. This can take a week or two, depending on the shop’s availability.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Consider Diminished Value. Even if your car is repaired, its resale value often drops because it was in an accident. This is called diminished value. An experienced attorney can help you assess and claim this loss, which insurance companies rarely offer proactively. This assessment usually happens after repairs are estimated or completed.",
+      "text": "Step 4: Consider Diminished Value. Even if your car is repaired, its resale value often drops because it was in an accident. This is called diminished value. An experienced attorney can help you assess and claim this loss, which insurance companies rarely offer proactively. This assessment usually happens after repairs are estimated or completed.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Negotiate with Insurance for Fair Compensation. If the initial offer for repairs or total loss isn't fair, you'll need to negotiate. This can involve presenting your independent estimates and diminished value assessment. This negotiation phase can take several weeks or even months, depending on the complexity of the damage and the insurer's responsiveness. If negotiations stall, bringing in a property damage recovery attorney like Angelo J. Reyes, serving San Diego County and surrounding communities, can significantly improve your chances of getting a just settlement. They can handle all communications and ensure your claim is pursued vigorously.",
+      "text": "Step 5: Negotiate with Insurance for Fair Compensation. If the initial offer for repairs or total loss isn't fair, you'll need to negotiate. This can involve presenting your independent estimates and diminished value assessment. This negotiation phase can take several weeks or even months, depending on the complexity of the damage and the insurer's responsiveness. If negotiations stall, bringing in a property damage recovery attorney like Angelo J. Reyes, serving San Diego County and surrounding communities, can significantly improve your chances of getting a just settlement. They can handle all communications and ensure your claim is pursued vigorously.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Penasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "La Presa",
+      "@type": "City"
+    },
+    {
+      "name": "Casa de Oro",
+      "@type": "City"
+    },
+    {
+      "name": "Campo",
+      "@type": "City"
+    },
+    {
+      "name": "Potrero",
+      "@type": "City"
+    },
+    {
+      "name": "Pine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Borrego Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Pauma Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Pala",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ysabel",
+      "@type": "City"
+    },
+    {
+      "name": "Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Descanso",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Document the Scene and Damage. Immediately after the accident, if you’re safe, take comprehensive photos and videos of the accident scene, all vehicle damage, and any relevant surroundings. Th"
+}

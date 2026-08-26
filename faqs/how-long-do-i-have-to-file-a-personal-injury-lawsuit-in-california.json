@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/how-long-do-i-have-to-file-a-personal-injury-lawsuit-in-california",
+  "name": "How long do I have to file a personal injury lawsuit in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How long do I have to file a personal injury lawsuit in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In California, you typically have two years from the date of injury to file a personal injury lawsuit. Claims against public entities have a shorter window (six months to file a notice of claim). Missing the deadline usually means you lose your right to seek compensation.hasselllawgroup+2​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "In California, you typically have two years from the date of injury to file a personal injury lawsuit. Claims against public entities have a shorter window (six"
+}

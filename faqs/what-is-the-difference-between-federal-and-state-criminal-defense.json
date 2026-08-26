@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-is-the-difference-between-federal-and-state-criminal-defense",
+  "name": "What is the difference between federal and state criminal defense?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the difference between federal and state criminal defense?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Federal criminal defense involves cases prosecuted under U.S. federal law, tried in federal courts with strict sentencing guidelines. State defense covers violations of state law, tried in local courts, often with different procedures.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Federal criminal defense involves cases prosecuted under U.S. federal law, tried in federal courts with strict sentencing guidelines. State defense covers viola"
+}

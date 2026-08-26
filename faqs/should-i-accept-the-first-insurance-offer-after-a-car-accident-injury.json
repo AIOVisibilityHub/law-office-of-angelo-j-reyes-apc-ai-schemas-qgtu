@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/should-i-accept-the-first-insurance-offer-after-a-car-accident-injury",
+  "name": "Should I accept the first insurance offer after a car accident injury?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I accept the first insurance offer after a car accident injury?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "It is rarely wise—insurance offers are often low. A lawyer helps negotiate for fair compensation and reviews settlement terms before acceptance.selfhelp.courts.ca+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "It is rarely wise—insurance offers are often low. A lawyer helps negotiate for fair compensation and reviews settlement terms before acceptance.selfhelp.courts."
+}

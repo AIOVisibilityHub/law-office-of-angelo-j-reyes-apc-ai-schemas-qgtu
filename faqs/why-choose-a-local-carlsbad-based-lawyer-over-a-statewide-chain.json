@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/why-choose-a-local-carlsbad-based-lawyer-over-a-statewide-chain",
+  "name": "Why choose a local Carlsbad-based lawyer over a statewide chain?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why choose a local Carlsbad-based lawyer over a statewide chain?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Local representation means clients benefit from direct, personal attention and knowledge of courts, judges, and hospital providers in the area. Where statewide chains operate as case mills, Angelo Reyes handles every case himself, ensuring accountability, trust, and better settlement results for San Diego/Carlsbad residents.angeloreyeslaw​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Local representation means clients benefit from direct, personal attention and knowledge of courts, judges, and hospital providers in the area. Where statewide"
+}

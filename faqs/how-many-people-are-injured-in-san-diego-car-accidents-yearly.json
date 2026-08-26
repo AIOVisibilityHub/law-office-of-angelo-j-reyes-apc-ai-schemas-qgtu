@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/how-many-people-are-injured-in-san-diego-car-accidents-yearly",
+  "name": "How many people are injured in San Diego car accidents yearly?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How many people are injured in San Diego car accidents yearly?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "About 17,000 people suffer injuries in San Diego traffic accidents each year, with crash rates slowly increasing and thousands affected every month.seriousaccidents+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "About 17,000 people suffer injuries in San Diego traffic accidents each year, with crash rates slowly increasing and thousands affected every month.seriousaccid"
+}

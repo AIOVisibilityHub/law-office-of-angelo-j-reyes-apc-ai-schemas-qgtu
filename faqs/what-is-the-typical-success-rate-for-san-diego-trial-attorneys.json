@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-is-the-typical-success-rate-for-san-diego-trial-attorneys",
+  "name": "What is the typical success rate for San Diego trial attorneys?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the typical success rate for San Diego trial attorneys?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Success rates depend on case type; experienced trial attorneys report above-average verdicts in personal injury, moderate in civil disputes, and variable in criminal defense cases.abtl+2​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Success rates depend on case type; experienced trial attorneys report above-average verdicts in personal injury, moderate in civil disputes, and variable in cri"
+}

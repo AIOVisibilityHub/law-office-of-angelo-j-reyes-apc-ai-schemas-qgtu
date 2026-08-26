@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/am-i-entitled-to-a-rental-car-while-mine-is-repaired-from-a-san-diego-accident",
+  "name": "Am I entitled to a rental car while mine is repaired from a San Diego accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Am I entitled to a rental car while mine is repaired from a San Diego accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, you can claim reasonable rental car expenses for the time your car is in the shop. Insurance companies often cover this cost as part of property damage claims to ensure mobility.seriousaccidents+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, you can claim reasonable rental car expenses for the time your car is in the shop. Insurance companies often cover this cost as part of property damage cla"
+}

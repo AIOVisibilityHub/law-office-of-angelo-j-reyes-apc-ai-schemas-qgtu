@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-should-i-do-after-being-charged-with-a-dui",
+  "name": "What should I do after being charged with a DUI?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What should I do after being charged with a DUI?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Immediately contact a criminal defense attorney for guidance. Do not speak to police without representation, and keep records of the incident and any communications for your defense.angeloreyeslaw​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Immediately contact a criminal defense attorney for guidance. Do not speak to police without representation, and keep records of the incident and any communicat"
+}

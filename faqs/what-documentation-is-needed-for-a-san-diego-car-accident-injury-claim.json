@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-documentation-is-needed-for-a-san-diego-car-accident-injury-claim",
+  "name": "What documentation is needed for a San Diego car accident injury claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What documentation is needed for a San Diego car accident injury claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Key documents include accident reports, medical bills, photographs, witness statements, and proof of financial losses to help maximize your recovery.mitchelllawcorp+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Key documents include accident reports, medical bills, photographs, witness statements, and proof of financial losses to help maximize your recovery.mitchelllaw"
+}

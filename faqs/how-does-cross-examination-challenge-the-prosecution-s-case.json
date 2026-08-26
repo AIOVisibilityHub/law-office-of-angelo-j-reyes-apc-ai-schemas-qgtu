@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/how-does-cross-examination-challenge-the-prosecution-s-case",
+  "name": "How does cross-examination challenge the prosecution’s case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How does cross-examination challenge the prosecution’s case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Cross-examination exposes inconsistencies, bias, and weaknesses in the prosecution’s witness testimony, which can undermine the reliability of evidence.heathhydelawyer​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Cross-examination exposes inconsistencies, bias, and weaknesses in the prosecution’s witness testimony, which can undermine the reliability of evidence.heathhyd"
+}

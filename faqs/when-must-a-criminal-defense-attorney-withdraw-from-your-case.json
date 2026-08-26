@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/when-must-a-criminal-defense-attorney-withdraw-from-your-case",
+  "name": "When must a criminal defense attorney withdraw from your case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When must a criminal defense attorney withdraw from your case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An attorney must withdraw if unable to provide competent representation, faces a conflict of interest, or cannot ethically or legally advocate on your behalf as required by professional standards.nlada​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "An attorney must withdraw if unable to provide competent representation, faces a conflict of interest, or cannot ethically or legally advocate on your behalf as"
+}

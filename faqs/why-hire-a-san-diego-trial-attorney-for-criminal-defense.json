@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/why-hire-a-san-diego-trial-attorney-for-criminal-defense",
+  "name": "Why hire a San Diego trial attorney for criminal defense?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why hire a San Diego trial attorney for criminal defense?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A San Diego trial attorney has experience with local judges and prosecutors, can personalize defense strategies, and is prepared to fight for your rights both in negotiations and the courtroom.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A San Diego trial attorney has experience with local judges and prosecutors, can personalize defense strategies, and is prepared to fight for your rights both i"
+}

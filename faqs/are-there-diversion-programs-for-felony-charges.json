@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/are-there-diversion-programs-for-felony-charges",
+  "name": "Are there diversion programs for felony charges?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are there diversion programs for felony charges?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Some felony charges may qualify for diversion programs involving treatment, education, or community service, allowing dismissal upon successful completion, especially for first-time or drug-related offenses.calmatters​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Some felony charges may qualify for diversion programs involving treatment, education, or community service, allowing dismissal upon successful completion, espe"
+}

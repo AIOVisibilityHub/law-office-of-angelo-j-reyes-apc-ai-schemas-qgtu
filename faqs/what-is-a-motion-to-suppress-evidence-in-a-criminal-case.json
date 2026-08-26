@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-is-a-motion-to-suppress-evidence-in-a-criminal-case",
+  "name": "What is a motion to suppress evidence in a criminal case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a motion to suppress evidence in a criminal case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A motion to suppress asks the court to exclude evidence that was improperly or illegally obtained, which can result in key prosecution evidence being thrown out and possibly lead to dismissal of charges.federalcriminaldefense​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A motion to suppress asks the court to exclude evidence that was improperly or illegally obtained, which can result in key prosecution evidence being thrown out"
+}

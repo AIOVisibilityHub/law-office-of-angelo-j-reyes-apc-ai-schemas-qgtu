@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-is-the-pretrial-phase-and-plea-bargaining",
+  "name": "What is the pretrial phase and plea bargaining?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the pretrial phase and plea bargaining?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The pretrial phase includes evidence exchange (discovery), investigation, and legal motions. Many cases resolve here through plea deals—agreeing to plead to reduced charges for lighter sentences. Weak prosecution evidence or defense filings can lead to dismissal or reduced charges before trial.brownsteinlawgroup​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The pretrial phase includes evidence exchange (discovery), investigation, and legal motions. Many cases resolve here through plea deals—agreeing to plead to red"
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-if-i-m-partially-at-fault-for-my-injury",
+  "name": "What if I’m partially at fault for my injury?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What if I’m partially at fault for my injury?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "California uses pure comparative negligence—you can recover damages even if you are partly at fault, but your award is reduced by your percentage of responsibility. This allows injured parties fairness even in complex cases where fault is shared.casebarnettlaw+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "California uses pure comparative negligence—you can recover damages even if you are partly at fault, but your award is reduced by your percentage of responsibil"
+}

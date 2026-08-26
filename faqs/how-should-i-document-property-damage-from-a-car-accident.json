@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/how-should-i-document-property-damage-from-a-car-accident",
+  "name": "How should I document property damage from a car accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How should I document property damage from a car accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Take clear photos, videos, and written descriptions of all damage immediately. Keep repair receipts and police reports to support your property damage claim.hamparyan+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Take clear photos, videos, and written descriptions of all damage immediately. Keep repair receipts and police reports to support your property damage claim.ham"
+}

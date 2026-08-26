@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-can-my-attorney-do-at-a-federal-sentencing-hearing",
+  "name": "What can my attorney do at a federal sentencing hearing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What can my attorney do at a federal sentencing hearing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "At sentencing, your attorney presents mitigating factors and arguments for reduced penalties, helping the judge understand unique circumstances and advocating for a fair outcome.heathhydelawyer+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "At sentencing, your attorney presents mitigating factors and arguments for reduced penalties, helping the judge understand unique circumstances and advocating f"
+}

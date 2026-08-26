@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/are-pain-and-suffering-damages-available-for-car-accident-injuries",
+  "name": "Are pain and suffering damages available for car accident injuries?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are pain and suffering damages available for car accident injuries?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes. San Diego victims may claim non-economic damages for pain, suffering, emotional distress, loss of enjoyment, and permanent disabilities.singletonschreiber+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes. San Diego victims may claim non-economic damages for pain, suffering, emotional distress, loss of enjoyment, and permanent disabilities.singletonschreiber+"
+}

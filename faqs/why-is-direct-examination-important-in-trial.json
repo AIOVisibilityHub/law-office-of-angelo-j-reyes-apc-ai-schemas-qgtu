@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/why-is-direct-examination-important-in-trial",
+  "name": "Why is direct examination important in trial?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is direct examination important in trial?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Direct examination allows your attorney to present favorable witnesses and craft a narrative that supports your defense, helping judges and jurors understand the strengths of your case.nlada​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Direct examination allows your attorney to present favorable witnesses and craft a narrative that supports your defense, helping judges and jurors understand th"
+}

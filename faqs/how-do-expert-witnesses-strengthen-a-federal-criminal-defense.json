@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/how-do-expert-witnesses-strengthen-a-federal-criminal-defense",
+  "name": "How do expert witnesses strengthen a federal criminal defense?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do expert witnesses strengthen a federal criminal defense?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Expert witnesses, such as forensic accountants or digital analysts, clarify complex evidence, refute government claims, and help the jury or judge understand technical aspects key to the defense case.heathhydelawyer+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Expert witnesses, such as forensic accountants or digital analysts, clarify complex evidence, refute government claims, and help the jury or judge understand te"
+}

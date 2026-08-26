@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-is-a-preliminary-hearing-in-a-felony-case",
+  "name": "What is a preliminary hearing in a felony case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a preliminary hearing in a felony case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A preliminary hearing is a “mini-trial” judges use to decide if enough evidence exists to proceed. Prosecution presents evidence; your attorney cross-examines witnesses and challenges the case. If probable cause is found, charges move forward. If not, charges may be reduced or dismissed.shouselaw+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A preliminary hearing is a “mini-trial” judges use to decide if enough evidence exists to proceed. Prosecution presents evidence; your attorney cross-examines w"
+}

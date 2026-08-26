@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-damages-can-be-claimed-after-a-car-accident-in-san-diego",
+  "name": "What damages can be claimed after a car accident in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What damages can be claimed after a car accident in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "After a car accident in San Diego, you can claim medical expenses, lost wages, vehicle repair costs, pain and suffering, and other out-of-pocket losses caused by another’s negligence.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "After a car accident in San Diego, you can claim medical expenses, lost wages, vehicle repair costs, pain and suffering, and other out-of-pocket losses caused b"
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-happens-if-my-car-is-declared-a-total-loss-after-a-san-diego-car-accident",
+  "name": "What happens if my car is declared a total loss after a San Diego car accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens if my car is declared a total loss after a San Diego car accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "If repair costs exceed your vehicle’s value, it’s deemed a total loss. You are entitled to the fair market value of your car before the accident, which insurance should pay for replacement.seriousaccidents+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "If repair costs exceed your vehicle’s value, it’s deemed a total loss. You are entitled to the fair market value of your car before the accident, which insuranc"
+}

@@ -1,0 +1,13 @@
+{
+  "url": "https://www.angeloreyeslaw.com",
+  "name": "Law Office of Angelo J. Reyes, APC - Law Office of Angelo J. Reyes, APC",
+  "@type": "LocalBusiness",
+  "address": {
+    "@type": "PostalAddress",
+    "addressRegion": "CA",
+    "streetAddress": "2382 Faraday Ave, Suite 200, Unit 14",
+    "addressLocality": "Carlsbad"
+  },
+  "@context": "https://schema.org",
+  "telephone": "858-255-1803"
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/can-victims-recover-hospital-and-medical-costs-after-a-car-accident",
+  "name": "Can victims recover hospital and medical costs after a car accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can victims recover hospital and medical costs after a car accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes. If another party is liable, injured victims may claim all immediate and future medical expenses for treatments, including hospitalization and therapy.mitchelllawcorp+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes. If another party is liable, injured victims may claim all immediate and future medical expenses for treatments, including hospitalization and therapy.mitch"
+}

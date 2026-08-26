@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/how-do-san-diego-trial-attorneys-approach-jury-selection",
+  "name": "How do San Diego trial attorneys approach jury selection?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do San Diego trial attorneys approach jury selection?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "They use in-depth questioning, local demographics analysis, and social media screening to select fair and impartial juries tailored to case strategy.abtl​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "They use in-depth questioning, local demographics analysis, and social media screening to select fair and impartial juries tailored to case strategy.abtl​"
+}

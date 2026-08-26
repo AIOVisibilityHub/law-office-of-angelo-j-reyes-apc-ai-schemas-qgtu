@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-damages-can-i-recover-after-a-personal-injury-accident",
+  "name": "What damages can I recover after a personal injury accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What damages can I recover after a personal injury accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You can recover economic damages (medical bills, lost wages, property loss) and non-economic damages (pain and suffering, emotional distress, loss of enjoyment). In serious or egregious cases, punitive damages may also be available to punish wrongdoers.hasselllawgroup+2​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "You can recover economic damages (medical bills, lost wages, property loss) and non-economic damages (pain and suffering, emotional distress, loss of enjoyment)"
+}

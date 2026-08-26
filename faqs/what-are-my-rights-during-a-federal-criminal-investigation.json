@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-are-my-rights-during-a-federal-criminal-investigation",
+  "name": "What are my rights during a federal criminal investigation?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are my rights during a federal criminal investigation?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "During a federal investigation, you have the right to remain silent, the right to counsel, and the right to avoid self-incrimination. Consult an attorney before answering any questions or consenting to searches.heathhydelawyer​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "During a federal investigation, you have the right to remain silent, the right to counsel, and the right to avoid self-incrimination. Consult an attorney before"
+}

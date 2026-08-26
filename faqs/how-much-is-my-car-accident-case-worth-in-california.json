@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/how-much-is-my-car-accident-case-worth-in-california",
+  "name": "How much is my car accident case worth in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How much is my car accident case worth in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The value of your car accident case depends on factors like medical bills, lost wages, pain and suffering, and insurance policy limits. Each case is individually evaluated for maximum recovery and compensation.angeloreyeslaw​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The value of your car accident case depends on factors like medical bills, lost wages, pain and suffering, and insurance policy limits. Each case is individuall"
+}

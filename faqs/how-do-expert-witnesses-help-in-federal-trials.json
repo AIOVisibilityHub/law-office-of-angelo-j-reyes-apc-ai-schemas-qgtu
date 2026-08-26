@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/how-do-expert-witnesses-help-in-federal-trials",
+  "name": "How do expert witnesses help in federal trials?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do expert witnesses help in federal trials?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Expert witnesses, such as forensic accountants or digital experts, can explain complex evidence and challenge the prosecution’s case, strengthening your defense at trial.heathhydelawyer​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Expert witnesses, such as forensic accountants or digital experts, can explain complex evidence and challenge the prosecution’s case, strengthening your defense"
+}

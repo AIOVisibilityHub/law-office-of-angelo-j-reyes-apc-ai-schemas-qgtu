@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/can-i-file-a-personal-injury-claim-on-behalf-of-my-child",
+  "name": "Can I file a personal injury claim on behalf of my child?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can I file a personal injury claim on behalf of my child?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes. California law allows parents or legal guardians to file claims for injured minors. Settlements are usually held in trust or a blocked account until the child turns 18, ensuring their interests are protected.casebarnettlaw​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes. California law allows parents or legal guardians to file claims for injured minors. Settlements are usually held in trust or a blocked account until the ch"
+}

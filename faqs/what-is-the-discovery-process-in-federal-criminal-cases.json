@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-is-the-discovery-process-in-federal-criminal-cases",
+  "name": "What is the discovery process in federal criminal cases?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the discovery process in federal criminal cases?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In federal cases, discovery is when both sides exchange evidence and witness information before trial so that both the defense and prosecution know what will be presented, supporting fair trials and strategic preparation.federalcriminaldefense​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "In federal cases, discovery is when both sides exchange evidence and witness information before trial so that both the defense and prosecution know what will be"
+}

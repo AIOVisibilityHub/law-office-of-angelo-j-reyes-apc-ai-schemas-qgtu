@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-are-the-penalties-for-dui-in-california",
+  "name": "What are the penalties for DUI in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What are the penalties for DUI in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "DUI penalties in California include license suspension, fines, mandatory education, and possible jail time. Repeat offenses and high BAC results in harsher consequences and longer suspensions.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "DUI penalties in California include license suspension, fines, mandatory education, and possible jail time. Repeat offenses and high BAC results in harsher cons"
+}

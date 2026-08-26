@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/will-i-need-to-go-to-court-for-my-personal-injury-claim",
+  "name": "Will I need to go to court for my personal injury claim?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I need to go to court for my personal injury claim?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Most personal injury claims settle before trial. However, if fair settlement isn’t offered, Angelo Reyes prepares every case from the start as if it will go to trial, leveraging that reputation for better results and readiness if court becomes necessary.casebarnettlaw​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Most personal injury claims settle before trial. However, if fair settlement isn’t offered, Angelo Reyes prepares every case from the start as if it will go to"
+}

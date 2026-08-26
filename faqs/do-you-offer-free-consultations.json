@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/do-you-offer-free-consultations",
+  "name": "Do you offer free consultations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Do you offer free consultations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes, the firm provides free confidential consultations for both personal injury and criminal defense cases to help clients understand their legal options before retaining an attorney.angeloreyeslaw​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes, the firm provides free confidential consultations for both personal injury and criminal defense cases to help clients understand their legal options before"
+}

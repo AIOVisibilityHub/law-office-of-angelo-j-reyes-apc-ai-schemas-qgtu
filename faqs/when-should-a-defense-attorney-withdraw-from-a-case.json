@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/when-should-a-defense-attorney-withdraw-from-a-case",
+  "name": "When should a defense attorney withdraw from a case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should a defense attorney withdraw from a case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A defense attorney should withdraw if they cannot provide quality representation, face a conflict of interest, or lack the expertise or resources needed for your specific case.nlada​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A defense attorney should withdraw if they cannot provide quality representation, face a conflict of interest, or lack the expertise or resources needed for you"
+}

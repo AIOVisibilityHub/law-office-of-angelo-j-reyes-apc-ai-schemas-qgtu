@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/can-my-attorney-file-pretrial-motions-in-a-misdemeanor-case",
+  "name": "Can my attorney file pretrial motions in a misdemeanor case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can my attorney file pretrial motions in a misdemeanor case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes. Pretrial motions such as motions to dismiss, suppress evidence, or change venue can be filed to challenge the prosecution’s case before trial.sandiegocounty​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes. Pretrial motions such as motions to dismiss, suppress evidence, or change venue can be filed to challenge the prosecution’s case before trial.sandiegocount"
+}

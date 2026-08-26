@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/can-a-criminal-conviction-be-cleared-from-my-record",
+  "name": "Can a criminal conviction be cleared from my record?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can a criminal conviction be cleared from my record?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "California law permits certain convictions to be expunged if you’ve completed your sentence and meet eligibility requirements. Expungement helps restore rights, employment prospects, and privacy. A lawyer can guide you through the petition and hearing process.selfhelp.courts.ca​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "California law permits certain convictions to be expunged if you’ve completed your sentence and meet eligibility requirements. Expungement helps restore rights,"
+}

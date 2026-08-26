@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/when-should-i-hire-a-federal-criminal-defense-attorney",
+  "name": "When should I hire a federal criminal defense attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When should I hire a federal criminal defense attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You should hire a federal criminal defense attorney as soon as you suspect you are under investigation or immediately after being contacted by federal agents—early intervention can prevent charges or protect your rights.heathhydelawyer​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "You should hire a federal criminal defense attorney as soon as you suspect you are under investigation or immediately after being contacted by federal agents—ea"
+}

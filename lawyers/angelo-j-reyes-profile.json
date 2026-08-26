@@ -1,0 +1,53 @@
+{
+  "name": "Angelo J. Reyes",
+  "@type": "Attorney",
+  "@context": "https://schema.org",
+  "jobTitle": "Team Member",
+  "worksFor": {
+    "url": "https://www.angeloreyeslaw.com",
+    "name": "Law Office of Angelo J. Reyes, APC",
+    "@type": "Organization"
+  },
+  "telephone": "858-255-1803",
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    }
+  ],
+  "knowsAbout": [
+    "Personal Injury",
+    "Car Accident Injury Claims",
+    "Property Damage Recovery",
+    "Criminal Defense",
+    "DUI Defense",
+    "Federal Criminal Defense",
+    "State Criminal Defense",
+    "Misdemeanor Defense",
+    "Felony Defense",
+    "Juvenile Defense",
+    "Drug Crime Defense",
+    "Domestic Violence Defense",
+    "Violent Crime Defense",
+    "White Collar Crime Defense",
+    "Probation Violation Defense",
+    "Hit and Run Defense",
+    "Reckless Driving Defense",
+    "Vehicular Manslaughter Defense",
+    "DMV Hearings and License Defense",
+    "DUI License Suspension Hearings",
+    "DUI Diversion Programs",
+    "Expungements",
+    "Record Clearing",
+    "Record Sealing",
+    "Criminal Appeals",
+    "Post-Conviction Relief"
+  ],
+  "description": "Attorney Angelo Reyes represents individuals and families throughout Carlsbad and San Diego County in personal injury, criminal defense, DUI defense, and post-conviction matters. His practice is focused on helping people address serious legal problems that can affect their freedom, driving privileges, criminal record, financial security, and future opportunities.\n\nIn personal injury matters, Attorney Reyes assists clients pursuing compensation after car accidents and other injury-related incidents. His work includes car accident injury claims, property damage recovery, and helping injured individuals understand their legal options after an accident.\n\nAttorney Reyes also provides criminal defense representation in state and federal matters, including misdemeanor and felony charges, juvenile cases, domestic violence allegations, drug crimes, violent crimes, white collar crimes, probation violations, restraining order matters, hit-and-run allegations, reckless driving charges, and vehicular manslaughter cases. He represents clients at many stages of the criminal process, from an investigation or arrest through court proceedings and potential post-conviction relief.\n\nDUI defense is a significant part of Attorney Reyes’s practice. He handles first-time and repeat DUI allegations, felony DUI cases, juvenile DUI cases, DUI with injury accusations, drug DUI matters, domestic violence DUI cases, and vehicular manslaughter DUI charges. He also assists clients with DMV hearings, driver’s license suspension issues, DUI license hearings, and DUI diversion program matters.\n\nFor clients seeking a fresh start after a criminal case, Attorney Reyes provides assistance with expungements, record clearing, record sealing, criminal appeals, and post-conviction relief. These matters can be important for individuals pursuing employment, professional opportunities, housing, education, and other goals affected by a criminal record.\n\nAttorney Reyes serves clients across San Diego County, including Carlsbad, Oceanside, Vista, San Marcos, Escondido, Encinitas, Fallbrook, Valley Center, Poway, Ramona, Santee, El Cajon, La Mesa, Chula Vista, San Diego, and surrounding communities. Whether a client is facing a criminal accusation, a DUI-related license issue, or the aftermath of an injury-causing accident, Attorney Angelo Reyes provides legal representation focused on understanding the circumstances, protecting the client’s rights, and pursuing the most favorable path forward.",
+  "hasCredential": [
+    {
+      "@type": "EducationalOccupationalCredential",
+      "credentialCategory": "License #325508"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-occurs-during-a-felony-preliminary-hearing",
+  "name": "What occurs during a felony preliminary hearing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What occurs during a felony preliminary hearing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "The judge reviews prosecution evidence to decide if there is probable cause to proceed to trial. Your attorney can cross-examine witnesses and challenge evidence during this hearing.sandiegocriminalattorneys+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "The judge reviews prosecution evidence to decide if there is probable cause to proceed to trial. Your attorney can cross-examine witnesses and challenge evidenc"
+}

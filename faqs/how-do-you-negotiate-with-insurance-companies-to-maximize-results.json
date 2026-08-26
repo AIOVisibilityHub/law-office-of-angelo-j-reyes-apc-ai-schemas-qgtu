@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/how-do-you-negotiate-with-insurance-companies-to-maximize-results",
+  "name": "How do you negotiate with insurance companies to maximize results?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you negotiate with insurance companies to maximize results?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Angelo Reyes personally negotiates with insurers, leveraging trial reputation and advanced analytics to achieve fast, substantial settlements—avoiding lowball offers and pushy tactics prevalent with bigger firms. Every offer is scrutinized and negotiated for top dollar, not just the average settlement.angeloreyeslaw+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Angelo Reyes personally negotiates with insurers, leveraging trial reputation and advanced analytics to achieve fast, substantial settlements—avoiding lowball o"
+}

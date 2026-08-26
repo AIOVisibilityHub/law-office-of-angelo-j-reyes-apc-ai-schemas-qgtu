@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-technology-do-trial-attorneys-in-san-diego-use-during-trial",
+  "name": "What technology do trial attorneys in San Diego use during trial?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What technology do trial attorneys in San Diego use during trial?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trial attorneys utilize digital evidence displays, remote depositions, and e-filing, as well as courtroom presentation software to bolster their case in front of judges and juries.sandiegobizlaw+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Trial attorneys utilize digital evidence displays, remote depositions, and e-filing, as well as courtroom presentation software to bolster their case in front o"
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/are-dui-checkpoints-common-in-san-diego",
+  "name": "Are DUI checkpoints common in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Are DUI checkpoints common in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes. San Diego law enforcement has increased DUI checkpoints and saturation patrols citywide, especially on weekends and holidays due to new safety grants.sandiegodui​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes. San Diego law enforcement has increased DUI checkpoints and saturation patrols citywide, especially on weekends and holidays due to new safety grants.sandi"
+}

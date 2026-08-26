@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/when-is-a-character-witness-useful-for-my-defense",
+  "name": "When is a character witness useful for my defense?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "When is a character witness useful for my defense?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A character witness can testify to your good reputation, credibility, or trustworthiness, which may affect sentencing outcomes or sway a jury in your favor, especially in cases with disputed facts.nlada​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A character witness can testify to your good reputation, credibility, or trustworthiness, which may affect sentencing outcomes or sway a jury in your favor, esp"
+}

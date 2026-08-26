@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-is-discovery-in-a-san-diego-misdemeanor-case",
+  "name": "What is discovery in a San Diego misdemeanor case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is discovery in a San Diego misdemeanor case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Discovery is the legal process where prosecution and defense exchange evidence and witness lists before trial. Your attorney reviews discovery to prepare your defense.sandiegocounty​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Discovery is the legal process where prosecution and defense exchange evidence and witness lists before trial. Your attorney reviews discovery to prepare your d"
+}

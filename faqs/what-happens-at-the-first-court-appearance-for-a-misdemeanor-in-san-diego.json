@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-happens-at-the-first-court-appearance-for-a-misdemeanor-in-san-diego",
+  "name": "What happens at the first court appearance for a misdemeanor in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens at the first court appearance for a misdemeanor in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Your first court appearance, called arraignment, occurs about 30 days after arrest. You will be formally advised of the charges, advised of your rights, and asked to enter a plea (guilty, not guilty, or no contest).davidpshapirolaw+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Your first court appearance, called arraignment, occurs about 30 days after arrest. You will be formally advised of the charges, advised of your rights, and ask"
+}

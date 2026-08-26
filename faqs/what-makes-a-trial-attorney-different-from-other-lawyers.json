@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-makes-a-trial-attorney-different-from-other-lawyers",
+  "name": "What makes a trial attorney different from other lawyers?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What makes a trial attorney different from other lawyers?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A trial attorney specializes in presenting cases in court, handling jury selection, witness examination, and legal arguments for clients facing contested hearings or trials, while other lawyers may focus on transactions or settlements.heathhydelawyer+2​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A trial attorney specializes in presenting cases in court, handling jury selection, witness examination, and legal arguments for clients facing contested hearin"
+}

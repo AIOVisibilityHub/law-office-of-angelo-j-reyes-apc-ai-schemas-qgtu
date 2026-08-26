@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/how-soon-should-i-report-property-damage-after-a-san-diego-car-accident",
+  "name": "How soon should I report property damage after a San Diego car accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How soon should I report property damage after a San Diego car accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Report damage promptly to your insurance and the at-fault party’s insurer to meet claim deadlines, typically",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Report damage promptly to your insurance and the at-fault party’s insurer to meet claim deadlines, typically"
+}

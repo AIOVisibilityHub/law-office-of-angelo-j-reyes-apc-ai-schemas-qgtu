@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-happens-at-a-federal-sentencing-hearing",
+  "name": "What happens at a federal sentencing hearing?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What happens at a federal sentencing hearing?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "At a federal sentencing hearing, your attorney will argue for a fair sentence, presenting mitigating factors to minimize penalties and showing why harsh sentences are not warranted.federalcriminaldefense+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "At a federal sentencing hearing, your attorney will argue for a fair sentence, presenting mitigating factors to minimize penalties and showing why harsh sentenc"
+}

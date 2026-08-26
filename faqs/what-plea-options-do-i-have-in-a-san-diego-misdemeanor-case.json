@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-plea-options-do-i-have-in-a-san-diego-misdemeanor-case",
+  "name": "What plea options do I have in a San Diego misdemeanor case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What plea options do I have in a San Diego misdemeanor case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You may plead guilty, not guilty, or no contest. Pleading not guilty leads to further proceedings and potentially a trial, while guilty or no contest may lead to sentencing or plea agreements.sandiegocounty+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "You may plead guilty, not guilty, or no contest. Pleading not guilty leads to further proceedings and potentially a trial, while guilty or no contest may lead t"
+}

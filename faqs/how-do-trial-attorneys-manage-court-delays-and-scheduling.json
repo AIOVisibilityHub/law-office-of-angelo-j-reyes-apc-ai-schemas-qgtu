@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/how-do-trial-attorneys-manage-court-delays-and-scheduling",
+  "name": "How do trial attorneys manage court delays and scheduling?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do trial attorneys manage court delays and scheduling?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "San Diego trial attorneys address court backlogs by early filing, aggressive case management, and working with local judges for streamlined scheduling to avoid long delays.courts.ca+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "San Diego trial attorneys address court backlogs by early filing, aggressive case management, and working with local judges for streamlined scheduling to avoid"
+}

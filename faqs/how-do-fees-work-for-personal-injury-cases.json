@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/how-do-fees-work-for-personal-injury-cases",
+  "name": "How do fees work for personal injury cases?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do fees work for personal injury cases?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Personal injury cases are handled on a contingency fee basis, meaning you pay nothing unless there is a successful settlement or verdict in your favor.angeloreyeslaw​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Personal injury cases are handled on a contingency fee basis, meaning you pay nothing unless there is a successful settlement or verdict in your favor.angelorey"
+}

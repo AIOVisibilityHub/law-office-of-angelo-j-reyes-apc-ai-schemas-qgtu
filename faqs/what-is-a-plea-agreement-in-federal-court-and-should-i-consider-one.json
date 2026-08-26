@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-is-a-plea-agreement-in-federal-court-and-should-i-consider-one",
+  "name": "What is a plea agreement in federal court and should I consider one?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is a plea agreement in federal court and should I consider one?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A plea agreement in federal court is a negotiated deal where you plead guilty to a lesser charge or receive a lighter sentence. It’s often considered when evidence is strong—your attorney will advise if it’s in your best interest.heathhydelawyer​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A plea agreement in federal court is a negotiated deal where you plead guilty to a lesser charge or receive a lighter sentence. It’s often considered when evide"
+}

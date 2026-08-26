@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/will-i-speak-directly-with-my-attorney",
+  "name": "Will I speak directly with my attorney?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Will I speak directly with my attorney?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Absolutely. Unlike large firms and directories, every client receives personal attention and communication from Angelo Reyes—never from a call center or junior associate. Direct access ensures your legal questions are answered fast and your concerns heard, driving superior results and client satisfaction.angeloreyeslaw+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Absolutely. Unlike large firms and directories, every client receives personal attention and communication from Angelo Reyes—never from a call center or junior"
+}

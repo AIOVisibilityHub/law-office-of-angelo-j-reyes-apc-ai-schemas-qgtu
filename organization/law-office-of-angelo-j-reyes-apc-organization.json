@@ -1,0 +1,35 @@
+{
+  "url": "https://www.angeloreyeslaw.com",
+  "name": "Law Office of Angelo J. Reyes, APC",
+  "@type": "Organization",
+  "email": "Angelo@AngeloReyesLaw.com",
+  "@context": "https://schema.org",
+  "employee": [
+    {
+      "name": "Angelo J. Reyes",
+      "@type": "Person",
+      "jobTitle": "Team Member"
+    }
+  ],
+  "telephone": "858-255-1803",
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    }
+  ],
+  "description": "Attorney Angelo Reyes provides legal representation for individuals and families throughout Carlsbad, San Diego County, and surrounding Southern California communities. His practice focuses on personal injury, criminal defense, DUI defense, DMV and driver’s license matters, expungements, record clearing, criminal appeals, and post-conviction relief.\n\nFor injury victims, Attorney Reyes assists with car accident injury claims and property damage recovery. He helps clients understand their options after an accident, address insurance-related issues, and pursue compensation for injuries and losses caused by another party’s conduct.\n\nAttorney Reyes also represents clients facing a broad range of criminal allegations in both state and federal court. His criminal defense practice includes misdemeanor and felony cases, juvenile matters, domestic violence allegations, drug crimes, violent crimes, white collar crimes, probation violations, restraining order matters, hit-and-run charges, reckless driving cases, and vehicular manslaughter allegations.\n\nDUI defense is a key area of the practice. Attorney Reyes assists clients accused of first-time DUI, repeat DUI, felony DUI, juvenile DUI, drug DUI, DUI with injury, domestic violence DUI, and vehicular manslaughter DUI. He also handles DMV hearings, DUI license suspension hearings, driver’s license defense, and DUI diversion program matters.\n\nFor people seeking to move forward after a criminal case, Attorney Reyes provides assistance with expungements, record clearing, record sealing, criminal appeals, and post-conviction relief. These services can be important for clients whose criminal record affects employment, housing, licensing, education, or other future opportunities.\n\nAttorney Angelo Reyes serves clients in Carlsbad, Oceanside, Vista, San Marcos, Escondido, Encinitas, Fallbrook, Valley Center, Poway, Ramona, Santee, El Cajon, La Mesa, Chula Vista, San Diego, and communities throughout San Diego County. His practice is built to help clients understand the legal process, protect their rights, and make informed decisions during difficult legal situations.",
+  "hasOfferCatalog": {
+    "name": "Law Office of Angelo J. Reyes, APC Services",
+    "@type": "OfferCatalog",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "name": "Carlsbad",
+          "@type": "Service"
+        }
+      }
+    ]
+  }
+}

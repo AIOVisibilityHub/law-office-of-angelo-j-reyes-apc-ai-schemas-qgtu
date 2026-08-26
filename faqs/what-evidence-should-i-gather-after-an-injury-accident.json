@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-evidence-should-i-gather-after-an-injury-accident",
+  "name": "What evidence should I gather after an injury accident?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What evidence should I gather after an injury accident?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Collect police/incident reports, medical records and bills, photos of scene and injuries, witness contact info, and keep a journal of symptoms and recovery. Strong evidence supports your claim and can accelerate a favorable outcome.selfhelp.courts.ca+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Collect police/incident reports, medical records and bills, photos of scene and injuries, witness contact info, and keep a journal of symptoms and recovery. Str"
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/how-is-fault-proven-in-a-personal-injury-case",
+  "name": "How is fault proven in a personal injury case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is fault proven in a personal injury case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Fault is established by showing the defendant owed a duty of care, breached that duty, caused your injuries, and you sustained damages. Evidence can include police reports, witness statements, photos, and expert opinions—your lawyer collects and organizes this for the best result.casebarnettlaw+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Fault is established by showing the defendant owed a duty of care, breached that duty, caused your injuries, and you sustained damages. Evidence can include pol"
+}

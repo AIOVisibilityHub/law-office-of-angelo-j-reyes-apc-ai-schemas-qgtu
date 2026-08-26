@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/how-do-you-file-a-personal-injury-lawsuit-in-california",
+  "name": "How do you file a personal injury lawsuit in California?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do you file a personal injury lawsuit in California?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Filing a personal injury lawsuit in California requires submitting a complaint to the local Superior Court within the statute of limitations, collecting evidence, and negotiating with insurers or defendants before trial.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Filing a personal injury lawsuit in California requires submitting a complaint to the local Superior Court within the statute of limitations, collecting evidenc"
+}

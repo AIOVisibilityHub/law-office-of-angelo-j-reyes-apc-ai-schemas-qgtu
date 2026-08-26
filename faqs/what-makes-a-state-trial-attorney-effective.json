@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-makes-a-state-trial-attorney-effective",
+  "name": "What makes a state trial attorney effective?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What makes a state trial attorney effective?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "An effective state trial attorney knows local laws, builds a strong factual and legal defense, communicates directly with clients, and prepares every case as if it’s going to trial for maximum leverage.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "An effective state trial attorney knows local laws, builds a strong factual and legal defense, communicates directly with clients, and prepares every case as if"
+}

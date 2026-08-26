@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/how-many-dui-related-accidents-occur-in-san-diego-each-year",
+  "name": "How many DUI-related accidents occur in San Diego each year?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How many DUI-related accidents occur in San Diego each year?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "In 2025, DUI accidents in San Diego rose by over 18% from 2023; it now leads the state in DUI accidents per capita, with hundreds of crashes and injuries annually.hillstonelaw+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "In 2025, DUI accidents in San Diego rose by over 18% from 2023; it now leads the state in DUI accidents per capita, with hundreds of crashes and injuries annual"
+}

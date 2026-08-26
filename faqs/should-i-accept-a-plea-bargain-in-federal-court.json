@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/should-i-accept-a-plea-bargain-in-federal-court",
+  "name": "Should I accept a plea bargain in federal court?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Should I accept a plea bargain in federal court?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Accepting a plea bargain in federal court can reduce charges or penalties, but you should discuss the evidence, risks, and long-term consequences with your attorney before making any decision.heathhydelawyer+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Accepting a plea bargain in federal court can reduce charges or penalties, but you should discuss the evidence, risks, and long-term consequences with your atto"
+}

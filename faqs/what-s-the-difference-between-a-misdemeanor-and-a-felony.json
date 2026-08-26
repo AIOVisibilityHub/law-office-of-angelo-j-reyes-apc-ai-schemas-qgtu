@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-s-the-difference-between-a-misdemeanor-and-a-felony",
+  "name": "What’s the difference between a misdemeanor and a felony?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What’s the difference between a misdemeanor and a felony?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Misdemeanors are considered less serious offenses, typically punished with fines or short jail time. Felonies carry harsher penalties, including longer jail sentences and loss of certain rights.angeloreyeslaw​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Misdemeanors are considered less serious offenses, typically punished with fines or short jail time. Felonies carry harsher penalties, including longer jail sen"
+}

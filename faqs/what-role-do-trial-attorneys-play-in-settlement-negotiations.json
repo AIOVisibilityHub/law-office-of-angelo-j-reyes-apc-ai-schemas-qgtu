@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-role-do-trial-attorneys-play-in-settlement-negotiations",
+  "name": "What role do trial attorneys play in settlement negotiations?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What role do trial attorneys play in settlement negotiations?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Trial attorneys drive settlement negotiations by leveraging trial readiness to force better terms, often resolving cases before reaching the courtroom.abtl+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Trial attorneys drive settlement negotiations by leveraging trial readiness to force better terms, often resolving cases before reaching the courtroom.abtl+1​"
+}

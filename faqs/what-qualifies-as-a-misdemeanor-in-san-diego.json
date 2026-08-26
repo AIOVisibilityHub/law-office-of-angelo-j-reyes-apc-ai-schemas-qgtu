@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-qualifies-as-a-misdemeanor-in-san-diego",
+  "name": "What qualifies as a misdemeanor in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What qualifies as a misdemeanor in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Misdemeanors in San Diego generally refer to less serious offenses, such as petty theft, simple assault, or minor drug possession. Penalties usually include fines or jail time under one year.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Misdemeanors in San Diego generally refer to less serious offenses, such as petty theft, simple assault, or minor drug possession. Penalties usually include fin"
+}

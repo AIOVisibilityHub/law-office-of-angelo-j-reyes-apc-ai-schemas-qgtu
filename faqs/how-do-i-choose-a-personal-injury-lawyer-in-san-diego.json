@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/how-do-i-choose-a-personal-injury-lawyer-in-san-diego",
+  "name": "How do I choose a personal injury lawyer in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I choose a personal injury lawyer in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "When choosing a personal injury lawyer in San Diego, look for real trial experience, direct attorney-client communication, proven settlements, and transparent fee arrangements.",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "When choosing a personal injury lawyer in San Diego, look for real trial experience, direct attorney-client communication, proven settlements, and transparent f"
+}

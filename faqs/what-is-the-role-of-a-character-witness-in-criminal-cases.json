@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-is-the-role-of-a-character-witness-in-criminal-cases",
+  "name": "What is the role of a character witness in criminal cases?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What is the role of a character witness in criminal cases?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "A character witness gives testimony regarding a defendant’s reputation, trustworthiness, or moral conduct, which can influence sentencing or persuade a jury of favorable traits.nlada​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "A character witness gives testimony regarding a defendant’s reputation, trustworthiness, or moral conduct, which can influence sentencing or persuade a jury of"
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-compensation-can-victims-of-dui-accidents-in-san-diego-seek",
+  "name": "What compensation can victims of DUI accidents in San Diego seek?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What compensation can victims of DUI accidents in San Diego seek?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Victims can pursue damages for medical expenses, lost wages, pain and suffering, and wrongful death through civil claims in addition to criminal proceedings against drunk drivers.hillstonelaw+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Victims can pursue damages for medical expenses, lost wages, pain and suffering, and wrongful death through civil claims in addition to criminal proceedings aga"
+}

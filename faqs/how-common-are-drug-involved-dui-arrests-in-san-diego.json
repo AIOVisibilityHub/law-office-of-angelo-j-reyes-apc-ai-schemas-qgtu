@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/how-common-are-drug-involved-dui-arrests-in-san-diego",
+  "name": "How common are drug-involved DUI arrests in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How common are drug-involved DUI arrests in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Drug-impaired DUIs have increased; about 25% of California crash fatalities now involve drug use, and drug-involved offenders have a higher recidivism risk than alcohol-only offenders.dmv.ca​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Drug-impaired DUIs have increased; about 25% of California crash fatalities now involve drug use, and drug-involved offenders have a higher recidivism risk than"
+}

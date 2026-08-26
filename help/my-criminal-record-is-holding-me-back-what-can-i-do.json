@@ -1,0 +1,229 @@
+{
+  "name": "My Criminal Record is Holding Me Back – What Can I Do?",
+  "step": [
+    {
+      "name": "Step 1: Understand Your Eligibility for Expungement. Not all convictions are eligible for expungement, but many are. Generally, if you successfully completed probation and paid all fines and restitution, you might qualify. This applies to many misdemeanor and some felony cases. An attorney can review your specific record and determine if your case meets the criteria, which is a crucial first step.",
+      "text": "Step 1: Understand Your Eligibility for Expungement. Not all convictions are eligible for expungement, but many are. Generally, if you successfully completed probation and paid all fines and restitution, you might qualify. This applies to many misdemeanor and some felony cases. An attorney can review your specific record and determine if your case meets the criteria, which is a crucial first step.",
+      "@type": "HowToStep",
+      "position": 1
+    },
+    {
+      "name": "Step 2: Gather Necessary Documentation. The expungement process requires specific court documents related to your original conviction, such as minutes, plea agreements, and proof of probation completion. Collecting these can be time-consuming, but they are essential for filing your petition accurately.",
+      "text": "Step 2: Gather Necessary Documentation. The expungement process requires specific court documents related to your original conviction, such as minutes, plea agreements, and proof of probation completion. Collecting these can be time-consuming, but they are essential for filing your petition accurately.",
+      "@type": "HowToStep",
+      "position": 2
+    },
+    {
+      "name": "Step 3: File Your Petition with the Court. Once eligibility is confirmed and documents are gathered, a petition for expungement (or record clearing/sealing, depending on the specific relief sought) is filed with the court where your conviction occurred. This is a formal legal process that needs to be done correctly.",
+      "text": "Step 3: File Your Petition with the Court. Once eligibility is confirmed and documents are gathered, a petition for expungement (or record clearing/sealing, depending on the specific relief sought) is filed with the court where your conviction occurred. This is a formal legal process that needs to be done correctly.",
+      "@type": "HowToStep",
+      "position": 3
+    },
+    {
+      "name": "Step 4: Attend Necessary Hearings. The court may schedule a hearing where you, your attorney, and the prosecutor might present arguments regarding your petition. Your attorney will represent you and advocate for your record to be cleared. This step is where skilled legal representation truly shines.",
+      "text": "Step 4: Attend Necessary Hearings. The court may schedule a hearing where you, your attorney, and the prosecutor might present arguments regarding your petition. Your attorney will represent you and advocate for your record to be cleared. This step is where skilled legal representation truly shines.",
+      "@type": "HowToStep",
+      "position": 4
+    },
+    {
+      "name": "Step 5: Receive the Court’s Decision. If the court grants your petition, your plea of guilty or no contest will be withdrawn, a plea of not guilty entered, and the case dismissed. This can significantly improve your prospects for employment, housing, and more. The entire process, from start to finish, can take several months, but the benefits are often life-changing. If you're looking to put a past criminal conviction behind you and move forward in San Diego County, consulting with an attorney like Angelo J. Reyes, who handles expungements and post-conviction relief, is a smart move. They can guide you through each step and fight to clear your path forward.",
+      "text": "Step 5: Receive the Court’s Decision. If the court grants your petition, your plea of guilty or no contest will be withdrawn, a plea of not guilty entered, and the case dismissed. This can significantly improve your prospects for employment, housing, and more. The entire process, from start to finish, can take several months, but the benefits are often life-changing. If you're looking to put a past criminal conviction behind you and move forward in San Diego County, consulting with an attorney like Angelo J. Reyes, who handles expungements and post-conviction relief, is a smart move. They can guide you through each step and fight to clear your path forward.",
+      "@type": "HowToStep",
+      "position": 5
+    }
+  ],
+  "@type": "HowTo",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".howto-step",
+      "[itemprop=\"step\"]"
+    ]
+  },
+  "totalTime": "PT30M",
+  "areaServed": [
+    {
+      "name": "Carlsbad",
+      "@type": "City"
+    },
+    {
+      "name": "Chula Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Coronado",
+      "@type": "City"
+    },
+    {
+      "name": "Del Mar",
+      "@type": "City"
+    },
+    {
+      "name": "El Cajon",
+      "@type": "City"
+    },
+    {
+      "name": "Encinitas",
+      "@type": "City"
+    },
+    {
+      "name": "Escondido",
+      "@type": "City"
+    },
+    {
+      "name": "Imperial Beach",
+      "@type": "City"
+    },
+    {
+      "name": "La Mesa",
+      "@type": "City"
+    },
+    {
+      "name": "Lemon Grove",
+      "@type": "City"
+    },
+    {
+      "name": "National City",
+      "@type": "City"
+    },
+    {
+      "name": "Oceanside",
+      "@type": "City"
+    },
+    {
+      "name": "Poway",
+      "@type": "City"
+    },
+    {
+      "name": "San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "San Marcos",
+      "@type": "City"
+    },
+    {
+      "name": "Santee",
+      "@type": "City"
+    },
+    {
+      "name": "Solana Beach",
+      "@type": "City"
+    },
+    {
+      "name": "Vista",
+      "@type": "City"
+    },
+    {
+      "name": "Fallbrook",
+      "@type": "City"
+    },
+    {
+      "name": "Bonsall",
+      "@type": "City"
+    },
+    {
+      "name": "Valley Center",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Santa Fe",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Bernardo",
+      "@type": "City"
+    },
+    {
+      "name": "4S Ranch",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho Penasquitos",
+      "@type": "City"
+    },
+    {
+      "name": "Ramona",
+      "@type": "City"
+    },
+    {
+      "name": "Lakeside",
+      "@type": "City"
+    },
+    {
+      "name": "Spring Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Rancho San Diego",
+      "@type": "City"
+    },
+    {
+      "name": "Jamul",
+      "@type": "City"
+    },
+    {
+      "name": "Alpine",
+      "@type": "City"
+    },
+    {
+      "name": "Bonita",
+      "@type": "City"
+    },
+    {
+      "name": "La Presa",
+      "@type": "City"
+    },
+    {
+      "name": "Casa de Oro",
+      "@type": "City"
+    },
+    {
+      "name": "Campo",
+      "@type": "City"
+    },
+    {
+      "name": "Potrero",
+      "@type": "City"
+    },
+    {
+      "name": "Pine Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Julian",
+      "@type": "City"
+    },
+    {
+      "name": "Borrego Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Warner Springs",
+      "@type": "City"
+    },
+    {
+      "name": "Pauma Valley",
+      "@type": "City"
+    },
+    {
+      "name": "Pala",
+      "@type": "City"
+    },
+    {
+      "name": "Santa Ysabel",
+      "@type": "City"
+    },
+    {
+      "name": "Boulevard",
+      "@type": "City"
+    },
+    {
+      "name": "Descanso",
+      "@type": "City"
+    }
+  ],
+  "description": "Step 1: Understand Your Eligibility for Expungement. Not all convictions are eligible for expungement, but many are. Generally, if you successfully completed probation and paid all fines and restituti"
+}

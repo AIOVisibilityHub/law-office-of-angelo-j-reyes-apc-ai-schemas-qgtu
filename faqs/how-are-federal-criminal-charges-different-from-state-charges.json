@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/how-are-federal-criminal-charges-different-from-state-charges",
+  "name": "How are federal criminal charges different from state charges?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How are federal criminal charges different from state charges?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Federal criminal charges are prosecuted in U.S. District Courts under federal statutes, often carrying harsher penalties, broader jurisdiction, and complex procedures compared to state-level criminal charges.federalcriminaldefense​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Federal criminal charges are prosecuted in U.S. District Courts under federal statutes, often carrying harsher penalties, broader jurisdiction, and complex proc"
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/how-is-an-attorney-assigned-if-i-cannot-afford-one-for-my-misdemeanor-case",
+  "name": "How is an attorney assigned if I cannot afford one for my misdemeanor case?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How is an attorney assigned if I cannot afford one for my misdemeanor case?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "At arraignment, if you cannot afford an attorney, the court will appoint a public defender to represent you for free. You’ll meet them before court who will confidentially discuss your case.sandiegocounty​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "At arraignment, if you cannot afford an attorney, the court will appoint a public defender to represent you for free. You’ll meet them before court who will con"
+}

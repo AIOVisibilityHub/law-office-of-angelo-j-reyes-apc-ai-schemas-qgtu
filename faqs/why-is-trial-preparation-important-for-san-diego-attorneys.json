@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/why-is-trial-preparation-important-for-san-diego-attorneys",
+  "name": "Why is trial preparation important for San Diego attorneys?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Why is trial preparation important for San Diego attorneys?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Rigorous trial preparation gives attorneys leverage in court and with opposing counsel, increasing the odds of favorable verdicts and early settlements.abtl+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Rigorous trial preparation gives attorneys leverage in court and with opposing counsel, increasing the odds of favorable verdicts and early settlements.abtl+1​"
+}

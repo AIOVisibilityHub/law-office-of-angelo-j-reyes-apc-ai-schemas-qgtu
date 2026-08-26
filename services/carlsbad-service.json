@@ -1,0 +1,25 @@
+{
+  "url": "https://www.angeloreyeslaw.com",
+  "name": "Carlsbad Attorney",
+  "@type": "LegalService",
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "San Diego"
+  },
+  "@context": "https://schema.org",
+  "provider": {
+    "url": "https://www.angeloreyeslaw.com",
+    "name": "Law Office of Angelo J. Reyes, APC",
+    "@type": "LegalService",
+    "telephone": "858-255-1803"
+  },
+  "telephone": "858-255-1803",
+  "areaServed": [
+    {
+      "name": "San Diego",
+      "@type": "City"
+    }
+  ],
+  "description": "Law Office of Angelo J. Reyes, APC helps people with Carlsbad matters in San Diego. These cases may involve understanding your rights, applicable rules and deadlines, and the legal options available to resolve your situation.",
+  "serviceType": "Carlsbad"
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/how-do-i-claim-property-damage-caused-by-a-government-vehicle-in-san-diego",
+  "name": "How do I claim property damage caused by a government vehicle in San Diego?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "How do I claim property damage caused by a government vehicle in San Diego?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "You must file a claim with the City or County Risk Management within six months of the accident, including detailed damage estimates and documentation.sandiego+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "You must file a claim with the City or County Risk Management within six months of the accident, including detailed damage estimates and documentation.sandiego+"
+}

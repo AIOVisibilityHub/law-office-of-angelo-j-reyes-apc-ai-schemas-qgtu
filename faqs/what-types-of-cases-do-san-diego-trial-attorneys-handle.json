@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/what-types-of-cases-do-san-diego-trial-attorneys-handle",
+  "name": "What types of cases do San Diego trial attorneys handle?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "What types of cases do San Diego trial attorneys handle?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "San Diego trial attorneys litigate criminal cases, personal injury, employment, business disputes, family law, and civil rights claims before judges or juries.courts.ca+1​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "San Diego trial attorneys litigate criminal cases, personal injury, employment, business disputes, family law, and civil rights claims before judges or juries.c"
+}

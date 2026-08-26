@@ -1,0 +1,26 @@
+{
+  "url": "https://www.angeloreyeslaw.com/faq/can-san-diego-trial-attorneys-represent-clients-in-federal-court",
+  "name": "Can San Diego trial attorneys represent clients in federal court?",
+  "@type": "FAQPage",
+  "@context": "https://schema.org",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": [
+      "h1",
+      ".faq-question",
+      ".faq-answer",
+      "[itemprop=\"acceptedAnswer\"]"
+    ]
+  },
+  "mainEntity": [
+    {
+      "name": "Can San Diego trial attorneys represent clients in federal court?",
+      "@type": "Question",
+      "acceptedAnswer": {
+        "text": "Yes. Experienced trial attorneys in San Diego are often admitted to practice in both state and federal courts, handling cases ranging from civil rights to federal crimes.sandiegobizlaw​",
+        "@type": "Answer"
+      }
+    }
+  ],
+  "description": "Yes. Experienced trial attorneys in San Diego are often admitted to practice in both state and federal courts, handling cases ranging from civil rights to feder"
+}
