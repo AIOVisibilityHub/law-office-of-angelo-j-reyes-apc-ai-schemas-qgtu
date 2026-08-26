@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-26T18:46:53.868Z",
+  "generatedAt": "2026-08-26T18:47:09.270Z",
   "client": {
     "name": "Law Office of Angelo J. Reyes, APC",
     "canonicalUrl": "https://angeloreyeslaw.aiovisibility.net",
@@ -169,7 +169,7 @@
   },
   "package": {
     "totalFiles": 603,
-    "totalBytes": 4099255,
+    "totalBytes": 4046675,
     "stats": {
       "qna": 0,
       "faqs": 112,
@@ -3118,47 +3118,47 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 22629,
+        "bytes": 16466,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 37553,
+        "bytes": 31519,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 423278,
+        "bytes": 417025,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 17582,
+        "bytes": 11662,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 120977,
+        "bytes": 115063,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 729976,
+        "bytes": 724104,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 22161,
+        "bytes": 16130,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 26155,
+        "bytes": 20265,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 662466,
+        "bytes": 656594,
         "purpose": "LLM-optimized public page"
       }
     ],
@@ -3170,7 +3170,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 4940,
+        "bytes": 5088,
         "purpose": "LLM hint"
       },
       {
@@ -3190,32 +3190,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1494,
+        "bytes": 1809,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 248263,
+        "bytes": 248577,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 71608,
+        "bytes": 71756,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 71608,
+        "bytes": 71756,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 4945,
+        "bytes": 5093,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 81573,
+        "bytes": 81721,
         "purpose": "Repository README"
       },
       {
@@ -3233,7 +3233,7 @@
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/law-office-of-angelo-j-reyes-apc-ai-schemas-qgtu",
-      "pagesUrl": "",
+      "pagesUrl": "https://aiovisibilityhub.github.io/law-office-of-angelo-j-reyes-apc-ai-schemas-qgtu/",
       "repo": "AIOVisibilityHub/law-office-of-angelo-j-reyes-apc-ai-schemas-qgtu"
     }
   }
