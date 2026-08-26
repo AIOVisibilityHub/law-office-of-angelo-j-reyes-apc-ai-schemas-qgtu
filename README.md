@@ -23,7 +23,7 @@ Canonical AI Data Package for Law Office of Angelo J. Reyes, APC.
 - [canonical] Law Office of Angelo J. Reyes, APC — canonical website — https://angeloreyeslaw.aiovisibility.net
 - [ai-data-hub] Law Office of Angelo J. Reyes, APC — AI Data Hub — https://angeloreyeslaw.aiovisibility.net/ai-data.html
 - [mirror-repo] GitHub repository — https://github.com/AIOVisibilityHub/law-office-of-angelo-j-reyes-apc-ai-schemas-qgtu
-- [mirror-pages] GitHub — AI Data Hub mirror — https://aiovisibilityhub.github.io/law-office-of-angelo-j-reyes-apc-ai-schemas-qgtu/ai-data.html
+- [mirror-pages] GitHub — AI Data Hub mirror — https://angeloreyeslaw.aiovisibility.net/ai-data.html
 
 Purpose: transparent source discovery, entity consistency, mirror verification, and AI crawler navigation. Not a link wheel. Source of truth: related-destinations.json.
 

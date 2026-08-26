@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-26T18:53:05.064Z",
+  "generatedAt": "2026-08-26T18:53:17.418Z",
   "name": "Cross-Destination Index",
   "aliases": [
     "Authority Network",
@@ -36,13 +36,13 @@
       "role": "mirror-pages",
       "platform": "github",
       "label": "GitHub — AI Data Hub mirror",
-      "url": "https://aiovisibilityhub.github.io/law-office-of-angelo-j-reyes-apc-ai-schemas-qgtu/ai-data.html"
+      "url": "https://angeloreyeslaw.aiovisibility.net/ai-data.html"
     }
   ],
   "destinations": {
     "github": {
       "url": "https://github.com/AIOVisibilityHub/law-office-of-angelo-j-reyes-apc-ai-schemas-qgtu",
-      "pagesUrl": "https://aiovisibilityhub.github.io/law-office-of-angelo-j-reyes-apc-ai-schemas-qgtu/",
+      "pagesUrl": "https://angeloreyeslaw.aiovisibility.net/",
       "repo": "AIOVisibilityHub/law-office-of-angelo-j-reyes-apc-ai-schemas-qgtu"
     }
   }
