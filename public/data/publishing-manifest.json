@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-08-26T18:47:09.270Z",
+  "generatedAt": "2026-08-26T18:53:05.077Z",
   "client": {
     "name": "Law Office of Angelo J. Reyes, APC",
     "canonicalUrl": "https://angeloreyeslaw.aiovisibility.net",
@@ -169,7 +169,7 @@
   },
   "package": {
     "totalFiles": 603,
-    "totalBytes": 4046675,
+    "totalBytes": 4100624,
     "stats": {
       "qna": 0,
       "faqs": 112,
@@ -3118,47 +3118,47 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 16466,
+        "bytes": 22629,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 31519,
+        "bytes": 37553,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 417025,
+        "bytes": 423278,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 11662,
+        "bytes": 17582,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 115063,
+        "bytes": 120977,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 724104,
+        "bytes": 729976,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 16130,
+        "bytes": 22161,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 20265,
+        "bytes": 26155,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 656594,
+        "bytes": 662466,
         "purpose": "LLM-optimized public page"
       }
     ],
