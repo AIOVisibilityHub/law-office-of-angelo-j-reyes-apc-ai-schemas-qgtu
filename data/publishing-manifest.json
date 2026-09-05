@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-09-05T21:49:59.240Z",
+  "generatedAt": "2026-09-05T21:50:16.984Z",
   "client": {
     "name": "Law Office of Angelo J. Reyes, APC",
     "canonicalUrl": "https://angeloreyeslaw.aiovisibility.net",
@@ -169,7 +169,7 @@
   },
   "package": {
     "totalFiles": 864,
-    "totalBytes": 9279167,
+    "totalBytes": 7444690,
     "stats": {
       "qna": 0,
       "faqs": 112,
@@ -3118,1352 +3118,1352 @@
     "public": [
       {
         "path": "index.html",
-        "bytes": 20953,
+        "bytes": 14790,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "about.html",
-        "bytes": 37583,
+        "bytes": 31549,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "services.html",
-        "bytes": 423278,
+        "bytes": 417025,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "contact.html",
-        "bytes": 17582,
+        "bytes": 11662,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "faqs.html",
-        "bytes": 120977,
+        "bytes": 115063,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "articles.html",
-        "bytes": 228675,
+        "bytes": 222803,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "case-studies.html",
-        "bytes": 22161,
+        "bytes": 16130,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "team-members.html",
-        "bytes": 26155,
+        "bytes": 20265,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "web-pages.html",
-        "bytes": 662466,
+        "bytes": 656594,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-right-after-a-car-accident-in-san-diego.html",
-        "bytes": 19879,
+        "bytes": 12992,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-after-a-car-accident.html",
-        "bytes": 20582,
+        "bytes": 13793,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/navigating-the-personal-injury-claim-process.html",
-        "bytes": 24111,
+        "bytes": 17580,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-you-might-need-a-personal-injury-attorney.html",
-        "bytes": 21466,
+        "bytes": 14614,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/understanding-compensation-in-a-personal-injury-claim.html",
-        "bytes": 20581,
+        "bytes": 13687,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/should-i-talk-to-the-other-driver-s-insurance-after-an-accident.html",
-        "bytes": 20351,
+        "bytes": 13372,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-your-car-is-damaged-after-an-accident.html",
-        "bytes": 18840,
+        "bytes": 11940,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-insurance-offer-for-property-damage-seems-too-low-what-now.html",
-        "bytes": 19311,
+        "bytes": 12355,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-handle-property-damage-claims-after-an-accident.html",
-        "bytes": 22734,
+        "bytes": 16124,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-i-be-arrested-for-driving-after-a-few-drinks.html",
-        "bytes": 18826,
+        "bytes": 11970,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-if-i-get-a-dui-in-san-diego.html",
-        "bytes": 20273,
+        "bytes": 13467,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-criminal-record-is-holding-me-back-what-can-i-do.html",
-        "bytes": 22643,
+        "bytes": 16048,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-expect-when-facing-federal-charges.html",
-        "bytes": 21922,
+        "bytes": 15385,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/will-a-federal-charge-ruin-my-life.html",
-        "bytes": 21307,
+        "bytes": 14552,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-if-you-re-facing-a-federal-investigation.html",
-        "bytes": 22060,
+        "bytes": 15180,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-does-my-state-criminal-case-feel-so-complicated.html",
-        "bytes": 23601,
+        "bytes": 16727,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-i-clear-my-record-after-a-state-conviction.html",
-        "bytes": 22483,
+        "bytes": 15626,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-if-you-re-facing-a-misdemeanor-in-san-diego.html",
-        "bytes": 22737,
+        "bytes": 15830,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-if-i-m-charged-with-a-misdemeanor.html",
-        "bytes": 19597,
+        "bytes": 12755,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-facing-misdemeanor-charges.html",
-        "bytes": 20427,
+        "bytes": 13549,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-professional-for-a-misdemeanor-charge.html",
-        "bytes": 20834,
+        "bytes": 13941,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-consequences-of-a-felony-conviction.html",
-        "bytes": 20778,
+        "bytes": 13916,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/myths-vs-facts-about-felony-defense.html",
-        "bytes": 21146,
+        "bytes": 14375,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-navigate-the-felony-case-process.html",
-        "bytes": 22075,
+        "bytes": 15567,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-child-was-arrested-what-do-i-do-next.html",
-        "bytes": 19055,
+        "bytes": 12250,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-a-juvenile-record-impact-their-future.html",
-        "bytes": 18840,
+        "bytes": 12039,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-protect-your-child-s-rights-during-a-police-investigation.html",
-        "bytes": 20235,
+        "bytes": 13261,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/facing-domestic-violence-charges-what-are-my-options.html",
-        "bytes": 19110,
+        "bytes": 12217,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-can-i-defend-myself-against-domestic-violence-allegations.html",
-        "bytes": 19864,
+        "bytes": 12929,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-if-i-m-falsely-accused-of-domestic-violence.html",
-        "bytes": 19141,
+        "bytes": 12288,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-if-i-m-accused-of-a-drug-crime.html",
-        "bytes": 19489,
+        "bytes": 12656,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/5-common-mistakes-people-make-after-a-drug-arrest.html",
-        "bytes": 19001,
+        "bytes": 12141,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-a-drug-crime-considered-felony-level.html",
-        "bytes": 18656,
+        "bytes": 11831,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-navigate-a-felony-drug-charge-investigation.html",
-        "bytes": 23137,
+        "bytes": 16561,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/3-myths-about-drug-crime-charges-in-san-diego.html",
-        "bytes": 19786,
+        "bytes": 12963,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-a-minor-drug-charge-become-a-felony.html",
-        "bytes": 18720,
+        "bytes": 11933,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-after-a-violent-crime-arrest.html",
-        "bytes": 20930,
+        "bytes": 14417,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-contact-a-lawyer-for-a-violent-crime-charge.html",
-        "bytes": 22301,
+        "bytes": 15382,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/myths-about-white-collar-crime-defense.html",
-        "bytes": 23449,
+        "bytes": 16657,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-if-accused-of-a-white-collar-crime.html",
-        "bytes": 22195,
+        "bytes": 15378,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-evidence-matters-in-violent-crime-cases.html",
-        "bytes": 22606,
+        "bytes": 15766,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-early-defense-is-critical-in-white-collar-cases.html",
-        "bytes": 23029,
+        "bytes": 16146,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-when-you-violate-probation-in-san-diego.html",
-        "bytes": 19524,
+        "bytes": 12637,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-fight-a-probation-violation-charge.html",
-        "bytes": 21240,
+        "bytes": 14730,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-a-probation-violation-lead-to-jail-time.html",
-        "bytes": 19125,
+        "bytes": 12298,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-should-i-do-if-i-m-accused-of-a-hit-and-run.html",
-        "bytes": 19805,
+        "bytes": 12961,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/understanding-the-penalties-for-hit-and-run-in-california.html",
-        "bytes": 19732,
+        "bytes": 12816,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-in-a-hit-and-run-investigation.html",
-        "bytes": 20858,
+        "bytes": 14011,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-should-i-do-immediately-after-a-car-accident.html",
-        "bytes": 19540,
+        "bytes": 12656,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-do-i-deal-with-the-insurance-company-after-a-car-accident.html",
-        "bytes": 17953,
+        "bytes": 10997,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-contact-a-personal-injury-attorney.html",
-        "bytes": 19765,
+        "bytes": 12909,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-personal-injury-case-seems-to-be-taking-forever-what-s-going-on.html",
-        "bytes": 22221,
+        "bytes": 15227,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-your-car-accident-claim-is-denied.html",
-        "bytes": 22989,
+        "bytes": 16426,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-when-my-car-is-damaged-after-an-accident.html",
-        "bytes": 20022,
+        "bytes": 13122,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/5-mistakes-to-avoid-after-your-car-is-damaged-in-an-accident.html",
-        "bytes": 20780,
+        "bytes": 13831,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-contact-an-attorney-for-property-damage.html",
-        "bytes": 20815,
+        "bytes": 13918,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/facing-criminal-charges-what-now.html",
-        "bytes": 19933,
+        "bytes": 13177,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/timeline-what-to-expect-when-facing-dui-charges-in-california.html",
-        "bytes": 24030,
+        "bytes": 17377,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-i-clear-my-record-after-a-criminal-conviction.html",
-        "bytes": 20749,
+        "bytes": 13889,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/facing-federal-charges-what-happens-next.html",
-        "bytes": 22239,
+        "bytes": 15724,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-in-a-federal-criminal-case.html",
-        "bytes": 21993,
+        "bytes": 15159,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-you-need-a-federal-criminal-defense-attorney.html",
-        "bytes": 21379,
+        "bytes": 14520,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-if-i-m-accused-of-a-state-crime.html",
-        "bytes": 21265,
+        "bytes": 14493,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-do-you-need-a-state-criminal-defense-lawyer.html",
-        "bytes": 21804,
+        "bytes": 14911,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-a-state-criminal-defense-lawyer-helps-your-case.html",
-        "bytes": 22492,
+        "bytes": 15618,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-if-my-misdemeanor-case-goes-to-court.html",
-        "bytes": 20268,
+        "bytes": 13396,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/misdemeanor-charges-5-mistakes-to-avoid.html",
-        "bytes": 20103,
+        "bytes": 13310,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-get-legal-help-for-a-misdemeanor.html",
-        "bytes": 21007,
+        "bytes": 14118,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-after-being-charged-with-a-felony.html",
-        "bytes": 20861,
+        "bytes": 14024,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-facing-felony-charges.html",
-        "bytes": 20467,
+        "bytes": 13648,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-protect-your-rights-after-a-felony-arrest-a-timeline.html",
-        "bytes": 25796,
+        "bytes": 19151,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-child-was-arrested-what-happens-next.html",
-        "bytes": 18020,
+        "bytes": 11218,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-your-child-faces-juvenile-charges.html",
-        "bytes": 20688,
+        "bytes": 13761,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-call-a-juvenile-defense-attorney.html",
-        "bytes": 20790,
+        "bytes": 13910,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/accused-of-domestic-violence-what-happens-next.html",
-        "bytes": 23721,
+        "bytes": 17170,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-facing-domestic-violence-charges.html",
-        "bytes": 20848,
+        "bytes": 13934,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/myths-vs-facts-domestic-violence-accusations-in-san-diego.html",
-        "bytes": 21444,
+        "bytes": 14513,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-mistakes-people-make-in-drug-crime-cases.html",
-        "bytes": 19100,
+        "bytes": 12260,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-contact-a-lawyer-for-a-drug-offense.html",
-        "bytes": 19898,
+        "bytes": 13020,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/myths-vs-facts-about-felony-drug-charges.html",
-        "bytes": 20034,
+        "bytes": 13234,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-fight-a-felony-drug-charge-a-step-by-step-guide.html",
-        "bytes": 24299,
+        "bytes": 17698,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-penalties-for-felony-drug-charges-in-california.html",
-        "bytes": 20231,
+        "bytes": 13306,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-if-you-re-accused-of-a-violent-crime.html",
-        "bytes": 20133,
+        "bytes": 13296,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-you-need-a-violent-crime-defense-attorney.html",
-        "bytes": 20787,
+        "bytes": 13929,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/understanding-violent-crime-charges-myths-vs-facts.html",
-        "bytes": 21376,
+        "bytes": 14497,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-after-a-white-collar-crime-accusation.html",
-        "bytes": 21823,
+        "bytes": 15247,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-in-white-collar-crime-investigations.html",
-        "bytes": 20963,
+        "bytes": 14062,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-you-contact-a-white-collar-crime-lawyer.html",
-        "bytes": 21548,
+        "bytes": 14668,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-when-you-break-probation-in-san-diego.html",
-        "bytes": 18877,
+        "bytes": 11995,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/thinking-about-ignoring-a-probation-violation-read-this-first.html",
-        "bytes": 19317,
+        "bytes": 12358,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-misconceptions-about-probation-violations.html",
-        "bytes": 19712,
+        "bytes": 12868,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-after-a-hit-and-run-accident-in-san-diego.html",
-        "bytes": 19436,
+        "bytes": 12543,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-i-avoid-jail-for-a-hit-and-run-in-california.html",
-        "bytes": 19099,
+        "bytes": 12234,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-you-need-a-lawyer-for-a-hit-and-run-charge.html",
-        "bytes": 19294,
+        "bytes": 12443,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-right-after-a-car-accident.html",
-        "bytes": 19198,
+        "bytes": 12405,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-navigate-initial-insurance-calls-after-an-accident.html",
-        "bytes": 19499,
+        "bytes": 12877,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/myths-about-personal-injury-claims-you-should-ignore.html",
-        "bytes": 20026,
+        "bytes": 13142,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-talk-to-a-personal-injury-attorney-about-your-accident.html",
-        "bytes": 19992,
+        "bytes": 13041,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-if-my-injuries-don-t-show-up-right-away-after-a-car-crash.html",
-        "bytes": 19736,
+        "bytes": 12785,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/dealing-with-the-aftermath-of-a-serious-car-accident.html",
-        "bytes": 19843,
+        "bytes": 12953,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-car-was-damaged-in-an-accident-now-what.html",
-        "bytes": 18851,
+        "bytes": 12025,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-your-insurance-claim-is-denied-after-property-damage.html",
-        "bytes": 19143,
+        "bytes": 12162,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-recover-costs-after-someone-else-damages-your-property.html",
-        "bytes": 24960,
+        "bytes": 18310,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/accused-of-a-crime-understanding-your-next-steps.html",
-        "bytes": 18698,
+        "bytes": 11836,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-if-i-miss-a-court-date-for-a-criminal-charge.html",
-        "bytes": 18720,
+        "bytes": 11798,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-i-fight-a-dui-charge-in-california.html",
-        "bytes": 18565,
+        "bytes": 11767,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-if-i-m-accused-of-a-federal-crime.html",
-        "bytes": 24740,
+        "bytes": 18186,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/myths-about-federal-criminal-defense-you-need-to-know.html",
-        "bytes": 22492,
+        "bytes": 15598,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-contact-a-federal-criminal-defense-attorney.html",
-        "bytes": 21427,
+        "bytes": 14499,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-after-being-arrested-for-a-state-crime.html",
-        "bytes": 21852,
+        "bytes": 14989,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-mistakes-to-avoid-in-state-criminal-cases.html",
-        "bytes": 22365,
+        "bytes": 15512,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/do-i-really-need-a-state-criminal-defense-lawyer.html",
-        "bytes": 22210,
+        "bytes": 15299,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-a-misdemeanor-charge-feels-overwhelming-what-to-do.html",
-        "bytes": 20939,
+        "bytes": 14031,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-navigate-a-misdemeanor-charge-in-california.html",
-        "bytes": 20481,
+        "bytes": 13902,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/misdemeanor-charge-in-san-diego-myths-vs-facts.html",
-        "bytes": 20982,
+        "bytes": 14116,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/facing-a-felony-charge-what-to-expect-next.html",
-        "bytes": 22267,
+        "bytes": 15456,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/felony-charges-common-mistakes-to-avoid.html",
-        "bytes": 21870,
+        "bytes": 15074,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-there-any-way-out-of-a-felony-conviction.html",
-        "bytes": 22349,
+        "bytes": 15522,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-juvenile-records-affect-my-child-s-future.html",
-        "bytes": 19077,
+        "bytes": 12230,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-protect-your-child-s-rights-in-juvenile-court.html",
-        "bytes": 23477,
+        "bytes": 16890,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/accused-of-domestic-violence-what-are-my-immediate-steps.html",
-        "bytes": 19481,
+        "bytes": 12557,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/will-a-domestic-violence-charge-impact-my-job.html",
-        "bytes": 19378,
+        "bytes": 12555,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-i-fight-a-domestic-violence-restraining-order.html",
-        "bytes": 21049,
+        "bytes": 14189,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-after-a-drug-arrest-in-san-diego.html",
-        "bytes": 18574,
+        "bytes": 11730,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-accused-of-a-drug-crime.html",
-        "bytes": 20404,
+        "bytes": 13550,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-misconceptions-about-drug-crime-penalties.html",
-        "bytes": 21441,
+        "bytes": 14579,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/understanding-the-stages-of-a-felony-drug-case.html",
-        "bytes": 23480,
+        "bytes": 16938,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-you-need-a-lawyer-for-felony-drug-charges.html",
-        "bytes": 21500,
+        "bytes": 14671,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-my-drug-possession-charge-a-felony-or-misdemeanor.html",
-        "bytes": 21499,
+        "bytes": 14603,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/avoiding-common-white-collar-crime-defense-mistakes.html",
-        "bytes": 19112,
+        "bytes": 12526,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-do-you-need-a-violent-crime-attorney.html",
-        "bytes": 20290,
+        "bytes": 13474,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/myths-vs-facts-white-collar-crime-allegations.html",
-        "bytes": 21488,
+        "bytes": 14641,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-address-false-accusations-of-violent-crime.html",
-        "bytes": 20592,
+        "bytes": 13720,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/7-signs-you-might-be-under-investigation-for-a-white-collar-crime.html",
-        "bytes": 18367,
+        "bytes": 11410,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-you-re-accused-of-probation-violation-in-san-diego.html",
-        "bytes": 19182,
+        "bytes": 12194,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/myths-vs-facts-about-probation-violations.html",
-        "bytes": 19866,
+        "bytes": 13056,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/avoiding-common-probation-violation-mistakes-in-san-diego.html",
-        "bytes": 20499,
+        "bytes": 13595,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/i-was-involved-in-a-hit-and-run-in-san-diego-what-now.html",
-        "bytes": 19541,
+        "bytes": 12632,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-if-you-re-accused-of-a-hit-and-run.html",
-        "bytes": 20098,
+        "bytes": 13217,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-hit-and-run-defense-lawyer-in-san-diego.html",
-        "bytes": 20301,
+        "bytes": 13400,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-right-after-a-car-accident-in-san-diego.html",
-        "bytes": 19200,
+        "bytes": 12336,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-navigate-a-car-accident-claim-in-san-diego.html",
-        "bytes": 23932,
+        "bytes": 17360,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-my-car-accident-claim-strong-enough-for-compensation.html",
-        "bytes": 19384,
+        "bytes": 12485,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/avoiding-common-pitfalls-in-your-personal-injury-claim.html",
-        "bytes": 19761,
+        "bytes": 12875,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/debunking-myths-about-personal-injury-cases.html",
-        "bytes": 19847,
+        "bytes": 13035,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-you-contact-a-personal-injury-attorney.html",
-        "bytes": 20544,
+        "bytes": 13680,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-your-car-is-totaled-but-you-re-not-hurt.html",
-        "bytes": 20753,
+        "bytes": 13839,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-after-your-car-s-been-damaged.html",
-        "bytes": 20713,
+        "bytes": 13864,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-you-need-help-recovering-property-damage-after-an-accident.html",
-        "bytes": 21660,
+        "bytes": 14702,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-when-you-re-arrested-a-step-by-step-guide.html",
-        "bytes": 25474,
+        "bytes": 18864,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/myths-vs-facts-about-criminal-charges-in-california.html",
-        "bytes": 22481,
+        "bytes": 15607,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-you-need-a-criminal-defense-attorney-in-san-diego-county.html",
-        "bytes": 22175,
+        "bytes": 15243,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-after-a-federal-arrest.html",
-        "bytes": 18477,
+        "bytes": 11706,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/myths-about-federal-criminal-cases-you-should-ignore.html",
-        "bytes": 19271,
+        "bytes": 12387,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-if-you-re-accused-of-a-state-crime.html",
-        "bytes": 19102,
+        "bytes": 12282,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-mistakes-in-state-criminal-cases.html",
-        "bytes": 19672,
+        "bytes": 12873,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/navigating-the-state-criminal-justice-system.html",
-        "bytes": 21026,
+        "bytes": 14495,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-if-you-re-charged-with-a-misdemeanor-in-san-diego.html",
-        "bytes": 19127,
+        "bytes": 12184,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-a-misdemeanor-conviction-permanent.html",
-        "bytes": 18778,
+        "bytes": 11993,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/misdemeanor-defense-mistakes-to-avoid.html",
-        "bytes": 17621,
+        "bytes": 10836,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-after-a-felony-arrest-in-california.html",
-        "bytes": 22835,
+        "bytes": 16273,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-a-felony-charge-be-reduced-to-a-misdemeanor.html",
-        "bytes": 19137,
+        "bytes": 12285,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-get-legal-help-for-a-felony.html",
-        "bytes": 21023,
+        "bytes": 14172,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-when-my-child-is-accused-of-a-crime.html",
-        "bytes": 19648,
+        "bytes": 12786,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-mistakes-parents-make-in-juvenile-cases.html",
-        "bytes": 19753,
+        "bytes": 12905,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-navigate-the-juvenile-justice-system-in-san-diego.html",
-        "bytes": 24003,
+        "bytes": 17388,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-consequences-of-a-domestic-violence-conviction.html",
-        "bytes": 20041,
+        "bytes": 13096,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/myths-about-domestic-violence-charges-in-california.html",
-        "bytes": 20775,
+        "bytes": 13889,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/recognizing-when-you-need-a-domestic-violence-defense-lawyer.html",
-        "bytes": 21381,
+        "bytes": 14438,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-if-you-re-accused-of-a-drug-crime.html",
-        "bytes": 19100,
+        "bytes": 12281,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-you-get-a-lawyer-for-drug-charges.html",
-        "bytes": 19960,
+        "bytes": 13137,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-misconceptions-about-drug-crime-defense.html",
-        "bytes": 19954,
+        "bytes": 13106,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/facing-felony-drug-charges-your-immediate-steps.html",
-        "bytes": 23039,
+        "bytes": 16484,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-in-a-drug-possession-case.html",
-        "bytes": 20953,
+        "bytes": 14144,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/understanding-the-consequences-of-felony-drug-convictions.html",
-        "bytes": 21234,
+        "bytes": 14318,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-after-a-violent-crime-arrest-in-san-diego.html",
-        "bytes": 19475,
+        "bytes": 12583,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-when-facing-violent-crime-charges.html",
-        "bytes": 19380,
+        "bytes": 12497,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-get-legal-help-for-assault-charges.html",
-        "bytes": 19495,
+        "bytes": 12678,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-my-financial-activity-considered-a-white-collar-crime.html",
-        "bytes": 20076,
+        "bytes": 13155,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/understanding-your-rights-in-a-white-collar-crime-investigation.html",
-        "bytes": 19764,
+        "bytes": 12818,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-respond-to-a-white-collar-crime-accusation.html",
-        "bytes": 20761,
+        "bytes": 14195,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-if-i-violate-my-probation-in-san-diego.html",
-        "bytes": 21693,
+        "bytes": 14807,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-i-avoid-jail-time-for-a-probation-violation.html",
-        "bytes": 21027,
+        "bytes": 14175,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-is-my-probation-officer-so-strict.html",
-        "bytes": 21039,
+        "bytes": 14269,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-should-i-do-after-a-hit-and-run-accident.html",
-        "bytes": 21322,
+        "bytes": 14781,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/will-a-hit-and-run-conviction-affect-my-driver-s-license.html",
-        "bytes": 21657,
+        "bytes": 14736,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-if-i-didn-t-know-i-hit-someone.html",
-        "bytes": 21306,
+        "bytes": 14529,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-car-accident-claim-is-being-denied-what-now.html",
-        "bytes": 20194,
+        "bytes": 13346,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-immediately-after-a-car-accident-to-protect-your-rights.html",
-        "bytes": 20745,
+        "bytes": 13760,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-if-i-settle-my-car-accident-claim-too-early.html",
-        "bytes": 20603,
+        "bytes": 13679,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-handle-insurance-companies-after-a-car-accident.html",
-        "bytes": 21296,
+        "bytes": 14392,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-it-time-to-get-a-personal-injury-attorney.html",
-        "bytes": 21063,
+        "bytes": 14194,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-s-the-process-for-a-car-accident-injury-claim.html",
-        "bytes": 21821,
+        "bytes": 15245,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-isn-t-my-insurance-paying-for-my-property-damage-after-an-accident.html",
-        "bytes": 22709,
+        "bytes": 15684,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-if-i-disagree-with-my-property-damage-settlement-offer.html",
-        "bytes": 21402,
+        "bytes": 14763,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-is-the-right-time-to-seek-legal-help-for-property-damage.html",
-        "bytes": 22570,
+        "bytes": 15626,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-should-i-do-if-i-m-accused-of-a-misdemeanor-in-california.html",
-        "bytes": 20759,
+        "bytes": 14099,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-a-past-criminal-record-still-haunt-my-job-search.html",
-        "bytes": 22546,
+        "bytes": 15650,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-differences-between-misdemeanor-and-felony-charges-in-california.html",
-        "bytes": 23316,
+        "bytes": 16245,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/facing-federal-charges-what-should-i-do-first.html",
-        "bytes": 18964,
+        "bytes": 12117,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-in-a-federal-criminal-investigation.html",
-        "bytes": 19333,
+        "bytes": 12445,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/myths-about-federal-criminal-defense-debunked.html",
-        "bytes": 19801,
+        "bytes": 12975,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-stages-of-a-state-criminal-case.html",
-        "bytes": 21798,
+        "bytes": 15264,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/just-been-arrested-on-state-charges-here-s-what-to-know.html",
-        "bytes": 19336,
+        "bytes": 12413,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-a-state-criminal-defense-lawyer.html",
-        "bytes": 21198,
+        "bytes": 14361,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-when-you-re-charged-with-a-misdemeanor-in-california.html",
-        "bytes": 19333,
+        "bytes": 12361,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/misdemeanor-charges-common-mistakes-to-avoid.html",
-        "bytes": 18982,
+        "bytes": 12145,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-do-you-need-an-attorney-for-a-misdemeanor.html",
-        "bytes": 19894,
+        "bytes": 13064,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-should-i-do-if-i-m-accused-of-a-felony.html",
-        "bytes": 19211,
+        "bytes": 12387,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/understanding-the-timeline-of-a-felony-case.html",
-        "bytes": 22123,
+        "bytes": 15599,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/can-a-felony-be-reduced-to-a-misdemeanor-in-california.html",
-        "bytes": 19753,
+        "bytes": 12870,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-child-was-arrested-what-now.html",
-        "bytes": 18432,
+        "bytes": 11681,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-common-myths-about-juvenile-cases.html",
-        "bytes": 19514,
+        "bytes": 12666,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-navigate-the-juvenile-court-system.html",
-        "bytes": 25124,
+        "bytes": 18611,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/facing-domestic-violence-accusations-what-should-i-do-first.html",
-        "bytes": 18782,
+        "bytes": 11837,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-are-the-long-term-consequences-of-a-domestic-violence-conviction.html",
-        "bytes": 21478,
+        "bytes": 14749,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/is-a-restraining-order-permanent.html",
-        "bytes": 17239,
+        "bytes": 10492,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-after-a-drug-crime-arrest.html",
-        "bytes": 18404,
+        "bytes": 11607,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-you-need-a-drug-crime-defense-attorney.html",
-        "bytes": 19468,
+        "bytes": 12643,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/facing-felony-drug-charges-what-you-need-to-know.html",
-        "bytes": 18619,
+        "bytes": 11754,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-a-felony-drug-conviction-impacts-your-future.html",
-        "bytes": 18834,
+        "bytes": 11969,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/myths-about-felony-drug-crime-defense.html",
-        "bytes": 20147,
+        "bytes": 13374,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-immediately-after-a-violent-crime-allegation.html",
-        "bytes": 19842,
+        "bytes": 12934,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/myths-about-violent-crime-charges-you-shouldn-t-believe.html",
-        "bytes": 20249,
+        "bytes": 13344,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/understanding-the-process-of-defending-a-violent-crime-charge.html",
-        "bytes": 22242,
+        "bytes": 15592,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/my-company-is-under-investigation-for-white-collar-crime-what-now.html",
-        "bytes": 20459,
+        "bytes": 13472,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-mistakes-people-make-in-white-collar-crime-cases.html",
-        "bytes": 20387,
+        "bytes": 13485,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-do-you-need-a-white-collar-crime-defense-lawyer.html",
-        "bytes": 20422,
+        "bytes": 13526,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-when-you-violate-probation.html",
-        "bytes": 19753,
+        "bytes": 12951,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/probation-violation-myths-vs-facts.html",
-        "bytes": 20908,
+        "bytes": 14135,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-your-probation-officer-is-accusing-you-of-a-violation.html",
-        "bytes": 20994,
+        "bytes": 13991,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-to-fight-a-hit-and-run-charge-in-san-diego.html",
-        "bytes": 20952,
+        "bytes": 14101,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/will-i-lose-my-license-after-a-hit-and-run.html",
-        "bytes": 20485,
+        "bytes": 13680,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-to-call-you-re-accused-of-a-hit-and-run.html",
-        "bytes": 20693,
+        "bytes": 13859,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-should-i-contact-a-personal-injury-attorney-after-an-accident.html",
-        "bytes": 19226,
+        "bytes": 12229,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/mistakes-to-avoid-in-your-personal-injury-claim.html",
-        "bytes": 19675,
+        "bytes": 12829,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-your-personal-injury-claim-stalls.html",
-        "bytes": 18972,
+        "bytes": 12109,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-immediately-after-a-car-accident.html",
-        "bytes": 20761,
+        "bytes": 14217,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/why-you-shouldn-t-talk-to-the-insurance-company-alone-after-an-accident.html",
-        "bytes": 19597,
+        "bytes": 12571,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/signs-your-car-accident-settlement-offer-is-too-low.html",
-        "bytes": 19344,
+        "bytes": 12461,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-immediately-after-a-car-accident-in-san-diego.html",
-        "bytes": 19414,
+        "bytes": 12499,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/myths-vs-facts-about-property-damage-claims-after-an-accident.html",
-        "bytes": 20318,
+        "bytes": 13368,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/5-mistakes-that-can-hurt-your-car-accident-claim-value.html",
-        "bytes": 20980,
+        "bytes": 14079,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-if-you-re-accused-of-a-crime-in-san-diego-county.html",
-        "bytes": 19634,
+        "bytes": 12695,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/understanding-the-criminal-justice-process-a-step-by-step-guide.html",
-        "bytes": 24135,
+        "bytes": 17468,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/7-signs-you-need-a-criminal-defense-lawyer-in-san-diego.html",
-        "bytes": 20821,
+        "bytes": 13925,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-after-a-federal-criminal-charge.html",
-        "bytes": 24378,
+        "bytes": 17838,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/5-common-mistakes-in-federal-criminal-cases.html",
-        "bytes": 21335,
+        "bytes": 14526,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-facing-state-criminal-charges.html",
-        "bytes": 25056,
+        "bytes": 18512,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/myths-vs-facts-about-state-criminal-defense.html",
-        "bytes": 21226,
+        "bytes": 14411,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-happens-when-you-re-charged-with-a-misdemeanor.html",
-        "bytes": 18661,
+        "bytes": 11778,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/common-misconceptions-about-misdemeanor-charges.html",
-        "bytes": 18998,
+        "bytes": 12146,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/when-do-i-need-a-lawyer-for-a-misdemeanor.html",
-        "bytes": 18837,
+        "bytes": 12012,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/facing-a-felony-what-steps-should-i-take.html",
-        "bytes": 19515,
+        "bytes": 13009,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/how-can-i-avoid-a-felony-conviction.html",
-        "bytes": 19220,
+        "bytes": 12443,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/protecting-your-future-after-a-felony-charge.html",
-        "bytes": 19304,
+        "bytes": 12470,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/navigating-the-juvenile-justice-system-where-do-we-start.html",
-        "bytes": 21364,
+        "bytes": 14743,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/5-myths-about-juvenile-cases-that-could-harm-your-child.html",
-        "bytes": 20828,
+        "bytes": 13929,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/what-to-do-when-accused-of-domestic-violence.html",
-        "bytes": 19534,
+        "bytes": 12706,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/5-mistakes-to-avoid-when-facing-domestic-violence-charges.html",
-        "bytes": 20064,
+        "bytes": 13136,
         "purpose": "LLM-optimized public page"
       },
       {
         "path": "help/understanding-your-rights-in-a-domestic-violence-investigation.html",
-        "bytes": 20565,
+        "bytes": 13605,
         "purpose": "LLM-optimized public page"
       }
     ],
