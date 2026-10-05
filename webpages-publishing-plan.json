@@ -1,0 +1,398 @@
+{
+  "version": 1,
+  "approved": [],
+  "noindex": [
+    {
+      "path": "webpages/personal-injury-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/car-accident-injury-claims-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/property-damage-recovery-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/criminal-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/federal-criminal-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/state-criminal-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/misdemeanor-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/felony-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/juvenile-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/domestic-violence-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/drug-crime-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/felony-drug-crime-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/violent-crime-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/white-collar-crime-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/probation-violation-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/hit-and-run-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/restraining-order-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/vehicular-manslaughter-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/dui-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/first-time-dui-offense-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/repeat-dui-offense-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/felony-dui-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/juvenile-dui-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/dui-with-injury-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/drug-dui-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/domestic-violence-dui-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/vehicular-manslaughter-dui-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/reckless-driving-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/dui-diversion-program-assistance-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/dmv-hearings-and-license-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/dui-license-suspension-hearings-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/expungements-and-record-clearing-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/expungements-and-record-sealing-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/criminal-appeals-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/post-conviction-relief-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/truck-accident-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/motorcycle-accident-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/pedestrian-accident-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bicycle-accident-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/rideshare-accident-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/uber-accident-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/lyft-accident-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/wrongful-death-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/catastrophic-injury-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/traumatic-brain-injury-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/spinal-cord-injury-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/burn-injury-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/premises-liability-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/slip-and-fall-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/negligent-security-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/uninsured-motorist-claims-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/underinsured-motorist-claims-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/insurance-bad-faith-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/assault-and-battery-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/aggravated-assault-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/homicide-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/murder-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/robbery-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/burglary-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/theft-crime-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/grand-theft-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/shoplifting-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/fraud-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/identity-theft-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/embezzlement-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/forgery-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/weapons-charges-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/firearm-charges-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/gun-crime-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sex-crime-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/sexual-assault-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/solicitation-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/prostitution-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/criminal-threats-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/stalking-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/vandalism-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/arson-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/trespassing-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/disorderly-conduct-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/resisting-arrest-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/obstruction-of-justice-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/failure-to-appear-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bench-warrant-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/arrest-warrant-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bail-hearing-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/bond-hearing-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/pre-filing-investigation-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/police-investigation-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/search-and-seizure-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/motion-to-suppress-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/illegal-search-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/driving-on-a-suspended-license-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/driving-without-a-license-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/street-racing-defense-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/evading-police-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/commercial-driver-dui-lawyer-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/underage-dui-defense-attorney-hub.html",
+      "status": "needs_review"
+    },
+    {
+      "path": "webpages/boating-under-the-influence-lawyer-hub.html",
+      "status": "needs_review"
+    }
+  ]
+}
