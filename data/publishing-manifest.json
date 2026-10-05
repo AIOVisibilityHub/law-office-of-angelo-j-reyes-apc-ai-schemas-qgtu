@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "generatedAt": "2026-10-05T23:14:51.654Z",
+  "generatedAt": "2026-10-05T23:19:12.383Z",
   "client": {
     "name": "Law Office of Angelo J. Reyes, APC",
     "canonicalUrl": "https://angeloreyeslaw.aiovisibility.net",
@@ -169,7 +169,7 @@
   },
   "package": {
     "totalFiles": 512,
-    "totalBytes": 3208090,
+    "totalBytes": 3217145,
     "stats": {
       "qna": 0,
       "faqs": 112,
@@ -2715,7 +2715,7 @@
       },
       {
         "path": "llms.txt",
-        "bytes": 5045,
+        "bytes": 5960,
         "purpose": "LLM hint"
       },
       {
@@ -2735,32 +2735,32 @@
       },
       {
         "path": "related-destinations.json",
-        "bytes": 1723,
+        "bytes": 4174,
         "purpose": "Cross-Destination Index (Related AI Data Sources)"
       },
       {
         "path": "ai-data.html",
-        "bytes": 215124,
+        "bytes": 217153,
         "purpose": "Master AI data index"
       },
       {
         "path": "llms-full.txt",
-        "bytes": 62385,
+        "bytes": 63300,
         "purpose": "Extended LLM context"
       },
       {
         "path": "llms-full.md",
-        "bytes": 62385,
+        "bytes": 63300,
         "purpose": "Extended LLM context (markdown)"
       },
       {
         "path": "full-context.md",
-        "bytes": 5032,
+        "bytes": 5947,
         "purpose": "Full markdown context"
       },
       {
         "path": "README.md",
-        "bytes": 71008,
+        "bytes": 71923,
         "purpose": "Repository README"
       },
       {
@@ -2780,6 +2780,25 @@
       "url": "https://github.com/AIOVisibilityHub/law-office-of-angelo-j-reyes-apc-ai-schemas-qgtu",
       "pagesUrl": "https://angeloreyeslaw.aiovisibility.net/",
       "repo": "AIOVisibilityHub/law-office-of-angelo-j-reyes-apc-ai-schemas-qgtu"
+    },
+    "gitlab": {
+      "url": "https://gitlab.com/aiovisibilityhub/law-office-of-angelo-j-reyes-apc-ai-schemas-k7el",
+      "pagesUrl": "https://law-office-of-angelo-j-reyes-apc-ai-schemas-k7el-8179cf.gitlab.io/"
+    },
+    "codeberg": {
+      "url": "https://codeberg.org/aiovisibilityhub/law-office-of-angelo-j-reyes-apc-ai-schemas",
+      "pagesUrl": "https://aiovisibilityhub.codeberg.page/law-office-of-angelo-j-reyes-apc-ai-schemas/",
+      "repo": "aiovisibilityhub/law-office-of-angelo-j-reyes-apc-ai-schemas"
+    },
+    "kaggle": {
+      "url": "https://www.kaggle.com/datasets/aiovisibilityhub/law-office-of-angelo-j-reyes-apc-ai-schemas"
+    },
+    "sourcehut": {
+      "url": "https://aiovisibilityhub.srht.site/",
+      "pagesUrl": "https://aiovisibilityhub.srht.site/"
+    },
+    "zenodo": {
+      "url": "https://zenodo.org/record/23173892"
     }
   }
 }
