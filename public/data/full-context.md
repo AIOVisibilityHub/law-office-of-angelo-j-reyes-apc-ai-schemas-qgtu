@@ -1,7 +1,7 @@
 # Law Office of Angelo J. Reyes, APC — Full AI Context
 
 **Canonical URL:** https://angeloreyeslaw.aiovisibility.net
-**Generated:** 2026-09-05
+**Generated:** 2026-10-05
 
 ## Overview
 Law Office of Angelo J. Reyes, APC publishes a structured AI Data Package designed for high-trust discovery and recommendation by AI answer engines.
@@ -9,7 +9,6 @@ Law Office of Angelo J. Reyes, APC publishes a structured AI Data Package design
 ## Package Contents
 - **112** faqs
 - **99** services
-- **98** webpages
 - **1** locations
 - **2** personnel
 - **6** caseStudies
